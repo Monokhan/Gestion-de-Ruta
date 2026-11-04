@@ -1,0 +1,109 @@
+# Corrida programada: correo → trabajos, TomTom → incidentes y flujo, alertas por correo,
+# histórico en la rama `data` y publicación del sitio en GitHub Pages.
+name: Operación
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"        # cada 20 min (UTC). Las frecuencias reales se controlan en config.yml
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Forzar consulta de incidentes y tráfico ahora"
+        type: boolean
+        default: false
+  push:                            # cambios en la app o la configuración → solo vuelve a publicar
+    branches: [main]
+    paths: ["app/**", "config.yml", "pipeline/rdm/site.py", ".github/workflows/operacion.yml"]
+
+permissions:
+  contents: write      # guardar históricos en la rama data
+  pages: write         # publicar el sitio
+  id-token: write      # requerido por deploy-pages
+  actions: write       # mantener activo el cron (ver último paso)
+
+concurrency:
+  group: operacion
+  cancel-in-progress: false
+
+env:
+  PYTHONPATH: pipeline
+  TZ: America/Santiago
+
+jobs:
+  operar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Preparar rama de datos (datos/)
+        run: |
+          git config --global user.name "rdm-bot"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin data > /dev/null; then
+            git fetch --depth=1 origin data:refs/remotes/origin/data
+            git worktree add -B data datos origin/data
+          else
+            echo "Primera corrida: se crea la rama data vacía"
+            git worktree add --detach datos
+            cd datos && git checkout --orphan data && git rm -rfq . && git clean -fdq
+          fi
+
+      - name: Ejecutar pipeline
+        if: github.event_name != 'push'
+        env:
+          TOMTOM_API_KEY: ${{ secrets.TOMTOM_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="--force-incidents --force-traffic"; fi
+          python -m rdm --data datos run $ARGS
+
+      - name: Guardar histórico en la rama data
+        if: github.event_name != 'push'
+        working-directory: datos
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos"
+          else
+            git commit -qm "datos $(date '+%Y-%m-%d %H:%M')"
+            git push -q origin HEAD:data
+          fi
+
+      - name: Armar sitio
+        run: python -m rdm --data datos build-site --out _site
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      # GitHub desactiva los workflows programados de repos públicos tras 60 días sin actividad.
+      # Re-habilitarlo por API reinicia ese contador sin generar commits en main.
+      - name: Mantener activo el cron
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(date -u +%d%H)" = "0100" ] || [ "$(date -u +%d%H)" = "1500" ]; then
+            gh api -X PUT "repos/${{ github.repository }}/actions/workflows/operacion.yml/enable" && echo "cron re-habilitado"
+          fi

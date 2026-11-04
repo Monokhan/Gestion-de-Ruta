@@ -1,0 +1,357 @@
+{
+ "_note": "Muestra real del corredor (TomTom Incident Details v5, 03-11-2026) reducida a 2 puntos por geometría",
+ "incidents": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.78261,
+      -33.73135
+     ],
+     [
+      -70.78288,
+      -33.73167
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-00",
+    "iconCategory": 8,
+    "magnitudeOfDelay": 4,
+    "delay": null,
+    "length": 43,
+    "roadNumbers": [],
+    "from": "Calle Purisima",
+    "to": "Calle Serrano",
+    "events": [
+     {
+      "code": 401,
+      "description": "Cerrado",
+      "iconCategory": 8
+     }
+    ],
+    "startTime": "2026-10-31T17:19:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.74067,
+      -33.75481
+     ],
+     [
+      -70.74318,
+      -33.77043
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-01",
+    "iconCategory": 6,
+    "magnitudeOfDelay": 3,
+    "delay": 226,
+    "length": 1753,
+    "roadNumbers": [
+     "5"
+    ],
+    "from": "exit [25s]",
+    "to": "Carretera Panamericana",
+    "events": [
+     {
+      "code": 101,
+      "description": "Tráfico parado",
+      "iconCategory": 6
+     }
+    ],
+    "startTime": "2026-11-03T23:52:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.73552,
+      -33.76225
+     ],
+     [
+      -70.73418,
+      -33.76161
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-02",
+    "iconCategory": 8,
+    "magnitudeOfDelay": 4,
+    "delay": null,
+    "length": 143,
+    "roadNumbers": [
+     "G-513"
+    ],
+    "from": "Avenida Francisco Javier Kru",
+    "to": "Calle Camino El Cerrillo",
+    "events": [
+     {
+      "code": 401,
+      "description": "Cerrado",
+      "iconCategory": 8
+     }
+    ],
+    "startTime": "2025-11-07T09:52:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.72253,
+      -33.73499
+     ],
+     [
+      -70.72878,
+      -33.73427
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-03",
+    "iconCategory": 6,
+    "magnitudeOfDelay": 3,
+    "delay": 231,
+    "length": 585,
+    "roadNumbers": [
+     "G-51"
+    ],
+    "from": "Calle Claudio Bravo",
+    "to": "Calle Jose Alberto Bravo / C",
+    "events": [
+     {
+      "code": 101,
+      "description": "Tráfico parado",
+      "iconCategory": 6
+     }
+    ],
+    "startTime": "2026-11-03T23:31:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.70619,
+      -33.97277
+     ],
+     [
+      -70.71055,
+      -33.96148
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-04",
+    "iconCategory": 6,
+    "magnitudeOfDelay": 2,
+    "delay": 91,
+    "length": 1319,
+    "roadNumbers": [
+     "5"
+    ],
+    "from": "Ruta 5 Sur",
+    "to": "Mostazal",
+    "events": [
+     {
+      "code": 108,
+      "description": "Tráfico en cola",
+      "iconCategory": 6
+     }
+    ],
+    "startTime": "2026-11-04T00:14:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.69346,
+      -33.99912
+     ],
+     [
+      -70.69347,
+      -34.00239
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-05",
+    "iconCategory": 6,
+    "magnitudeOfDelay": 3,
+    "delay": 114,
+    "length": 363,
+    "roadNumbers": [],
+    "from": "Mostazal",
+    "to": "Camino La Punta / H-145",
+    "events": [
+     {
+      "code": 101,
+      "description": "Tráfico parado",
+      "iconCategory": 6
+     }
+    ],
+    "startTime": "2026-11-04T00:13:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.61307,
+      -33.56956
+     ],
+     [
+      -70.61136,
+      -33.57007
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-06",
+    "iconCategory": 8,
+    "magnitudeOfDelay": 4,
+    "delay": null,
+    "length": 307,
+    "roadNumbers": [],
+    "from": "Caletera Acceso Sur",
+    "to": "Avenida Cuatro Orienta",
+    "events": [
+     {
+      "code": 401,
+      "description": "Cerrado",
+      "iconCategory": 8
+     }
+    ],
+    "startTime": "2025-10-02T20:56:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.06883,
+      -34.43565
+     ],
+     [
+      -71.07512,
+      -34.4332
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-07",
+    "iconCategory": 6,
+    "magnitudeOfDelay": 3,
+    "delay": 263,
+    "length": 638,
+    "roadNumbers": [
+     "66"
+    ],
+    "from": "Carretera de La Fruta / Call",
+    "to": "Carretera de La Fruta / Call",
+    "events": [
+     {
+      "code": 101,
+      "description": "Tráfico parado",
+      "iconCategory": 6
+     }
+    ],
+    "startTime": "2026-11-04T00:01:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.98797,
+      -34.57234
+     ],
+     [
+      -70.98717,
+      -34.57281
+     ]
+    ]
+   },
+   "properties": {
+    "id": "TTI-fixture-08",
+    "iconCategory": 8,
+    "magnitudeOfDelay": 4,
+    "delay": null,
+    "length": 90,
+    "roadNumbers": [],
+    "from": "Calle Valladolid / Pasaje Má",
+    "to": "Avenida Uno",
+    "events": [
+     {
+      "code": 401,
+      "description": "Cerrado",
+      "iconCategory": 8
+     }
+    ],
+    "startTime": "2026-10-02T17:34:00Z",
+    "endTime": null,
+    "timeValidity": "present",
+    "probabilityOfOccurrence": "certain",
+    "lastReportTime": null
+   }
+  }
+ ]
+}

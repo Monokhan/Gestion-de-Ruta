@@ -1,0 +1,201 @@
+{
+ "ASS": [
+  [
+   0,
+   2.9,
+   "Túnel Acceso Sur"
+  ],
+  [
+   2.9,
+   6,
+   "Gabriela"
+  ],
+  [
+   6,
+   8,
+   "Tocornal"
+  ],
+  [
+   8,
+   11,
+   "Sargento Menadier"
+  ],
+  [
+   11,
+   15,
+   "Quitalmahue"
+  ],
+  [
+   15,
+   21,
+   "Río Maipo Acceso Sur"
+  ],
+  [
+   21,
+   25,
+   "El Recurso"
+  ],
+  [
+   25,
+   32,
+   "Buin - Acceso Sur"
+  ],
+  [
+   32,
+   40,
+   "Paine - Acceso Sur"
+  ],
+  [
+   40,
+   45,
+   "Los Pinos"
+  ],
+  [
+   45,
+   51,
+   "Inicio / Fin Acceso Sur"
+  ]
+ ],
+ "R5": [
+  [
+   29.475,
+   36,
+   "Buin"
+  ],
+  [
+   36,
+   40,
+   "Linderos"
+  ],
+  [
+   40,
+   45,
+   "Paine"
+  ],
+  [
+   45,
+   52,
+   "Champa"
+  ],
+  [
+   52,
+   58,
+   "Angostura"
+  ],
+  [
+   58,
+   60,
+   "Peuco"
+  ],
+  [
+   60,
+   63,
+   "San Francisco Mostazal"
+  ],
+  [
+   63,
+   66.46,
+   "La Punta"
+  ],
+  [
+   66.46,
+   69.45,
+   "Santa Blanca"
+  ],
+  [
+   69.45,
+   94.53,
+   "By Pass Rancagua"
+  ],
+  [
+   94.53,
+   97.5,
+   "Los Lirios"
+  ],
+  [
+   97.5,
+   105,
+   "Requínoa"
+  ],
+  [
+   105,
+   110,
+   "Rosario"
+  ],
+  [
+   110,
+   117,
+   "Rengo"
+  ],
+  [
+   117,
+   127,
+   "Pelequén"
+  ],
+  [
+   127,
+   131,
+   "Polonia"
+  ],
+  [
+   131,
+   133,
+   "El Tambo"
+  ],
+  [
+   133,
+   140,
+   "San Fernando"
+  ],
+  [
+   140,
+   147,
+   "Tinguiririca"
+  ],
+  [
+   147,
+   159,
+   "Chimbarongo"
+  ],
+  [
+   159,
+   167,
+   "Quinta"
+  ],
+  [
+   167,
+   180,
+   "Teno"
+  ],
+  [
+   180,
+   186,
+   "Romeral"
+  ],
+  [
+   186,
+   192,
+   "Curicó"
+  ],
+  [
+   192,
+   195,
+   "Maquehua"
+  ],
+  [
+   195,
+   202,
+   "Lontué"
+  ],
+  [
+   202,
+   209,
+   "Molina"
+  ],
+  [
+   209,
+   219.49,
+   "Pulmodón"
+  ]
+ ]
+}

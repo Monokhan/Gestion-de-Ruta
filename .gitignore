@@ -1,0 +1,12 @@
+# datos operativos: viven en la rama `data`, nunca en main
+datos/
+demo_datos/
+_site/
+# secretos locales
+.env
+*.local.yml
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

@@ -1,0 +1,54 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Gestión de Ruta · Ruta del Maipo — configuración operativa
+# Los secretos (API key, contraseñas) NO van aquí: se cargan como GitHub Secrets.
+# ─────────────────────────────────────────────────────────────────────────────
+timezone: America/Santiago
+
+# Sitio publicado (se usa en los correos de alerta). Ej: https://monokhan.github.io/gestion-ruta-maipo/
+site_url: ""
+
+mail:
+  enabled: true
+  imap_host: imap.gmail.com
+  mailbox: INBOX
+  # Búsqueda con la sintaxis del buscador de Gmail (se envía vía X-GM-RAW).
+  # Usar solo caracteres ASCII: los filtros con tildes van en subject_contains.
+  gmail_query: "has:attachment filename:xlsx newer_than:7d"
+  # Filtros adicionales (texto contenido, sin distinguir mayúsculas ni tildes). Vacío = no filtra.
+  subject_contains: ["intervencion diaria"]
+  from_contains: []                 # ej: ["@rutadelmaipo.cl"]
+  attachment_pattern: '(?i)\.xlsx?$'
+  processed_label: "RDM/procesado"  # etiqueta que se agrega en Gmail al procesar ("" = no etiquetar)
+  max_messages: 30
+
+works:
+  # Fechas que forman el set "actual" que abre la app
+  current_window_days_past: 1
+  current_window_days_future: 7
+
+incidents:
+  enabled: true
+  every_minutes: 40          # 2 consultas por corrida → ≈2.200/mes (plan gratuito: 2.500)
+  # Cada bbox debe medir ≤ 10.000 km² (límite de TomTom Incident Details)
+  bboxes:
+    - [-70.80, -34.40, -70.57, -33.52]   # Acceso Sur + R5 hasta Rengo
+    - [-71.45, -35.22, -70.80, -34.40]   # R5 Rengo → Río Claro
+  on_route_m: 80             # ≤ distancia al eje para considerarlo "en la ruta"
+  nearby_m: 400              # ≤ distancia para "entorno inmediato" (caleteras, enlaces)
+  language: es-ES
+
+traffic:
+  enabled: true
+  every_minutes: 120         # 48 consultas por corrida → ≈17.900/mes (plan gratuito: 20.000)
+  spacing_km: 10
+  directions: both           # both | S | N
+  zoom: 12
+
+alerts:
+  email_enabled: true        # requiere secretos GMAIL_USER, GMAIL_APP_PASSWORD y ALERT_TO
+  min_severity: alta         # alta | media | baja
+  include_nearby: false      # también avisar incidentes del entorno inmediato
+
+quotas:                      # topes de seguridad (la corrida se salta si se superarían)
+  tomtom_flow_monthly: 20000
+  tomtom_incidents_monthly: 2500

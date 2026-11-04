@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ruta del Maipo · Gestión de Ruta</title>
+<meta name="description" content="Gestión de Ruta de la concesión Ruta del Maipo: trabajos programados, incidentes, tráfico, clima y caudales sobre mapa satelital.">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<header id="topbar">
+  <div class="brand">
+    <span class="rm">RUTA<br>DEL MAIPO</span>
+    <span class="div"></span>
+    <span class="isa">isa<small>VÍAS</small></span>
+  </div>
+  <div id="pageTitle">
+    <h1>Gestión de Ruta · Santiago – Talca</h1>
+    <div class="sub">Acceso Sur a Santiago · Ruta 5 Sur · Bypass Rancagua</div>
+  </div>
+  <div id="searchBox">
+    <span class="sic">⌕</span>
+    <input id="q" type="search" autocomplete="off" placeholder="Buscar km, sector, trabajo, contratista, río…  (tecla /)" aria-label="Buscar">
+    <div id="qres" role="listbox"></div>
+  </div>
+  <div class="top-right">
+    <div id="livePills"></div>
+    <div id="liveTitle">--/--/---- --:--:--</div>
+    <button id="full" title="Pantalla completa">⛶</button>
+  </div>
+</header>
+
+<main id="viewer">
+  <div id="map"></div>
+
+  <div class="hint-pill" id="topHint">rueda = zoom · arrastrar = desplazar · clic = detalle · / = buscar</div>
+  <div id="histBanner"><span id="histBannerTxt"></span><button id="histBack" type="button">Volver a lo vigente</button></div>
+
+  <div id="baseCtl">
+    <div class="seg" id="baseSeg">
+      <button type="button" data-base="esri">Satélite</button>
+      <button type="button" data-base="ttsat">Satélite TomTom</button>
+      <button type="button" data-base="ttmap">Mapa</button>
+      <button type="button" data-base="ttnight">Noche</button>
+    </div>
+    <label class="chk"><input type="checkbox" id="chkLabels"> Nombres de lugares</label>
+    <label class="chk" id="chkNetWrap"><input type="checkbox" id="chkNet"> Tráfico TomTom en toda la red</label>
+    <div class="flowLegend">Flujo concesión <i style="background:#16a34a"></i>Fluido<i style="background:#eab308"></i>Moderado<i style="background:#f97316"></i>Lento<i style="background:#dc2626"></i>Congestión</div>
+  </div>
+
+  <nav id="rail">
+    <button class="railBtn" id="alertsToggle" type="button"><span class="ic">🚨</span><span class="lbl">Alertas</span><span class="rbadge" id="alertBadge"></span></button>
+    <button class="railBtn" id="filesToggle" type="button"><span class="ic">📂</span><span class="lbl">Datos</span></button>
+    <button class="railBtn" id="infraToggle" type="button"><span class="ic">🛤️</span><span class="lbl">Infraestructura</span></button>
+    <button class="railBtn" id="worksToggle" type="button"><span class="ic">🚧</span><span class="lbl">Trabajos</span></button>
+    <button class="railBtn" id="liveToggle" type="button"><span class="ic">📡</span><span class="lbl">Tiempo real</span></button>
+    <button class="railBtn" id="histToggle" type="button"><span class="ic">📈</span><span class="lbl">Histórico</span></button>
+    <button class="railBtn" id="logToggle" type="button"><span class="ic">📋</span><span class="lbl">Registro</span></button>
+    <button class="railBtn" id="controlsToggle" type="button"><span class="ic">🎛️</span><span class="lbl">Controles</span></button>
+    <button class="railBtn" id="weatherToggle" type="button"><span class="ic">⛅</span><span class="lbl">Clima</span></button>
+  </nav>
+
+  <aside class="panel" id="dataPanel">
+    <div class="title"><span><span class="accent"></span>Datos</span></div>
+    <div class="ctBlock"><div class="ct">Fuente oficial · correo automático</div><div id="srcStatus" class="small">Cargando…</div></div>
+    <div class="ct" style="margin:10px 0 4px">Carga manual (solo en este navegador)</div>
+    <label id="btnClasses" class="file" for="classesFile"><span><b>Archivo 1: CLASES</b><div class="small">Hojas: Troncal, Enlace, Pasarela, PMV, Peaje lateral</div></span><span class="badge">0</span></label>
+    <input id="classesFile" type="file" accept=".xlsx,.xls">
+    <label id="btnWorks" class="file" for="worksFile"><span><b>Archivo 2: TRABAJOS</b><div class="small">DÍA/NOCHE + rutas R5/ASS</div></span><span class="badge">0</span></label>
+    <input id="worksFile" type="file" accept=".xlsx,.xls">
+    <div class="ctBlock" style="margin-top:12px">
+      <div class="ct">Alternativa · Lista SharePoint</div>
+      <div class="small" style="margin-bottom:6px">Reemplaza el Archivo 2. Funciona cuando el visor está publicado dentro de SharePoint (misma sesión del usuario).</div>
+      <input class="inp" id="spSite" placeholder="https://empresa.sharepoint.com/sites/Explotacion">
+      <input class="inp" id="spList" placeholder="Nombre de la lista (ej: Trabajos Programados)">
+      <button class="ctrl" id="spLoad" type="button" style="width:100%;margin-top:4px">Cargar desde SharePoint</button>
+      <div class="msg" id="spMsg"></div>
+    </div>
+  </aside>
+
+  <aside class="panel" id="livePanel">
+    <div class="title"><span><span class="accent"></span>Tiempo real</span><span id="liveRefreshAll" style="cursor:pointer;font-size:12px" title="Actualizar todo">⟳</span></div>
+    <div class="lrow"><div><div class="nm">🚗 Tráfico <span class="small">TomTom</span></div><div class="st" id="stTraffic">—</div></div><label class="sw"><input type="checkbox" id="swTraffic"><span></span></label></div>
+    <div class="lrow"><div><div class="nm">⛅ Clima <span class="small">Open‑Meteo</span></div><div class="st" id="stWeather">—</div></div><label class="sw"><input type="checkbox" id="swWeather"><span></span></label></div>
+    <div class="lrow"><div><div class="nm">💧 Caudales <span class="small">GloFAS</span></div><div class="st" id="stRivers">—</div></div><label class="sw"><input type="checkbox" id="swRivers"><span></span></label></div>
+
+    <div class="ctBlock" style="margin-top:10px">
+      <div class="ct">Alertas en ruta</div>
+      <div id="liveAlerts"><div class="small">Sin datos todavía.</div></div>
+    </div>
+
+    <div class="ctBlock">
+      <div class="ct">TomTom desde este navegador (opcional)</div><div class="small" style="margin-bottom:6px">El flujo y los incidentes oficiales los publica el pipeline. Una key aquí habilita los mapas TomTom y consultas a demanda; queda guardada solo en este navegador.</div>
+      <input class="inp" id="ttKey" type="password" placeholder="API key de TomTom (developer.tomtom.com)" autocomplete="off">
+      <div class="fgrid">
+        <div><label>Sentido</label><select class="select" id="ttDir"><option value="both">Ambos</option><option value="S">Sur</option><option value="N">Norte</option></select></div>
+        <div><label>Cada</label><select class="select" id="ttSpacing"><option value="2.5">2,5 km</option><option value="5">5 km</option><option value="10">10 km</option><option value="20">20 km</option></select></div>
+        <div><label>Refresco</label><select class="select" id="ttEvery"><option value="0">Manual</option><option value="15">15 min</option><option value="30">30 min</option><option value="60">60 min</option><option value="120">2 h</option></select></div>
+      </div>
+      <div class="ctrlRow"><button class="ctrl" id="ttSave" type="button">Guardar</button><button class="ctrl" id="ttNow" type="button">Consultar ahora</button></div>
+      <div class="msg" id="ttMsg"></div>
+      <div class="small" id="ttUsage" style="margin-top:8px">—</div>
+      <div class="meter"><i id="ttMeter" style="width:0%"></i></div>
+      <div class="small">Límite mensual <input class="inp" id="ttLimit" type="number" min="100" step="100" style="width:96px;display:inline-block;padding:4px 7px;margin:0 4px"> consultas</div>
+    </div>
+    <div class="note">Tráfico: velocidad actual vs. flujo libre por tramo (TomTom Traffic Flow). Clima: Open‑Meteo, actualiza cada 15 min. Caudales: modelo GloFAS v4 (~5 km) vía Open‑Meteo, diario; es un indicador relativo, <b>no reemplaza las estaciones DGA</b>. Trazado y cruces de ríos: OpenStreetMap, calibrados con PK oficiales.</div>
+  </aside>
+
+  <aside class="panel" id="side"><div class="title"><span><span class="accent"></span>Infraestructura</span></div><div id="layers"></div></aside>
+  <aside class="panel" id="worksPanel"><div class="title"><span><span class="accent"></span>Trabajos</span></div>
+    <label class="small" style="display:block;margin:2px 0 4px">Fecha de intervención</label><select class="select" id="workDate" style="width:100%"><option value="">Todas</option></select>
+    <div id="worksSrc" class="small" style="margin:6px 0 2px"></div>
+    <div id="worksLayers"></div></aside>
+
+  <aside class="panel" id="alertsPanel">
+    <div class="title"><span><span class="accent"></span>Centro de alertas</span><span id="alertsAge" class="small"></span></div>
+    <div class="segs" id="alertFilter"><button type="button" data-f="ruta" class="on">En la ruta</button><button type="button" data-f="all">Incluir entorno</button></div>
+    <div id="alertList"></div>
+    <div class="ctBlock" style="margin-top:10px"><div class="ct">Avisos en este navegador</div>
+      <label class="chk2"><input type="checkbox" id="optToast"> Mostrar aviso emergente de incidentes nuevos</label>
+      <label class="chk2"><input type="checkbox" id="optSound"> Sonido para severidad alta</label>
+      <label class="chk2"><input type="checkbox" id="optNotif"> Notificaciones del sistema</label>
+      <div class="note" style="margin-top:6px">Las alertas por correo se configuran en el repositorio (secreto ALERT_TO).</div>
+    </div>
+  </aside>
+
+  <aside class="panel" id="histPanel">
+    <div class="title"><span><span class="accent"></span>Histórico</span><span id="histClose" style="cursor:pointer;font-size:14px">✖</span></div>
+    <div class="segs" id="histTabs"><button type="button" data-t="works" class="on">Trabajos</button><button type="button" data-t="inc">Incidentes</button><button type="button" data-t="traffic">Tráfico</button></div>
+    <div id="histBody"><div class="small">Cargando…</div></div>
+  </aside>
+
+  <aside class="panel" id="controlsPanel">
+    <div class="title"><span><span class="accent"></span>Controles</span></div>
+    <div class="ctBlock"><div class="ct">Recorrido</div><div class="ctrlRow">
+      <button class="ctrl" id="tour">Reproducir</button>
+      <select class="select" id="speed"><option value="fast" selected>Rápido</option><option value="medium">Medio</option><option value="slow">Lento</option></select>
+      <button class="ctrl" id="resetView">Reiniciar vista</button>
+    </div></div>
+    <div style="display:flex;gap:9px">
+      <div class="ctBlock" style="flex:1"><div class="ct">Zoom</div><div class="ctrlRow"><button class="ctrl" id="zOut">−</button><button class="ctrl" id="zIn">+</button><button class="ctrl" id="fit">Ajustar</button></div></div>
+      <div class="ctBlock" style="flex:1"><div class="ct">Marcadores</div><div class="ctrlRow"><button class="ctrl" id="tOut">A−</button><button class="ctrl" id="tIn">A+</button><button class="ctrl" id="tFit">Reset</button></div></div>
+    </div>
+  </aside>
+
+  <aside class="panel" id="weatherPanel"><div class="title"><span><span class="accent"></span>Clima por sector</span></div><div id="weatherList"></div></aside>
+
+  <aside class="panel" id="logPanel">
+    <div class="title"><span><span class="accent"></span>Log de trabajos</span><span id="logClose" style="cursor:pointer;font-size:14px">✖</span></div>
+    <div id="logMeta">Sin registros</div>
+    <div id="logWrap" style="overflow:auto;max-height:38vh"><table id="logTable"><thead><tr><th>Ruta</th><th>Trabajo</th><th>Km Ini</th><th>Km Fin</th><th>Pista</th><th>Sector</th><th>Inicio real</th><th>Término real</th><th>Estado</th></tr></thead><tbody></tbody></table></div>
+  </aside>
+
+  <div id="zoomDock">
+    <button id="zInFab" type="button" title="Acercar">+</button>
+    <button id="zOutFab" type="button" title="Alejar">−</button>
+    <button id="fitFab" type="button" title="Ajustar">⤢</button>
+  </div>
+
+  <div id="legend"></div>
+</main>
+
+<div id="tooltip"></div>
+<div id="toasts" aria-live="polite"></div>
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="vendor/xlsx/xlsx.full.min.js"></script>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

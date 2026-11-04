@@ -1,0 +1,142 @@
+[
+ {
+  "id": "maipo_ass",
+  "name": "Río Maipo",
+  "sub": "Puente Maipo · Acceso Sur",
+  "route": "ASS",
+  "km": 18.5,
+  "lat": -33.655,
+  "lon": -70.662,
+  "cell": [
+   -33.625,
+   -70.675
+  ],
+  "rel": "alta"
+ },
+ {
+  "id": "maipo_r5",
+  "name": "Río Maipo",
+  "sub": "Puente Maipo · Ruta 5",
+  "route": "R5",
+  "km": 29.1,
+  "lat": -33.6912,
+  "lon": -70.725,
+  "cell": [
+   -33.675,
+   -70.725
+  ],
+  "rel": "alta"
+ },
+ {
+  "id": "angostura",
+  "name": "Río Angostura",
+  "sub": "Sector Peaje Angostura",
+  "route": "R5",
+  "km": 54.6,
+  "lat": -33.9119,
+  "lon": -70.7281,
+  "cell": [
+   -33.875,
+   -70.775
+  ],
+  "rel": "baja"
+ },
+ {
+  "id": "cachapoal",
+  "name": "Río Cachapoal",
+  "sub": "Puente Cachapoal · By Pass Rancagua",
+  "route": "R5",
+  "km": 89.8,
+  "lat": -34.1915,
+  "lon": -70.7871,
+  "cell": [
+   -34.225,
+   -70.775
+  ],
+  "rel": "alta"
+ },
+ {
+  "id": "claro_rengo",
+  "name": "Río Claro (Rengo)",
+  "sub": "Puente Río Claro",
+  "route": "R5",
+  "km": 111.8,
+  "lat": -34.3766,
+  "lon": -70.8581,
+  "cell": [
+   -34.375,
+   -70.875
+  ],
+  "rel": "media"
+ },
+ {
+  "id": "tinguiririca",
+  "name": "Río Tinguiririca",
+  "sub": "Puente Tinguiririca",
+  "route": "R5",
+  "km": 141.8,
+  "lat": -34.6155,
+  "lon": -70.9881,
+  "cell": [
+   -34.625,
+   -70.975
+  ],
+  "rel": "alta"
+ },
+ {
+  "id": "chimbarongo",
+  "name": "Estero Chimbarongo",
+  "sub": "Sector Quinta",
+  "route": "R5",
+  "km": 162.6,
+  "lat": -34.7926,
+  "lon": -71.0473,
+  "cell": [
+   -34.775,
+   -71.075
+  ],
+  "rel": "baja"
+ },
+ {
+  "id": "teno",
+  "name": "Río Teno",
+  "sub": "Puente Teno",
+  "route": "R5",
+  "km": 179.3,
+  "lat": -34.904,
+  "lon": -71.1593,
+  "cell": [
+   -34.925,
+   -71.175
+  ],
+  "rel": "alta"
+ },
+ {
+  "id": "lontue",
+  "name": "Río Lontué",
+  "sub": "Puente Lontué",
+  "route": "R5",
+  "km": 195.8,
+  "lat": -35.0275,
+  "lon": -71.249,
+  "cell": [
+   -35.025,
+   -71.275
+  ],
+  "rel": "alta"
+ },
+ {
+  "id": "claro_maule",
+  "name": "Río Claro (Maule)",
+  "sub": "Sector Camarico",
+  "route": "R5",
+  "km": 217.9,
+  "lat": -35.1831,
+  "lon": -71.3912,
+  "cell": [
+   -35.175,
+   -71.425
+  ],
+  "rel": "alta"
+ }
+]
