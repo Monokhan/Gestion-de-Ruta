@@ -1,56 +1,128 @@
 {
- "generated_at": "2026-11-04T22:44:30-03:00",
+ "generated_at": "2026-11-05T05:37:47-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 61,
+ "corridor_total": 59,
  "errors": [],
  "incidents": [
   {
-   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29092225924016000",
-   "category": 6,
-   "category_name": "Congestión",
-   "icon": "🚗",
-   "magnitude": 3,
-   "magnitude_name": "mayor",
-   "delay_s": 266,
-   "length_m": 190,
-   "description": "Tráfico parado",
-   "from": "Codegua",
-   "to": "Carretera Panamericana Sur",
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29274018040022000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 1280,
+   "description": "Cerrado",
+   "from": "Autopista Acceso Sur",
+   "to": "Autopista Enlace Acceso Sur",
    "road_numbers": [],
-   "start": "2026-11-05T01:42:45Z",
-   "end": "2026-11-05T01:49:15Z",
+   "start": "2026-11-05T02:11:15Z",
+   "end": null,
    "last_report": null,
-   "probability": "certain",
+   "probability": "probable",
    "relation": "ruta",
-   "dist_m": 1,
-   "route": "R5",
-   "km": 69.73,
-   "km_from": 69.54,
-   "km_to": 69.73,
-   "sector": "By Pass Rancagua",
-   "lat": -34.03917,
-   "lon": -70.71227,
+   "dist_m": 28,
+   "route": "ASS",
+   "km": 4.31,
+   "km_from": 4.2,
+   "km_to": 5.48,
+   "sector": "Gabriela",
+   "lat": -33.57048,
+   "lon": -70.61243,
    "geometry": [
     [
-     -34.03852,
-     -70.71041
+     -33.58087,
+     -70.61038
     ],
     [
-     -34.03877,
-     -70.71109
+     -33.58044,
+     -70.61058
     ],
     [
-     -34.03912,
-     -70.71215
+     -33.58009,
+     -70.61073
     ],
     [
-     -34.03917,
-     -70.71227
+     -33.57939,
+     -70.61097
     ],
     [
-     -34.03918,
-     -70.71231
+     -33.5793,
+     -70.61099
+    ],
+    [
+     -33.57909,
+     -70.61104
+    ],
+    [
+     -33.57869,
+     -70.61112
+    ],
+    [
+     -33.57806,
+     -70.61121
+    ],
+    [
+     -33.57752,
+     -70.6113
+    ],
+    [
+     -33.57684,
+     -70.6114
+    ],
+    [
+     -33.57644,
+     -70.61147
+    ],
+    [
+     -33.57571,
+     -70.61157
+    ],
+    [
+     -33.57514,
+     -70.61166
+    ],
+    [
+     -33.57394,
+     -70.61184
+    ],
+    [
+     -33.57302,
+     -70.61198
+    ],
+    [
+     -33.5722,
+     -70.61211
+    ],
+    [
+     -33.57149,
+     -70.6122
+    ],
+    [
+     -33.57101,
+     -70.61229
+    ],
+    [
+     -33.57048,
+     -70.61243
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.56983,
+     -70.61252
+    ],
+    [
+     -33.5697,
+     -70.61254
+    ],
+    [
+     -33.56953,
+     -70.61257
     ]
    ],
    "severity": "alta",
