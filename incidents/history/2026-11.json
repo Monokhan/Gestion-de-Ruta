@@ -98,7 +98,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29268246740038002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29268246740038002",
@@ -149,7 +150,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29268246780014000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29268246780014000",
@@ -212,7 +214,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265361016013000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265361016013000",
@@ -275,7 +278,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360820021000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360820021000",
@@ -434,7 +438,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336736012000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336736012000",
@@ -539,7 +544,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28916205920017002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28916205920017002",
@@ -736,7 +742,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28919091632011000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28919091632011000",
@@ -905,7 +912,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28921977212019000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28921977212019000",
@@ -1020,7 +1028,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28633420676018000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28633420676018000",
@@ -1083,7 +1092,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28633420680010000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28633420680010000",
@@ -1142,7 +1152,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535276036000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535276036000",
@@ -1221,7 +1232,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28627649692068000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28627649692068000",
@@ -1394,7 +1406,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535060012000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535060012000",
@@ -1449,7 +1462,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535064012000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535064012000",
@@ -1504,7 +1518,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132320014002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132320014002",
@@ -1579,7 +1594,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336848019000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336848019000",
@@ -1654,7 +1670,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336804020000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336804020000",
@@ -1819,7 +1836,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336768013001": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336768013001",
@@ -1950,7 +1968,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28921977184027000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28921977184027000",
@@ -2087,7 +2106,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28621878624010002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28621878624010002",
@@ -2282,7 +2302,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132180014000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132180014000",
@@ -2341,7 +2362,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29262475472020002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29262475472020002",
@@ -2464,7 +2486,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360912022000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360912022000",
@@ -2595,7 +2618,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29196107708003000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29196107708003000",
@@ -2638,7 +2662,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29204764812022000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29204764812022000",
@@ -2745,7 +2770,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336844006000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336844006000",
@@ -2804,7 +2830,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29158595320020000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29158595320020000",
@@ -2859,7 +2886,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29152824232011000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29152824232011000",
@@ -2972,7 +3000,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28647848560030000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28647848560030000",
@@ -3043,7 +3072,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28642077332022000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28642077332022000",
@@ -3122,7 +3152,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28618993116028000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28618993116028000",
@@ -3319,7 +3350,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29279789204137001": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29279789204137001",
@@ -3516,7 +3548,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903624030000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903624030000",
@@ -3630,7 +3663,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
+   "last_seen": "2026-11-04T22:44:30-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903560030000": {
@@ -3745,7 +3778,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
+   "last_seen": "2026-11-04T22:44:30-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336840013000": {
@@ -3885,7 +3918,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29020086592011000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29020086592011000",
@@ -4000,7 +4034,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29285560440014002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29285560440014002",
@@ -4083,7 +4118,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903556014000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903556014000",
@@ -4125,7 +4161,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
+   "last_seen": "2026-11-04T22:44:30-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360940020000": {
@@ -4205,7 +4241,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451300030002": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451300030002",
@@ -4264,7 +4301,8 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29184565720014000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29184565720014000",
@@ -4318,7 +4356,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
+   "last_seen": "2026-11-04T22:44:30-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29184565792014000": {
@@ -4373,7 +4411,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
+   "last_seen": "2026-11-04T22:44:30-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28999887416076000": {
@@ -4435,6 +4473,62 @@
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
    "last_seen": "2026-11-04T18:27:48-03:00",
+   "active": false,
+   "cleared_at": "2026-11-04T22:44:30-03:00"
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29092225924016000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29092225924016000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 266,
+   "length_m": 190,
+   "description": "Tráfico parado",
+   "from": "Codegua",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [],
+   "start": "2026-11-05T01:42:45Z",
+   "end": "2026-11-05T01:49:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 1,
+   "route": "R5",
+   "km": 69.73,
+   "km_from": 69.54,
+   "km_to": 69.73,
+   "sector": "By Pass Rancagua",
+   "lat": -34.03917,
+   "lon": -70.71227,
+   "geometry": [
+    [
+     -34.03852,
+     -70.71041
+    ],
+    [
+     -34.03877,
+     -70.71109
+    ],
+    [
+     -34.03912,
+     -70.71215
+    ],
+    [
+     -34.03917,
+     -70.71227
+    ],
+    [
+     -34.03918,
+     -70.71231
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-04T22:44:30-03:00",
+   "notified": false,
+   "last_seen": "2026-11-04T22:44:30-03:00",
    "active": true
   }
  }
