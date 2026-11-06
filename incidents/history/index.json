@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-06T06:59:13-03:00",
+ "generated_at": "2026-11-06T14:10:29-03:00",
  "months": {
   "2026-11": {
-   "n": 63,
-   "en_ruta": 38,
+   "n": 85,
+   "en_ruta": 50,
    "por_categoria": {
-    "Congestión": 56,
-    "Vía cerrada": 6,
+    "Congestión": 76,
+    "Vía cerrada": 8,
     "Obras": 1
    },
    "por_severidad": {
-    "alta": 22,
-    "media": 23,
-    "baja": 18
+    "alta": 32,
+    "media": 28,
+    "baja": 25
    },
    "file": "incidents/history/2026-11.json"
   }

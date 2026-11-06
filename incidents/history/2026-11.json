@@ -1038,21 +1038,21 @@
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 138,
-   "length_m": 201,
+   "delay_s": 134,
+   "length_m": 188,
    "description": "Tráfico parado",
    "from": "Carretera Panamericana Sur",
    "to": "Avenida Arturo Alessandri",
    "road_numbers": [],
-   "start": "2026-11-04T20:15:51Z",
-   "end": "2026-11-04T21:46:06Z",
+   "start": "2026-11-06T16:21:45Z",
+   "end": "2026-11-06T17:29:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
    "dist_m": 25,
    "route": "R5",
    "km": 188.9,
-   "km_from": 188.77,
+   "km_from": 188.78,
    "km_to": 188.97,
    "sector": "Curicó",
    "lat": -34.97863,
@@ -1081,19 +1081,14 @@
     [
      -34.97798,
      -71.20718
-    ],
-    [
-     -34.97791,
-     -71.20706
     ]
    ],
    "severity": "alta",
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": false,
-   "cleared_at": "2026-11-04T22:44:30-03:00"
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28633420680010000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28633420680010000",
@@ -1160,16 +1155,16 @@
    "category": 6,
    "category_name": "Congestión",
    "icon": "🚗",
-   "magnitude": 3,
-   "magnitude_name": "mayor",
-   "delay_s": 269,
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 116,
    "length_m": 406,
-   "description": "Tráfico parado",
+   "description": "Tráfico en cola",
    "from": "Romeral",
    "to": "Camino a Zapallar",
    "road_numbers": [],
-   "start": "2026-11-04T21:11:57Z",
-   "end": "2026-11-04T21:50:06Z",
+   "start": "2026-11-06T17:03:45Z",
+   "end": "2026-11-06T17:29:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
@@ -1227,13 +1222,12 @@
      -71.21593
     ]
    ],
-   "severity": "alta",
+   "severity": "media",
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": false,
-   "cleared_at": "2026-11-04T22:44:30-03:00"
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28627649692068000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28627649692068000",
@@ -1538,16 +1532,16 @@
    "category": 6,
    "category_name": "Congestión",
    "icon": "🚗",
-   "magnitude": 2,
-   "magnitude_name": "moderada",
-   "delay_s": 154,
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 436,
    "length_m": 312,
-   "description": "Tráfico en cola",
+   "description": "Tráfico parado",
    "from": "Calle El Fundador",
    "to": "Calle Cuatro Oriente",
    "road_numbers": [],
-   "start": "2026-11-04T20:25:07Z",
-   "end": "2026-11-04T21:50:06Z",
+   "start": "2026-11-06T16:48:15Z",
+   "end": "2026-11-06T17:39:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
@@ -1601,13 +1595,12 @@
      -70.61003
     ]
    ],
-   "severity": "media",
+   "severity": "alta",
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": false,
-   "cleared_at": "2026-11-04T22:44:30-03:00"
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336848019000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336848019000",
@@ -2508,14 +2501,14 @@
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 267,
+   "delay_s": 238,
    "length_m": 327,
    "description": "Tráfico parado",
    "from": "Pasaje Ara / Pasaje Polar",
    "to": "Avenida Eyzaguirre",
    "road_numbers": [],
-   "start": "2026-11-04T19:43:45Z",
-   "end": "2026-11-04T21:49:06Z",
+   "start": "2026-11-06T16:59:15Z",
+   "end": "2026-11-06T17:31:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "entorno",
@@ -2629,9 +2622,8 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-04T18:27:48-03:00",
-   "active": false,
-   "cleared_at": "2026-11-04T22:44:30-03:00"
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29196107708003000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29196107708003000",
@@ -3675,7 +3667,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-06T06:59:13-03:00",
+   "last_seen": "2026-11-06T14:10:29-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903560030000": {
@@ -3790,7 +3782,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-06T06:59:13-03:00",
+   "last_seen": "2026-11-06T14:10:29-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336840013000": {
@@ -4173,7 +4165,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-06T06:59:13-03:00",
+   "last_seen": "2026-11-06T14:10:29-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360940020000": {
@@ -4368,7 +4360,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-06T06:59:13-03:00",
+   "last_seen": "2026-11-06T14:10:29-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29184565792014000": {
@@ -4423,7 +4415,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-06T06:59:13-03:00",
+   "last_seen": "2026-11-06T14:10:29-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28999887416076000": {
@@ -4679,26 +4671,34 @@
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 280,
-   "length_m": 262,
+   "delay_s": 419,
+   "length_m": 302,
    "description": "Tráfico parado",
    "from": "La Pintana",
    "to": "Caletera Acceso Sur / Calle Gabriela Poniente",
    "road_numbers": [],
-   "start": "2026-11-05T16:39:15Z",
-   "end": "2026-11-05T17:05:45Z",
+   "start": "2026-11-06T16:36:15Z",
+   "end": "2026-11-06T17:34:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
-   "dist_m": 11,
+   "dist_m": 3,
    "route": "ASS",
-   "km": 5.46,
-   "km_from": 5.46,
+   "km": 5.42,
+   "km_from": 5.42,
    "km_to": 5.72,
    "sector": "Gabriela",
-   "lat": -33.58084,
-   "lon": -70.61128,
+   "lat": -33.58049,
+   "lon": -70.61124,
    "geometry": [
+    [
+     -33.58049,
+     -70.61124
+    ],
+    [
+     -33.58064,
+     -70.61126
+    ],
     [
      -33.58084,
      -70.61128
@@ -4752,9 +4752,8 @@
    "related_works": [],
    "first_seen": "2026-11-05T13:46:06-03:00",
    "notified": false,
-   "last_seen": "2026-11-05T13:46:06-03:00",
-   "active": false,
-   "cleared_at": "2026-11-05T19:25:05-03:00"
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29259589748022000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29259589748022000",
@@ -4971,7 +4970,8 @@
    "first_seen": "2026-11-05T13:46:06-03:00",
    "notified": false,
    "last_seen": "2026-11-06T06:59:13-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-06T14:10:29-03:00"
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265361016052000": {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265361016052000",
@@ -6492,6 +6492,1724 @@
    "first_seen": "2026-11-06T06:59:13-03:00",
    "notified": false,
    "last_seen": "2026-11-06T06:59:13-03:00",
+   "active": false,
+   "cleared_at": "2026-11-06T14:10:29-03:00"
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132428011000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132428011000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 181,
+   "length_m": 229,
+   "description": "Tráfico parado",
+   "from": "Autopista Acceso Sur",
+   "to": "Avenida Gabriela Poniente / Calle Cuatro Oriente",
+   "road_numbers": [],
+   "start": "2026-11-06T17:00:47Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 27,
+   "route": "ASS",
+   "km": 5.97,
+   "km_from": 5.76,
+   "km_to": 5.97,
+   "sector": "Gabriela",
+   "lat": -33.58534,
+   "lon": -70.61002,
+   "geometry": [
+    [
+     -33.58534,
+     -70.61002
+    ],
+    [
+     -33.58512,
+     -70.61001
+    ],
+    [
+     -33.5847,
+     -70.60987
+    ],
+    [
+     -33.58439,
+     -70.60974
+    ],
+    [
+     -33.58424,
+     -70.60971
+    ],
+    [
+     -33.58414,
+     -70.60971
+    ],
+    [
+     -33.58395,
+     -70.60973
+    ],
+    [
+     -33.58383,
+     -70.60974
+    ],
+    [
+     -33.58351,
+     -70.60977
+    ],
+    [
+     -33.58336,
+     -70.60978
+    ],
+    [
+     -33.58333,
+     -70.60979
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132428014000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29271132428014000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 269,
+   "length_m": 380,
+   "description": "Tráfico parado",
+   "from": "Calle Islas Canarias / Calle Valle Del Elqui",
+   "to": "Calle Gabriela Poniente",
+   "road_numbers": [],
+   "start": "2026-11-06T16:59:45Z",
+   "end": "2026-11-06T17:32:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 24,
+   "route": "ASS",
+   "km": 6.18,
+   "km_from": 5.81,
+   "km_to": 6.19,
+   "sector": "Tocornal",
+   "lat": -33.58706,
+   "lon": -70.60944,
+   "geometry": [
+    [
+     -33.58721,
+     -70.60938
+    ],
+    [
+     -33.58706,
+     -70.60944
+    ],
+    [
+     -33.58693,
+     -70.60949
+    ],
+    [
+     -33.58682,
+     -70.60952
+    ],
+    [
+     -33.58662,
+     -70.60956
+    ],
+    [
+     -33.58637,
+     -70.60959
+    ],
+    [
+     -33.58613,
+     -70.6096
+    ],
+    [
+     -33.58582,
+     -70.60959
+    ],
+    [
+     -33.58556,
+     -70.60957
+    ],
+    [
+     -33.58527,
+     -70.60957
+    ],
+    [
+     -33.58475,
+     -70.60955
+    ],
+    [
+     -33.58434,
+     -70.6096
+    ],
+    [
+     -33.58415,
+     -70.60962
+    ],
+    [
+     -33.58407,
+     -70.60965
+    ],
+    [
+     -33.58383,
+     -70.60974
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360832013000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360832013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 117,
+   "length_m": 176,
+   "description": "Tráfico parado",
+   "from": "Calle El Rodeo Oriente",
+   "to": "Avenida Cuatro Oriente / Calle Arco Iris",
+   "road_numbers": [],
+   "start": "2026-11-06T16:26:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 9,
+   "route": "ASS",
+   "km": 9.86,
+   "km_from": 9.86,
+   "km_to": 9.91,
+   "sector": "Sargento Menadier",
+   "lat": -33.61898,
+   "lon": -70.59942,
+   "geometry": [
+    [
+     -33.61938,
+     -70.59935
+    ],
+    [
+     -33.61913,
+     -70.59939
+    ],
+    [
+     -33.61898,
+     -70.59942
+    ],
+    [
+     -33.619,
+     -70.59963
+    ],
+    [
+     -33.61902,
+     -70.59978
+    ],
+    [
+     -33.61903,
+     -70.59982
+    ],
+    [
+     -33.61904,
+     -70.59985
+    ],
+    [
+     -33.61906,
+     -70.5999
+    ],
+    [
+     -33.61909,
+     -70.59993
+    ],
+    [
+     -33.61914,
+     -70.59996
+    ],
+    [
+     -33.61921,
+     -70.59997
+    ],
+    [
+     -33.61929,
+     -70.59995
+    ],
+    [
+     -33.6193,
+     -70.59994
+    ],
+    [
+     -33.61931,
+     -70.59993
+    ],
+    [
+     -33.61933,
+     -70.59989
+    ],
+    [
+     -33.61935,
+     -70.59981
+    ],
+    [
+     -33.61937,
+     -70.59975
+    ],
+    [
+     -33.61938,
+     -70.59967
+    ],
+    [
+     -33.61938,
+     -70.59949
+    ],
+    [
+     -33.61938,
+     -70.59935
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29262475436029000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29262475436029000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 129,
+   "length_m": 130,
+   "description": "Tráfico parado",
+   "from": "Calle Cerro San Pedro Nolasco",
+   "to": "Avenida 4 Oriente",
+   "road_numbers": [],
+   "start": "2026-11-06T17:06:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 38,
+   "route": "ASS",
+   "km": 10.0,
+   "km_from": 9.98,
+   "km_to": 10.11,
+   "sector": "Sargento Menadier",
+   "lat": -33.62011,
+   "lon": -70.59859,
+   "geometry": [
+    [
+     -33.62108,
+     -70.5984
+    ],
+    [
+     -33.6207,
+     -70.59847
+    ],
+    [
+     -33.62034,
+     -70.59855
+    ],
+    [
+     -33.62011,
+     -70.59859
+    ],
+    [
+     -33.61993,
+     -70.59862
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336848027001": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336848027001",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 178,
+   "length_m": 327,
+   "description": "Tráfico parado",
+   "from": "Caletera Ruta 5 Sur",
+   "to": "Calle Arturo Prat / Calle Jose Alberto Bravo",
+   "road_numbers": [],
+   "start": "2026-11-06T17:07:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 9,
+   "route": "R5",
+   "km": 33.89,
+   "km_from": 33.81,
+   "km_to": 34.14,
+   "sector": "Buin",
+   "lat": -33.73242,
+   "lon": -70.73363,
+   "geometry": [
+    [
+     -33.73172,
+     -70.7333
+    ],
+    [
+     -33.73195,
+     -70.73343
+    ],
+    [
+     -33.73217,
+     -70.73352
+    ],
+    [
+     -33.73242,
+     -70.73363
+    ],
+    [
+     -33.73334,
+     -70.73414
+    ],
+    [
+     -33.73352,
+     -70.73422
+    ],
+    [
+     -33.73376,
+     -70.73432
+    ],
+    [
+     -33.73444,
+     -70.73465
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408014000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408014000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 177,
+   "length_m": 150,
+   "description": "Tráfico parado",
+   "from": "Calle Caletera Ruta 5 Sur",
+   "to": "Avenida San Martín",
+   "road_numbers": [
+    "G-48"
+   ],
+   "start": "2026-11-06T16:33:15Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 34,
+   "route": "R5",
+   "km": 33.9,
+   "km_from": 33.9,
+   "km_to": 33.93,
+   "sector": "Buin",
+   "lat": -33.73237,
+   "lon": -70.7339,
+   "geometry": [
+    [
+     -33.73237,
+     -70.7339
+    ],
+    [
+     -33.73236,
+     -70.73399
+    ],
+    [
+     -33.73233,
+     -70.73416
+    ],
+    [
+     -33.73223,
+     -70.73481
+    ],
+    [
+     -33.7322,
+     -70.73519
+    ],
+    [
+     -33.73216,
+     -70.7355
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29178794536012002": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29178794536012002",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 99,
+   "length_m": 172,
+   "description": "Tráfico parado",
+   "from": "Calle Caletera Ruta 5 Sur",
+   "to": "Calle Camino La Cervera",
+   "road_numbers": [],
+   "start": "2026-11-06T16:24:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 15,
+   "route": "R5",
+   "km": 37.02,
+   "km_from": 37.02,
+   "km_to": 37.13,
+   "sector": "Linderos",
+   "lat": -33.7596,
+   "lon": -70.74161,
+   "geometry": [
+    [
+     -33.7596,
+     -70.74161
+    ],
+    [
+     -33.75966,
+     -70.74166
+    ],
+    [
+     -33.7598,
+     -70.7418
+    ],
+    [
+     -33.7599,
+     -70.74194
+    ],
+    [
+     -33.76034,
+     -70.74262
+    ],
+    [
+     -33.76036,
+     -70.74265
+    ],
+    [
+     -33.76042,
+     -70.74288
+    ],
+    [
+     -33.76045,
+     -70.74297
+    ],
+    [
+     -33.76047,
+     -70.74309
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535080020000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535080020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 180,
+   "length_m": 380,
+   "description": "Tráfico parado",
+   "from": "Calle Luis Pasteur",
+   "to": "Calle Las Heras Sur",
+   "road_numbers": [],
+   "start": "2026-11-06T16:05:45Z",
+   "end": "2026-11-06T17:31:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 18,
+   "route": "R5",
+   "km": 189.81,
+   "km_from": 189.81,
+   "km_to": 190.12,
+   "sector": "Curicó",
+   "lat": -34.98343,
+   "lon": -71.21622,
+   "geometry": [
+    [
+     -34.98381,
+     -71.22032
+    ],
+    [
+     -34.98377,
+     -71.22011
+    ],
+    [
+     -34.98372,
+     -71.21986
+    ],
+    [
+     -34.9837,
+     -71.21944
+    ],
+    [
+     -34.98369,
+     -71.21939
+    ],
+    [
+     -34.98366,
+     -71.21923
+    ],
+    [
+     -34.9836,
+     -71.2188
+    ],
+    [
+     -34.98358,
+     -71.21863
+    ],
+    [
+     -34.98356,
+     -71.21848
+    ],
+    [
+     -34.98348,
+     -71.21788
+    ],
+    [
+     -34.98334,
+     -71.21649
+    ],
+    [
+     -34.98336,
+     -71.21635
+    ],
+    [
+     -34.98338,
+     -71.21629
+    ],
+    [
+     -34.98343,
+     -71.21622
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535168020000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535168020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 171,
+   "length_m": 464,
+   "description": "Tráfico parado",
+   "from": "Calle Los Cristales / Calle Ángel Lagos",
+   "to": "Calle Las Heras Sur",
+   "road_numbers": [
+    "J-615"
+   ],
+   "start": "2026-11-06T17:07:45Z",
+   "end": "2026-11-06T17:30:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 62,
+   "route": "R5",
+   "km": 189.81,
+   "km_from": 189.81,
+   "km_to": 189.81,
+   "sector": "Curicó",
+   "lat": -34.984,
+   "lon": -71.21568,
+   "geometry": [
+    [
+     -34.98732,
+     -71.21259
+    ],
+    [
+     -34.98722,
+     -71.21267
+    ],
+    [
+     -34.98701,
+     -71.21286
+    ],
+    [
+     -34.98686,
+     -71.21299
+    ],
+    [
+     -34.98682,
+     -71.21303
+    ],
+    [
+     -34.9867,
+     -71.21314
+    ],
+    [
+     -34.98658,
+     -71.21326
+    ],
+    [
+     -34.9865,
+     -71.21334
+    ],
+    [
+     -34.98643,
+     -71.21341
+    ],
+    [
+     -34.9862,
+     -71.21362
+    ],
+    [
+     -34.98618,
+     -71.21364
+    ],
+    [
+     -34.98608,
+     -71.21373
+    ],
+    [
+     -34.98602,
+     -71.2138
+    ],
+    [
+     -34.98586,
+     -71.21394
+    ],
+    [
+     -34.98548,
+     -71.21428
+    ],
+    [
+     -34.98515,
+     -71.2146
+    ],
+    [
+     -34.98417,
+     -71.21552
+    ],
+    [
+     -34.984,
+     -71.21568
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28627649588020000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28627649588020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 177,
+   "length_m": 130,
+   "description": "Tráfico parado",
+   "from": "Avenida Manso de Velasco",
+   "to": "Camino a Zapallar",
+   "road_numbers": [],
+   "start": "2026-11-06T17:07:16Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 24,
+   "route": "R5",
+   "km": 189.94,
+   "km_from": 189.81,
+   "km_to": 189.94,
+   "sector": "Curicó",
+   "lat": -34.98446,
+   "lon": -71.21704,
+   "geometry": [
+    [
+     -34.98446,
+     -71.21704
+    ],
+    [
+     -34.98403,
+     -71.21638
+    ],
+    [
+     -34.98395,
+     -71.21627
+    ],
+    [
+     -34.98373,
+     -71.21593
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451332044000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451332044000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 165,
+   "length_m": 584,
+   "description": "Tráfico en cola",
+   "from": "Calle Presidente Federico Errázuriz",
+   "to": "Avenida Longitudinal Sur",
+   "road_numbers": [
+    "G-48"
+   ],
+   "start": "2026-11-06T16:41:51Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "R5",
+   "km": 34.0,
+   "km_from": 33.99,
+   "km_to": 34.09,
+   "sector": "Buin",
+   "lat": -33.73334,
+   "lon": -70.73398,
+   "geometry": [
+    [
+     -33.7328,
+     -70.73997
+    ],
+    [
+     -33.73288,
+     -70.73922
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ],
+    [
+     -33.73315,
+     -70.73723
+    ],
+    [
+     -33.73319,
+     -70.73689
+    ],
+    [
+     -33.73334,
+     -70.73564
+    ],
+    [
+     -33.73335,
+     -70.73552
+    ],
+    [
+     -33.73335,
+     -70.73481
+    ],
+    [
+     -33.73335,
+     -70.73461
+    ],
+    [
+     -33.73334,
+     -70.7345
+    ],
+    [
+     -33.73334,
+     -70.73435
+    ],
+    [
+     -33.73334,
+     -70.73414
+    ],
+    [
+     -33.73334,
+     -70.73398
+    ],
+    [
+     -33.73334,
+     -70.73381
+    ],
+    [
+     -33.73333,
+     -70.7337
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903524014000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903524014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 105,
+   "description": "Cerrado",
+   "from": "Pasaje Salar de Carcote",
+   "to": "Calle Geranio del Bosque / Pasaje Salar de Capur",
+   "road_numbers": [],
+   "start": "2026-11-06T14:03:45Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
+   "route": "ASS",
+   "km": 4.38,
+   "km_from": 4.33,
+   "km_to": 4.43,
+   "sector": "Gabriela",
+   "lat": -33.57085,
+   "lon": -70.60934,
+   "geometry": [
+    [
+     -33.57129,
+     -70.60927
+    ],
+    [
+     -33.57085,
+     -70.60934
+    ],
+    [
+     -33.57071,
+     -70.60932
+    ],
+    [
+     -33.57057,
+     -70.60927
+    ],
+    [
+     -33.57037,
+     -70.60923
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903596014000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903596014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 105,
+   "description": "Cerrado",
+   "from": "Calle Geranio del Bosque / Pasaje Salar de Capur",
+   "to": "Pasaje Salar de Carcote",
+   "road_numbers": [],
+   "start": "2026-11-06T14:04:15Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
+   "route": "ASS",
+   "km": 4.38,
+   "km_from": 4.33,
+   "km_to": 4.43,
+   "sector": "Gabriela",
+   "lat": -33.57085,
+   "lon": -70.60934,
+   "geometry": [
+    [
+     -33.57037,
+     -70.60923
+    ],
+    [
+     -33.57057,
+     -70.60927
+    ],
+    [
+     -33.57071,
+     -70.60932
+    ],
+    [
+     -33.57085,
+     -70.60934
+    ],
+    [
+     -33.57129,
+     -70.60927
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28921977080022000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28921977080022000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 187,
+   "length_m": 202,
+   "description": "Tráfico parado",
+   "from": "Calle Nueva 4",
+   "to": "Calle Ernesto Riquelme / Calle Los Escribanos",
+   "road_numbers": [],
+   "start": "2026-11-06T16:56:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 321,
+   "route": "R5",
+   "km": 114.77,
+   "km_from": 114.77,
+   "km_to": 114.97,
+   "sector": "Rengo",
+   "lat": -34.40214,
+   "lon": -70.86898,
+   "geometry": [
+    [
+     -34.40382,
+     -70.86978
+    ],
+    [
+     -34.40368,
+     -70.86971
+    ],
+    [
+     -34.40344,
+     -70.86961
+    ],
+    [
+     -34.40252,
+     -70.86911
+    ],
+    [
+     -34.40214,
+     -70.86898
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535260022000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28630535260022000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 168,
+   "length_m": 264,
+   "description": "Tráfico parado",
+   "from": "Calle Río Tinguiririca",
+   "to": "Avenida España",
+   "road_numbers": [],
+   "start": "2026-11-06T17:04:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 108,
+   "route": "R5",
+   "km": 189.93,
+   "km_from": 189.73,
+   "km_to": 189.93,
+   "sector": "Curicó",
+   "lat": -34.98348,
+   "lon": -71.21788,
+   "geometry": [
+    [
+     -34.98116,
+     -71.21731
+    ],
+    [
+     -34.9818,
+     -71.21746
+    ],
+    [
+     -34.98348,
+     -71.21788
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336768013000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336768013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 145,
+   "length_m": 437,
+   "description": "Tráfico lento",
+   "from": "Calle Santa Maria",
+   "to": "Calle Balmaceda / Calle Bernardino Bravo",
+   "road_numbers": [],
+   "start": "2026-11-06T16:21:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 45,
+   "route": "R5",
+   "km": 34.28,
+   "km_from": 34.06,
+   "km_to": 34.34,
+   "sector": "Buin",
+   "lat": -33.73556,
+   "lon": -70.73558,
+   "geometry": [
+    [
+     -33.73543,
+     -70.73759
+    ],
+    [
+     -33.73554,
+     -70.7367
+    ],
+    [
+     -33.73555,
+     -70.73662
+    ],
+    [
+     -33.73564,
+     -70.73573
+    ],
+    [
+     -33.73562,
+     -70.73564
+    ],
+    [
+     -33.73556,
+     -70.73558
+    ],
+    [
+     -33.73549,
+     -70.73558
+    ],
+    [
+     -33.73538,
+     -70.73553
+    ],
+    [
+     -33.73449,
+     -70.73554
+    ],
+    [
+     -33.73383,
+     -70.73553
+    ],
+    [
+     -33.73369,
+     -70.73553
+    ],
+    [
+     -33.73335,
+     -70.73552
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265361016028001": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265361016028001",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 137,
+   "length_m": 266,
+   "description": "Tráfico en cola",
+   "from": "Calle La Vina",
+   "to": "Calle Eyzaguirre",
+   "road_numbers": [],
+   "start": "2026-11-06T16:42:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 397,
+   "route": "ASS",
+   "km": 9.5,
+   "km_from": 9.5,
+   "km_to": 9.5,
+   "sector": "Sargento Menadier",
+   "lat": -33.6148,
+   "lon": -70.59607,
+   "geometry": [
+    [
+     -33.61446,
+     -70.59323
+    ],
+    [
+     -33.61447,
+     -70.59341
+    ],
+    [
+     -33.61449,
+     -70.59362
+    ],
+    [
+     -33.61452,
+     -70.59383
+    ],
+    [
+     -33.61458,
+     -70.59428
+    ],
+    [
+     -33.61464,
+     -70.59475
+    ],
+    [
+     -33.6147,
+     -70.59521
+    ],
+    [
+     -33.61478,
+     -70.59584
+    ],
+    [
+     -33.61478,
+     -70.59586
+    ],
+    [
+     -33.6148,
+     -70.59607
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408030000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408030000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 118,
+   "length_m": 574,
+   "description": "Tráfico lento",
+   "from": "Calle Caletera Ruta 5 Sur",
+   "to": "Calle Manuel Montt",
+   "road_numbers": [
+    "G-490",
+    "G-48"
+   ],
+   "start": "2026-11-06T17:06:15Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 258,
+   "route": "R5",
+   "km": 33.96,
+   "km_from": 33.96,
+   "km_to": 33.97,
+   "sector": "Buin",
+   "lat": -33.73208,
+   "lon": -70.73637,
+   "geometry": [
+    [
+     -33.73208,
+     -70.73637
+    ],
+    [
+     -33.73201,
+     -70.73703
+    ],
+    [
+     -33.73181,
+     -70.7384
+    ],
+    [
+     -33.73173,
+     -70.73913
+    ],
+    [
+     -33.73172,
+     -70.73921
+    ],
+    [
+     -33.73171,
+     -70.73924
+    ],
+    [
+     -33.73165,
+     -70.73977
+    ],
+    [
+     -33.73149,
+     -70.74118
+    ],
+    [
+     -33.73146,
+     -70.74149
+    ],
+    [
+     -33.73142,
+     -70.74184
+    ],
+    [
+     -33.73137,
+     -70.74223
+    ],
+    [
+     -33.73134,
+     -70.74251
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336836045000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336836045000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 141,
+   "length_m": 478,
+   "description": "Tráfico en cola",
+   "from": "Calle San Martin / Calle Santa Maria",
+   "to": "Calle Arturo Prat",
+   "road_numbers": [],
+   "start": "2026-11-06T16:28:51Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 91,
+   "route": "R5",
+   "km": 34.18,
+   "km_from": 33.76,
+   "km_to": 34.18,
+   "sector": "Buin",
+   "lat": -33.7345,
+   "lon": -70.73561,
+   "geometry": [
+    [
+     -33.73029,
+     -70.73612
+    ],
+    [
+     -33.73082,
+     -70.73586
+    ],
+    [
+     -33.73087,
+     -70.73587
+    ],
+    [
+     -33.73093,
+     -70.73584
+    ],
+    [
+     -33.73103,
+     -70.73578
+    ],
+    [
+     -33.73113,
+     -70.73573
+    ],
+    [
+     -33.73124,
+     -70.73567
+    ],
+    [
+     -33.73137,
+     -70.73562
+    ],
+    [
+     -33.73147,
+     -70.73559
+    ],
+    [
+     -33.73158,
+     -70.73558
+    ],
+    [
+     -33.73166,
+     -70.73559
+    ],
+    [
+     -33.73215,
+     -70.73562
+    ],
+    [
+     -33.73334,
+     -70.73564
+    ],
+    [
+     -33.73382,
+     -70.73563
+    ],
+    [
+     -33.7345,
+     -70.73561
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451156014000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451156014000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 160,
+   "length_m": 656,
+   "description": "Tráfico lento",
+   "from": "Calle Maipú",
+   "to": "Avenida Manuel Rodríguez",
+   "road_numbers": [],
+   "start": "2026-11-06T17:07:45Z",
+   "end": "2026-11-06T17:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 350,
+   "route": "R5",
+   "km": 34.38,
+   "km_from": 34.25,
+   "km_to": 34.38,
+   "sector": "Buin",
+   "lat": -33.73527,
+   "lon": -70.73901,
+   "geometry": [
+    [
+     -33.73527,
+     -70.73901
+    ],
+    [
+     -33.73414,
+     -70.73878
+    ],
+    [
+     -33.7333,
+     -70.73864
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ],
+    [
+     -33.73233,
+     -70.73848
+    ],
+    [
+     -33.73181,
+     -70.7384
+    ],
+    [
+     -33.73142,
+     -70.73834
+    ],
+    [
+     -33.73111,
+     -70.73829
+    ],
+    [
+     -33.73061,
+     -70.73821
+    ],
+    [
+     -33.72994,
+     -70.73808
+    ],
+    [
+     -33.72944,
+     -70.738
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29178794328012000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29178794328012000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 192,
+   "length_m": 567,
+   "description": "Tráfico en cola",
+   "from": "Calle Camino La Cervera",
+   "to": "Calle Pastor José Molina",
+   "road_numbers": [
+    "G-53"
+   ],
+   "start": "2026-11-06T17:05:45Z",
+   "end": "2026-11-06T17:31:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 133,
+   "route": "R5",
+   "km": 37.22,
+   "km_from": 37.22,
+   "km_to": 37.29,
+   "sector": "Linderos",
+   "lat": -33.76156,
+   "lon": -70.74031,
+   "geometry": [
+    [
+     -33.76156,
+     -70.74031
+    ],
+    [
+     -33.76163,
+     -70.74009
+    ],
+    [
+     -33.76173,
+     -70.73981
+    ],
+    [
+     -33.76192,
+     -70.7393
+    ],
+    [
+     -33.76219,
+     -70.7386
+    ],
+    [
+     -33.76241,
+     -70.73795
+    ],
+    [
+     -33.76249,
+     -70.73778
+    ],
+    [
+     -33.76259,
+     -70.73745
+    ],
+    [
+     -33.76286,
+     -70.73677
+    ],
+    [
+     -33.763,
+     -70.73632
+    ],
+    [
+     -33.76303,
+     -70.73617
+    ],
+    [
+     -33.76303,
+     -70.73602
+    ],
+    [
+     -33.76301,
+     -70.73591
+    ],
+    [
+     -33.76297,
+     -70.73581
+    ],
+    [
+     -33.76285,
+     -70.73575
+    ],
+    [
+     -33.76259,
+     -70.73564
+    ],
+    [
+     -33.76225,
+     -70.73552
+    ],
+    [
+     -33.76198,
+     -70.73548
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28624764124036000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28624764124036000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 122,
+   "length_m": 414,
+   "description": "Tráfico en cola",
+   "from": "Calle Padre Hurtado",
+   "to": "Pasaje Marcelino Champagnat",
+   "road_numbers": [],
+   "start": "2026-11-06T16:05:45Z",
+   "end": "2026-11-06T17:31:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 307,
+   "route": "R5",
+   "km": 190.39,
+   "km_from": 190.39,
+   "km_to": 190.69,
+   "sector": "Curicó",
+   "lat": -34.98467,
+   "lon": -71.22314,
+   "geometry": [
+    [
+     -34.98605,
+     -71.22737
+    ],
+    [
+     -34.98597,
+     -71.22713
+    ],
+    [
+     -34.98574,
+     -71.22644
+    ],
+    [
+     -34.98571,
+     -71.22635
+    ],
+    [
+     -34.98565,
+     -71.22613
+    ],
+    [
+     -34.98561,
+     -71.22603
+    ],
+    [
+     -34.98558,
+     -71.22593
+    ],
+    [
+     -34.98539,
+     -71.22541
+    ],
+    [
+     -34.98534,
+     -71.22526
+    ],
+    [
+     -34.98516,
+     -71.22477
+    ],
+    [
+     -34.98493,
+     -71.224
+    ],
+    [
+     -34.9847,
+     -71.22327
+    ],
+    [
+     -34.98467,
+     -71.22314
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-06T14:10:29-03:00",
+   "notified": false,
+   "last_seen": "2026-11-06T14:10:29-03:00",
    "active": true
   }
  }
