@@ -3643,7 +3643,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T16:00:03-03:00",
+   "last_seen": "2026-11-07T19:29:58-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903560030000": {
@@ -3758,7 +3758,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T16:00:03-03:00",
+   "last_seen": "2026-11-07T19:29:58-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336840013000": {
@@ -4141,7 +4141,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T16:00:03-03:00",
+   "last_seen": "2026-11-07T19:29:58-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360940020000": {
@@ -4336,7 +4336,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T16:00:03-03:00",
+   "last_seen": "2026-11-07T19:29:58-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29184565792014000": {
@@ -4391,7 +4391,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T16:00:03-03:00",
+   "last_seen": "2026-11-07T19:29:58-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28999887416076000": {
@@ -10913,6 +10913,174 @@
    "last_seen": "2026-11-07T11:26:45-03:00",
    "active": false,
    "cleared_at": "2026-11-07T16:00:03-03:00"
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29279789240004000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29279789240004000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 120,
+   "length_m": 230,
+   "description": "Tráfico parado",
+   "from": "Calle Topacio",
+   "to": "Calle La Orquesta",
+   "road_numbers": [],
+   "start": "2026-11-07T22:01:45Z",
+   "end": "2026-11-07T22:48:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 283,
+   "route": "ASS",
+   "km": 3.18,
+   "km_from": 3.18,
+   "km_to": 3.19,
+   "sector": "Gabriela",
+   "lat": -33.55996,
+   "lon": -70.61221,
+   "geometry": [
+    [
+     -33.55963,
+     -70.60976
+    ],
+    [
+     -33.55967,
+     -70.61023
+    ],
+    [
+     -33.55969,
+     -70.61045
+    ],
+    [
+     -33.55972,
+     -70.6106
+    ],
+    [
+     -33.55976,
+     -70.61109
+    ],
+    [
+     -33.55981,
+     -70.6114
+    ],
+    [
+     -33.55986,
+     -70.61169
+    ],
+    [
+     -33.55991,
+     -70.61198
+    ],
+    [
+     -33.55994,
+     -70.61209
+    ],
+    [
+     -33.55996,
+     -70.61221
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-07T19:29:58-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T19:29:58-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451336076000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451336076000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 646,
+   "length_m": 985,
+   "description": "Tráfico parado",
+   "from": "Pasaje Waldo Romero",
+   "to": "Calle Bernardino Bravo / Avenida San Martín",
+   "road_numbers": [
+    "G-48"
+   ],
+   "start": "2026-11-07T20:00:15Z",
+   "end": "2026-11-07T23:04:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 143,
+   "route": "R5",
+   "km": 34.06,
+   "km_from": 34.06,
+   "km_to": 34.09,
+   "sector": "Buin",
+   "lat": -33.73334,
+   "lon": -70.73564,
+   "geometry": [
+    [
+     -33.73209,
+     -70.74619
+    ],
+    [
+     -33.73216,
+     -70.74544
+    ],
+    [
+     -33.73233,
+     -70.74408
+    ],
+    [
+     -33.73247,
+     -70.7427
+    ],
+    [
+     -33.7325,
+     -70.74247
+    ],
+    [
+     -33.73258,
+     -70.74183
+    ],
+    [
+     -33.73261,
+     -70.74163
+    ],
+    [
+     -33.73264,
+     -70.74134
+    ],
+    [
+     -33.7328,
+     -70.73997
+    ],
+    [
+     -33.73288,
+     -70.73922
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ],
+    [
+     -33.73315,
+     -70.73723
+    ],
+    [
+     -33.73319,
+     -70.73689
+    ],
+    [
+     -33.73334,
+     -70.73564
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-07T19:29:58-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T19:29:58-03:00",
+   "active": true
   }
  }
 }
