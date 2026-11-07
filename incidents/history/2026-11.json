@@ -3643,7 +3643,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T04:55:25-03:00",
+   "last_seen": "2026-11-07T11:26:45-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903560030000": {
@@ -3758,7 +3758,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T04:55:25-03:00",
+   "last_seen": "2026-11-07T11:26:45-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29190336840013000": {
@@ -4141,7 +4141,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T04:55:25-03:00",
+   "last_seen": "2026-11-07T11:26:45-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360940020000": {
@@ -4336,7 +4336,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T04:55:25-03:00",
+   "last_seen": "2026-11-07T11:26:45-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29184565792014000": {
@@ -4391,7 +4391,7 @@
    "related_works": [],
    "first_seen": "2026-11-04T18:27:48-03:00",
    "notified": false,
-   "last_seen": "2026-11-07T04:55:25-03:00",
+   "last_seen": "2026-11-07T11:26:45-03:00",
    "active": true
   },
   "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL28999887416076000": {
@@ -10264,6 +10264,647 @@
    "last_seen": "2026-11-06T22:55:46-03:00",
    "active": false,
    "cleared_at": "2026-11-07T04:55:25-03:00"
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29138395964040001": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29138395964040001",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 128,
+   "length_m": 1059,
+   "description": "Tráfico parado",
+   "from": "Carretera Panamericana Sur / Ruta 5",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-07T13:30:45Z",
+   "end": "2026-11-07T15:00:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 6,
+   "route": "ASS",
+   "km": 45.91,
+   "km_from": 45.91,
+   "km_to": 45.91,
+   "sector": "Inicio / Fin Acceso Sur",
+   "lat": -33.88175,
+   "lon": -70.73655,
+   "geometry": [
+    [
+     -33.88533,
+     -70.73583
+    ],
+    [
+     -33.88438,
+     -70.73597
+    ],
+    [
+     -33.88362,
+     -70.73608
+    ],
+    [
+     -33.88347,
+     -70.7361
+    ],
+    [
+     -33.88325,
+     -70.73613
+    ],
+    [
+     -33.88297,
+     -70.7362
+    ],
+    [
+     -33.88278,
+     -70.73624
+    ],
+    [
+     -33.88251,
+     -70.73632
+    ],
+    [
+     -33.88237,
+     -70.73636
+    ],
+    [
+     -33.88194,
+     -70.73649
+    ],
+    [
+     -33.88175,
+     -70.73655
+    ],
+    [
+     -33.88127,
+     -70.73669
+    ],
+    [
+     -33.88114,
+     -70.73674
+    ],
+    [
+     -33.8809,
+     -70.73681
+    ],
+    [
+     -33.8806,
+     -70.7369
+    ],
+    [
+     -33.88043,
+     -70.73696
+    ],
+    [
+     -33.88016,
+     -70.73704
+    ],
+    [
+     -33.87996,
+     -70.73712
+    ],
+    [
+     -33.87869,
+     -70.73752
+    ],
+    [
+     -33.87837,
+     -70.73762
+    ],
+    [
+     -33.87718,
+     -70.738
+    ],
+    [
+     -33.87606,
+     -70.73835
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29144167484016000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29144167484016000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 182,
+   "length_m": 1871,
+   "description": "Tráfico en cola",
+   "from": "Carretera Panamericana Sur / Ruta 5",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-07T12:11:15Z",
+   "end": "2026-11-07T15:19:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 15,
+   "route": "R5",
+   "km": 46.44,
+   "km_from": 45.78,
+   "km_to": 47.65,
+   "sector": "Champa",
+   "lat": -33.84345,
+   "lon": -70.75059,
+   "geometry": [
+    [
+     -33.85411,
+     -70.74802
+    ],
+    [
+     -33.85366,
+     -70.74811
+    ],
+    [
+     -33.85261,
+     -70.74837
+    ],
+    [
+     -33.85077,
+     -70.74881
+    ],
+    [
+     -33.85059,
+     -70.74886
+    ],
+    [
+     -33.85035,
+     -70.74892
+    ],
+    [
+     -33.84867,
+     -70.74932
+    ],
+    [
+     -33.84694,
+     -70.74974
+    ],
+    [
+     -33.84533,
+     -70.75013
+    ],
+    [
+     -33.84345,
+     -70.75059
+    ],
+    [
+     -33.84179,
+     -70.75098
+    ],
+    [
+     -33.84056,
+     -70.75128
+    ],
+    [
+     -33.8403,
+     -70.75134
+    ],
+    [
+     -33.83981,
+     -70.75145
+    ],
+    [
+     -33.83925,
+     -70.75158
+    ],
+    [
+     -33.83761,
+     -70.75198
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360912014000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29265360912014000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 159,
+   "length_m": 122,
+   "description": "Tráfico parado",
+   "from": "Pasaje Ara / Pasaje Polar",
+   "to": "Avenida Eyzaguirre",
+   "road_numbers": [],
+   "start": "2026-11-07T14:25:15Z",
+   "end": "2026-11-07T14:45:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 261,
+   "route": "ASS",
+   "km": 9.36,
+   "km_from": 9.36,
+   "km_to": 9.54,
+   "sector": "Sargento Menadier",
+   "lat": -33.61567,
+   "lon": -70.60336,
+   "geometry": [
+    [
+     -33.61676,
+     -70.60328
+    ],
+    [
+     -33.6167,
+     -70.6033
+    ],
+    [
+     -33.61663,
+     -70.60333
+    ],
+    [
+     -33.61651,
+     -70.60336
+    ],
+    [
+     -33.61637,
+     -70.60338
+    ],
+    [
+     -33.61588,
+     -70.60336
+    ],
+    [
+     -33.61567,
+     -70.60336
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29259589820030000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29259589820030000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 182,
+   "length_m": 282,
+   "description": "Tráfico parado",
+   "from": "Calle Central Bajo Mena",
+   "to": "Caletera Acceso Sur",
+   "road_numbers": [],
+   "start": "2026-11-07T14:06:45Z",
+   "end": "2026-11-07T14:45:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 88,
+   "route": "ASS",
+   "km": 11.2,
+   "km_from": 11.2,
+   "km_to": 11.32,
+   "sector": "Quitalmahue",
+   "lat": -33.63051,
+   "lon": -70.60088,
+   "geometry": [
+    [
+     -33.63302,
+     -70.60046
+    ],
+    [
+     -33.63289,
+     -70.60048
+    ],
+    [
+     -33.63284,
+     -70.60048
+    ],
+    [
+     -33.63261,
+     -70.60052
+    ],
+    [
+     -33.63245,
+     -70.60054
+    ],
+    [
+     -33.63225,
+     -70.60058
+    ],
+    [
+     -33.63189,
+     -70.60066
+    ],
+    [
+     -33.63158,
+     -70.60071
+    ],
+    [
+     -33.63155,
+     -70.60072
+    ],
+    [
+     -33.63081,
+     -70.60083
+    ],
+    [
+     -33.63051,
+     -70.60088
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408022000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408022000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 188,
+   "length_m": 388,
+   "description": "Tráfico parado",
+   "from": "Calle Santa Maria",
+   "to": "Calle Condell / Calle José Joaquín Pérez",
+   "road_numbers": [
+    "G-490",
+    "G-48"
+   ],
+   "start": "2026-11-07T14:18:15Z",
+   "end": "2026-11-07T14:45:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 317,
+   "route": "R5",
+   "km": 33.97,
+   "km_from": 33.97,
+   "km_to": 33.97,
+   "sector": "Buin",
+   "lat": -33.73201,
+   "lon": -70.73703,
+   "geometry": [
+    [
+     -33.73201,
+     -70.73703
+    ],
+    [
+     -33.73181,
+     -70.7384
+    ],
+    [
+     -33.73173,
+     -70.73913
+    ],
+    [
+     -33.73172,
+     -70.73921
+    ],
+    [
+     -33.73171,
+     -70.73924
+    ],
+    [
+     -33.73165,
+     -70.73977
+    ],
+    [
+     -33.73149,
+     -70.74118
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408013002": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451408013002",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 158,
+   "length_m": 503,
+   "description": "Tráfico en cola",
+   "from": "Calle San Martin / Avenida Presidente Salvador Allende",
+   "to": "Calle Manuel Montt",
+   "road_numbers": [],
+   "start": "2026-11-07T14:21:45Z",
+   "end": "2026-11-07T14:45:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 399,
+   "route": "R5",
+   "km": 33.7,
+   "km_from": 33.7,
+   "km_to": 33.7,
+   "sector": "Buin",
+   "lat": -33.72945,
+   "lon": -70.73673,
+   "geometry": [
+    [
+     -33.72945,
+     -70.73673
+    ],
+    [
+     -33.72945,
+     -70.737
+    ],
+    [
+     -33.72937,
+     -70.73776
+    ],
+    [
+     -33.72933,
+     -70.73799
+    ],
+    [
+     -33.72927,
+     -70.73841
+    ],
+    [
+     -33.72923,
+     -70.73882
+    ],
+    [
+     -33.72917,
+     -70.73935
+    ],
+    [
+     -33.72906,
+     -70.74002
+    ],
+    [
+     -33.72898,
+     -70.74074
+    ],
+    [
+     -33.72886,
+     -70.74159
+    ],
+    [
+     -33.72879,
+     -70.7421
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451336012000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451336012000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 202,
+   "length_m": 638,
+   "description": "Tráfico en cola",
+   "from": "Calle Balmaceda",
+   "to": "Calle Balmaceda / Avenida San Martín",
+   "road_numbers": [
+    "G-48"
+   ],
+   "start": "2026-11-07T13:45:15Z",
+   "end": "2026-11-07T17:14:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 143,
+   "route": "R5",
+   "km": 34.06,
+   "km_from": 34.06,
+   "km_to": 34.09,
+   "sector": "Buin",
+   "lat": -33.73334,
+   "lon": -70.73564,
+   "geometry": [
+    [
+     -33.7325,
+     -70.74247
+    ],
+    [
+     -33.73258,
+     -70.74183
+    ],
+    [
+     -33.73261,
+     -70.74163
+    ],
+    [
+     -33.73264,
+     -70.74134
+    ],
+    [
+     -33.7328,
+     -70.73997
+    ],
+    [
+     -33.73288,
+     -70.73922
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ],
+    [
+     -33.73315,
+     -70.73723
+    ],
+    [
+     -33.73319,
+     -70.73689
+    ],
+    [
+     -33.73334,
+     -70.73564
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
+  },
+  "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451300022000": {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29187451300022000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 135,
+   "length_m": 263,
+   "description": "Tráfico en cola",
+   "from": "Calle Maipú",
+   "to": "Calle José Manuel Balmaceda",
+   "road_numbers": [],
+   "start": "2026-11-07T14:13:45Z",
+   "end": "2026-11-07T14:45:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 350,
+   "route": "R5",
+   "km": 34.38,
+   "km_from": 34.25,
+   "km_to": 34.38,
+   "sector": "Buin",
+   "lat": -33.73527,
+   "lon": -70.73901,
+   "geometry": [
+    [
+     -33.73527,
+     -70.73901
+    ],
+    [
+     -33.73414,
+     -70.73878
+    ],
+    [
+     -33.7333,
+     -70.73864
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-07T11:26:45-03:00",
+   "notified": false,
+   "last_seen": "2026-11-07T11:26:45-03:00",
+   "active": true
   }
  }
 }
