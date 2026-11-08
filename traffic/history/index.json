@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-08T12:13:26-03:00",
+ "generated_at": "2026-11-08T16:41:45-03:00",
  "months": {
   "2026-11": {
    "file": "traffic/history/2026-11.csv",
-   "rows": 799,
-   "bytes": 47180
+   "rows": 846,
+   "bytes": 49937
   }
  }
 }
