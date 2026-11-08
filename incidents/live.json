@@ -1,10 +1,194 @@
 {
- "generated_at": "2026-11-08T16:41:44-03:00",
+ "generated_at": "2026-11-08T20:13:37-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 69,
+ "corridor_total": 82,
  "errors": [],
  "incidents": [
+  {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29135510420016000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 192,
+   "length_m": 227,
+   "description": "Tráfico parado",
+   "from": "Carretera Panamericana Sur",
+   "to": "Autopista Acceso Sur",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-08T23:11:45Z",
+   "end": "2026-11-08T23:28:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 9,
+   "route": "R5",
+   "km": 51.05,
+   "km_from": 51.05,
+   "km_to": 51.28,
+   "sector": "Champa",
+   "lat": -33.88237,
+   "lon": -70.73649,
+   "geometry": [
+    [
+     -33.88237,
+     -70.73649
+    ],
+    [
+     -33.88255,
+     -70.73644
+    ],
+    [
+     -33.8828,
+     -70.73637
+    ],
+    [
+     -33.88292,
+     -70.73634
+    ],
+    [
+     -33.88324,
+     -70.73626
+    ],
+    [
+     -33.88356,
+     -70.7362
+    ],
+    [
+     -33.88376,
+     -70.73617
+    ],
+    [
+     -33.88408,
+     -70.73612
+    ],
+    [
+     -33.88437,
+     -70.73608
+    ],
+    [
+     -33.88438,
+     -70.73608
+    ]
+   ],
+   "severity": "alta",
+   "related_works": []
+  },
+  {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29274017864019000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 133,
+   "length_m": 483,
+   "description": "Tráfico en cola",
+   "from": "Calle Los Cipreses",
+   "to": "Autopista Acceso Sur / Caletera Acceso Sur",
+   "road_numbers": [],
+   "start": "2026-11-08T23:11:45Z",
+   "end": "2026-11-08T23:32:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 4,
+   "route": "ASS",
+   "km": 5.72,
+   "km_from": 5.72,
+   "km_to": 5.72,
+   "sector": "Gabriela",
+   "lat": -33.58312,
+   "lon": -70.6107,
+   "geometry": [
+    [
+     -33.5825,
+     -70.60603
+    ],
+    [
+     -33.58254,
+     -70.60632
+    ],
+    [
+     -33.58255,
+     -70.60641
+    ],
+    [
+     -33.58257,
+     -70.60656
+    ],
+    [
+     -33.58259,
+     -70.60668
+    ],
+    [
+     -33.5826,
+     -70.60676
+    ],
+    [
+     -33.58266,
+     -70.60723
+    ],
+    [
+     -33.58268,
+     -70.60736
+    ],
+    [
+     -33.58272,
+     -70.60763
+    ],
+    [
+     -33.58277,
+     -70.60803
+    ],
+    [
+     -33.58289,
+     -70.60885
+    ],
+    [
+     -33.58296,
+     -70.6093
+    ],
+    [
+     -33.58299,
+     -70.6096
+    ],
+    [
+     -33.583,
+     -70.60973
+    ],
+    [
+     -33.58301,
+     -70.60984
+    ],
+    [
+     -33.58312,
+     -70.6107
+    ],
+    [
+     -33.58314,
+     -70.6108
+    ],
+    [
+     -33.58315,
+     -70.61089
+    ],
+    [
+     -33.58318,
+     -70.61107
+    ],
+    [
+     -33.5832,
+     -70.61117
+    ]
+   ],
+   "severity": "media",
+   "related_works": []
+  },
   {
    "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTR29276903624030000",
    "category": 8,
@@ -363,6 +547,115 @@
     [
      -33.73941,
      -70.74109
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-635ea800-100d-48cf-a30d-1d12fc8689e3-TTL29144167252027000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 138,
+   "length_m": 471,
+   "description": "Tráfico en cola",
+   "from": "Calle Dario Pavez",
+   "to": "Calle Romero",
+   "road_numbers": [
+    "G-571"
+   ],
+   "start": "2026-11-08T23:10:45Z",
+   "end": "2026-11-08T23:32:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 282,
+   "route": "R5",
+   "km": 47.71,
+   "km_from": 47.71,
+   "km_to": 47.81,
+   "sector": "Champa",
+   "lat": -33.85443,
+   "lon": -70.74519,
+   "geometry": [
+    [
+     -33.85443,
+     -70.74519
+    ],
+    [
+     -33.85443,
+     -70.74518
+    ],
+    [
+     -33.85447,
+     -70.74501
+    ],
+    [
+     -33.85453,
+     -70.74482
+    ],
+    [
+     -33.8546,
+     -70.74466
+    ],
+    [
+     -33.85462,
+     -70.74462
+    ],
+    [
+     -33.85469,
+     -70.74452
+    ],
+    [
+     -33.85476,
+     -70.74443
+    ],
+    [
+     -33.85493,
+     -70.74423
+    ],
+    [
+     -33.85512,
+     -70.74399
+    ],
+    [
+     -33.85519,
+     -70.74386
+    ],
+    [
+     -33.85525,
+     -70.74372
+    ],
+    [
+     -33.85551,
+     -70.74298
+    ],
+    [
+     -33.85562,
+     -70.74267
+    ],
+    [
+     -33.85573,
+     -70.74237
+    ],
+    [
+     -33.85592,
+     -70.74188
+    ],
+    [
+     -33.85608,
+     -70.74141
+    ],
+    [
+     -33.85622,
+     -70.74101
+    ],
+    [
+     -33.85633,
+     -70.74069
     ]
    ],
    "severity": "baja",
