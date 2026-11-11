@@ -16262,7 +16262,8 @@
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29173022888052000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29173022888052000",
@@ -17549,7 +17550,8 @@
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28627649588020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28627649588020000",
@@ -18209,7 +18211,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903596014000": {
@@ -18276,7 +18278,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360912014000": {
@@ -18558,7 +18560,8 @@
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794532022000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794532022000",
@@ -18861,7 +18864,8 @@
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28999887416052000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28999887416052000",
@@ -18934,7 +18938,8 @@
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28636306312014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28636306312014000",
@@ -19121,7 +19126,8 @@
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29285560360081000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29285560360081000",
@@ -19433,7 +19439,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903556030000": {
@@ -19540,7 +19546,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794492037000": {
@@ -19958,7 +19964,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29262475544036000": {
@@ -20121,7 +20127,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29184565792014000": {
@@ -20176,7 +20182,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-11T07:59:15-03:00",
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977080022000": {
@@ -20810,7 +20816,8 @@
    "first_seen": "2026-11-10T15:41:10-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29167252204016000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29167252204016000",
@@ -22531,7 +22538,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29285560364022000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29285560364022000",
@@ -22706,7 +22714,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789276014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789276014000",
@@ -22825,7 +22834,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660046000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660046000",
@@ -22904,7 +22914,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132392006000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132392006000",
@@ -22955,7 +22966,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132428038000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132428038000",
@@ -23098,7 +23110,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29268246632029000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29268246632029000",
@@ -23233,7 +23246,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265361016013002": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265361016013002",
@@ -23296,7 +23310,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360800021000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360800021000",
@@ -23463,7 +23478,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29213421560008000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29213421560008000",
@@ -23660,7 +23676,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29198993576012000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29198993576012000",
@@ -23777,7 +23794,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336792014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336792014000",
@@ -23848,7 +23866,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336880022000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336880022000",
@@ -23913,7 +23932,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336732020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336732020000",
@@ -24002,7 +24022,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794544012000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794544012000",
@@ -24073,7 +24094,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794588020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794588020000",
@@ -24132,7 +24154,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29164366588024000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29164366588024000",
@@ -24317,7 +24340,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29025857564051000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29025857564051000",
@@ -24514,7 +24538,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29017200860035000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29017200860035000",
@@ -24712,7 +24737,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977112019000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977112019000",
@@ -24865,7 +24891,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977184019000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977184019000",
@@ -25026,7 +25053,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28924862700025000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28924862700025000",
@@ -25223,7 +25251,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28725758252044000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28725758252044000",
@@ -25388,7 +25417,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28699788624027000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28699788624027000",
@@ -25515,7 +25545,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28647848484014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28647848484014000",
@@ -25594,7 +25625,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28633420676018001": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28633420676018001",
@@ -25653,7 +25685,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28633420680010000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28633420680010000",
@@ -25712,7 +25745,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535132020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535132020000",
@@ -25771,7 +25805,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535152022000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535152022000",
@@ -25966,7 +26001,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535096020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535096020000",
@@ -26119,7 +26155,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660038001": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660038001",
@@ -26278,7 +26315,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29173022888044000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29173022888044000",
@@ -26419,7 +26457,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336848019000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336848019000",
@@ -26494,7 +26533,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535132012000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535132012000",
@@ -26593,7 +26633,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28624764092018000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28624764092018000",
@@ -26784,7 +26825,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29285560356014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29285560356014000",
@@ -26887,7 +26929,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29282674820014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29282674820014000",
@@ -26938,7 +26981,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903792014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903792014000",
@@ -27037,7 +27081,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360944020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360944020000",
@@ -27116,7 +27161,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29236505888027000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29236505888027000",
@@ -27313,7 +27359,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29196107708003000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29196107708003000",
@@ -27356,7 +27403,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29204764804038000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29204764804038000",
@@ -27445,7 +27493,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336840012000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29190336840012000",
@@ -27528,7 +27577,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29158595320012000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29158595320012000",
@@ -27575,7 +27625,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28832524560037000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28832524560037000",
@@ -27726,7 +27777,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28644962904028000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28644962904028000",
@@ -27799,7 +27851,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28627649656014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28627649656014000",
@@ -27874,7 +27927,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535260022000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535260022000",
@@ -27917,7 +27971,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535140020000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535140020000",
@@ -28032,7 +28087,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28621878728014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28621878728014000",
@@ -28107,7 +28163,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28621878512014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28621878512014000",
@@ -28182,7 +28239,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28618992852076001": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28618992852076001",
@@ -28379,7 +28437,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29274017864011000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29274017864011000",
@@ -28514,7 +28573,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29262475472028000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29262475472028000",
@@ -28621,7 +28681,8 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28835410256019000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28835410256019000",
@@ -28816,6 +28877,661 @@
    "first_seen": "2026-11-11T07:59:15-03:00",
    "notified": false,
    "last_seen": "2026-11-11T07:59:15-03:00",
+   "active": false,
+   "cleared_at": "2026-11-11T15:22:33-03:00"
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132356009000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132356009000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 543,
+   "length_m": 3468,
+   "description": "Tráfico parado",
+   "from": "Avenida Cardenal Raul Silva Henriquez",
+   "to": "Puente Alto",
+   "road_numbers": [
+    "79"
+   ],
+   "start": "2026-11-11T17:01:15Z",
+   "end": "2026-11-11T18:59:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "ASS",
+   "km": 5.2,
+   "km_from": 5.2,
+   "km_to": 8.67,
+   "sector": "Gabriela",
+   "lat": -33.57852,
+   "lon": -70.61151,
+   "geometry": [
+    [
+     -33.57852,
+     -70.61151
+    ],
+    [
+     -33.57905,
+     -70.61143
+    ],
+    [
+     -33.58049,
+     -70.61124
+    ],
+    [
+     -33.58092,
+     -70.61115
+    ],
+    [
+     -33.5813,
+     -70.61109
+    ],
+    [
+     -33.58289,
+     -70.61084
+    ],
+    [
+     -33.58325,
+     -70.61079
+    ],
+    [
+     -33.58475,
+     -70.6105
+    ],
+    [
+     -33.58539,
+     -70.61032
+    ],
+    [
+     -33.58571,
+     -70.61024
+    ],
+    [
+     -33.58665,
+     -70.60994
+    ],
+    [
+     -33.58779,
+     -70.60948
+    ],
+    [
+     -33.58826,
+     -70.60929
+    ],
+    [
+     -33.58858,
+     -70.60916
+    ],
+    [
+     -33.58898,
+     -70.60899
+    ],
+    [
+     -33.58962,
+     -70.60875
+    ],
+    [
+     -33.59024,
+     -70.60846
+    ],
+    [
+     -33.59133,
+     -70.60812
+    ],
+    [
+     -33.59181,
+     -70.60798
+    ],
+    [
+     -33.59258,
+     -70.6078
+    ],
+    [
+     -33.59285,
+     -70.60775
+    ],
+    [
+     -33.59404,
+     -70.60755
+    ],
+    [
+     -33.59461,
+     -70.60746
+    ],
+    [
+     -33.59677,
+     -70.6071
+    ],
+    [
+     -33.59712,
+     -70.60703
+    ],
+    [
+     -33.59797,
+     -70.60681
+    ],
+    [
+     -33.59834,
+     -70.60671
+    ],
+    [
+     -33.59894,
+     -70.60651
+    ],
+    [
+     -33.59952,
+     -70.60631
+    ],
+    [
+     -33.60056,
+     -70.6059
+    ],
+    [
+     -33.60186,
+     -70.60536
+    ],
+    [
+     -33.60204,
+     -70.60528
+    ],
+    [
+     -33.60253,
+     -70.60509
+    ],
+    [
+     -33.60482,
+     -70.60436
+    ],
+    [
+     -33.60551,
+     -70.6042
+    ],
+    [
+     -33.60632,
+     -70.60405
+    ],
+    [
+     -33.60644,
+     -70.60404
+    ],
+    [
+     -33.60665,
+     -70.60399
+    ],
+    [
+     -33.60786,
+     -70.60378
+    ],
+    [
+     -33.6089,
+     -70.60359
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-11T15:22:33-03:00",
+   "notified": false,
+   "last_seen": "2026-11-11T15:22:33-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29115310888051000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29115310888051000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 155,
+   "length_m": 585,
+   "description": "Tráfico parado",
+   "from": "Carretera Panamericana Sur",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [],
+   "start": "2026-11-11T18:08:45Z",
+   "end": "2026-11-11T18:41:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 13,
+   "route": "R5",
+   "km": 60.7,
+   "km_from": 60.7,
+   "km_to": 61.28,
+   "sector": "San Francisco Mostazal",
+   "lat": -33.96211,
+   "lon": -70.71032,
+   "geometry": [
+    [
+     -33.96707,
+     -70.70824
+    ],
+    [
+     -33.96664,
+     -70.7084
+    ],
+    [
+     -33.96591,
+     -70.70869
+    ],
+    [
+     -33.96567,
+     -70.70877
+    ],
+    [
+     -33.96548,
+     -70.70884
+    ],
+    [
+     -33.96423,
+     -70.70932
+    ],
+    [
+     -33.96383,
+     -70.70947
+    ],
+    [
+     -33.96363,
+     -70.70953
+    ],
+    [
+     -33.96355,
+     -70.70956
+    ],
+    [
+     -33.9633,
+     -70.70966
+    ],
+    [
+     -33.96318,
+     -70.70971
+    ],
+    [
+     -33.96284,
+     -70.70985
+    ],
+    [
+     -33.96261,
+     -70.70996
+    ],
+    [
+     -33.9625,
+     -70.71002
+    ],
+    [
+     -33.96241,
+     -70.71007
+    ],
+    [
+     -33.96211,
+     -70.71032
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-11T15:22:33-03:00",
+   "notified": false,
+   "last_seen": "2026-11-11T15:22:33-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR28921977084049000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR28921977084049000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 587,
+   "description": "Cerrado",
+   "from": "Carretera Panamericana Sur",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-11T18:11:45Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 12,
+   "route": "R5",
+   "km": 114.99,
+   "km_from": 114.65,
+   "km_to": 115.24,
+   "sector": "Rengo",
+   "lat": -34.4027,
+   "lon": -70.87303,
+   "geometry": [
+    [
+     -34.40472,
+     -70.87418
+    ],
+    [
+     -34.40417,
+     -70.87386
+    ],
+    [
+     -34.40357,
+     -70.87351
+    ],
+    [
+     -34.4027,
+     -70.87303
+    ],
+    [
+     -34.40249,
+     -70.87291
+    ],
+    [
+     -34.40196,
+     -70.87259
+    ],
+    [
+     -34.40179,
+     -70.87249
+    ],
+    [
+     -34.40132,
+     -70.87222
+    ],
+    [
+     -34.40112,
+     -70.87211
+    ],
+    [
+     -34.4006,
+     -70.87181
+    ],
+    [
+     -34.40028,
+     -70.87164
+    ],
+    [
+     -34.39995,
+     -70.87144
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-11T15:22:33-03:00",
+   "notified": false,
+   "last_seen": "2026-11-11T15:22:33-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28916205996121000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28916205996121000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 1032,
+   "length_m": 1405,
+   "description": "Tráfico parado",
+   "from": "Carretera Panamericana Sur",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-11T09:56:15Z",
+   "end": "2026-11-11T19:03:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 10,
+   "route": "R5",
+   "km": 116.72,
+   "km_from": 115.32,
+   "km_to": 116.72,
+   "sector": "Rengo",
+   "lat": -34.41677,
+   "lon": -70.88112,
+   "geometry": [
+    [
+     -34.41677,
+     -70.88112
+    ],
+    [
+     -34.41676,
+     -70.88112
+    ],
+    [
+     -34.41519,
+     -70.8802
+    ],
+    [
+     -34.41427,
+     -70.87967
+    ],
+    [
+     -34.41375,
+     -70.87937
+    ],
+    [
+     -34.41227,
+     -70.87852
+    ],
+    [
+     -34.4114,
+     -70.87801
+    ],
+    [
+     -34.41098,
+     -70.87777
+    ],
+    [
+     -34.4098,
+     -70.8771
+    ],
+    [
+     -34.40956,
+     -70.87696
+    ],
+    [
+     -34.40829,
+     -70.87624
+    ],
+    [
+     -34.40784,
+     -70.87598
+    ],
+    [
+     -34.40745,
+     -70.87575
+    ],
+    [
+     -34.40742,
+     -70.87573
+    ],
+    [
+     -34.40708,
+     -70.87554
+    ],
+    [
+     -34.40652,
+     -70.87522
+    ],
+    [
+     -34.40618,
+     -70.87502
+    ],
+    [
+     -34.40536,
+     -70.87455
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-11T15:22:33-03:00",
+   "notified": false,
+   "last_seen": "2026-11-11T15:22:33-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535168020000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28630535168020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 173,
+   "length_m": 261,
+   "description": "Tráfico parado",
+   "from": "Calle Los Arados",
+   "to": "Calle Las Heras Sur",
+   "road_numbers": [
+    "J-615"
+   ],
+   "start": "2026-11-11T17:23:15Z",
+   "end": "2026-11-11T21:21:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 62,
+   "route": "R5",
+   "km": 189.81,
+   "km_from": 189.81,
+   "km_to": 189.81,
+   "sector": "Curicó",
+   "lat": -34.984,
+   "lon": -71.21568,
+   "geometry": [
+    [
+     -34.98586,
+     -71.21394
+    ],
+    [
+     -34.98548,
+     -71.21428
+    ],
+    [
+     -34.98515,
+     -71.2146
+    ],
+    [
+     -34.98417,
+     -71.21552
+    ],
+    [
+     -34.984,
+     -71.21568
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-11T15:22:33-03:00",
+   "notified": false,
+   "last_seen": "2026-11-11T15:22:33-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28823867944027000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28823867944027000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 66,
+   "length_m": 296,
+   "description": "Tráfico lento",
+   "from": "Carretera Panamericana",
+   "to": "Avenida Libertador Bernardo O'Higgins / Camino Santa Cruz",
+   "road_numbers": [],
+   "start": "2026-11-11T18:20:15Z",
+   "end": "2026-11-11T18:41:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "R5",
+   "km": 140.5,
+   "km_from": 140.5,
+   "km_to": 140.76,
+   "sector": "Tinguiririca",
+   "lat": -34.60507,
+   "lon": -70.9824,
+   "geometry": [
+    [
+     -34.60507,
+     -70.9824
+    ],
+    [
+     -34.6052,
+     -70.98269
+    ],
+    [
+     -34.60526,
+     -70.98277
+    ],
+    [
+     -34.60539,
+     -70.98291
+    ],
+    [
+     -34.60549,
+     -70.983
+    ],
+    [
+     -34.6056,
+     -70.98311
+    ],
+    [
+     -34.60568,
+     -70.9832
+    ],
+    [
+     -34.60588,
+     -70.98339
+    ],
+    [
+     -34.60607,
+     -70.98361
+    ],
+    [
+     -34.60615,
+     -70.98372
+    ],
+    [
+     -34.60626,
+     -70.98392
+    ],
+    [
+     -34.60632,
+     -70.98408
+    ],
+    [
+     -34.60638,
+     -70.98426
+    ],
+    [
+     -34.60639,
+     -70.98432
+    ],
+    [
+     -34.60643,
+     -70.98461
+    ],
+    [
+     -34.60644,
+     -70.9848
+    ],
+    [
+     -34.60644,
+     -70.98485
+    ],
+    [
+     -34.60647,
+     -70.98499
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-11T15:22:33-03:00",
+   "notified": false,
+   "last_seen": "2026-11-11T15:22:33-03:00",
    "active": true
   }
  }
