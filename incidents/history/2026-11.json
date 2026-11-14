@@ -18147,9 +18147,9 @@
    "magnitude": 4,
    "magnitude_name": "indefinida",
    "delay_s": null,
-   "length_m": 138,
+   "length_m": 212,
    "description": "Cerrado",
-   "from": "Pasaje Salar de Carcote",
+   "from": "Calle Borde Sur",
    "to": "Calle Canal Troncal San Francisco / Calle San Francisco",
    "road_numbers": [],
    "start": "2026-11-10T00:03:15Z",
@@ -18161,11 +18161,19 @@
    "route": "ASS",
    "km": 4.38,
    "km_from": 4.3,
-   "km_to": 4.43,
+   "km_to": 4.51,
    "sector": "Gabriela",
    "lat": -33.57085,
    "lon": -70.60934,
    "geometry": [
+    [
+     -33.57194,
+     -70.60914
+    ],
+    [
+     -33.57169,
+     -70.6092
+    ],
     [
      -33.57129,
      -70.60927
@@ -18195,7 +18203,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903596014000": {
@@ -18262,7 +18270,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360912014000": {
@@ -19427,7 +19435,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903556030000": {
@@ -19534,7 +19542,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794492037000": {
@@ -19952,7 +19960,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29262475544036000": {
@@ -20115,7 +20123,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29184565792014000": {
@@ -20170,7 +20178,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-13T23:48:46-03:00",
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977080022000": {
@@ -36835,7 +36843,8 @@
    "first_seen": "2026-11-13T23:48:46-03:00",
    "notified": false,
    "last_seen": "2026-11-13T23:48:46-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-14T06:33:23-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29149938652008001": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29149938652008001",
@@ -37008,7 +37017,8 @@
    "first_seen": "2026-11-13T23:48:46-03:00",
    "notified": false,
    "last_seen": "2026-11-13T23:48:46-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-14T06:33:23-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28864265844009000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28864265844009000",
@@ -37205,6 +37215,156 @@
    "first_seen": "2026-11-13T23:48:46-03:00",
    "notified": false,
    "last_seen": "2026-11-13T23:48:46-03:00",
+   "active": false,
+   "cleared_at": "2026-11-14T06:33:23-03:00"
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29115310888097001": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29115310888097001",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 91,
+   "length_m": 1265,
+   "description": "Tráfico en cola",
+   "from": "Ruta 5 Sur",
+   "to": "Mostazal",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-14T09:28:45Z",
+   "end": "2026-11-14T09:52:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 12,
+   "route": "R5",
+   "km": 61.49,
+   "km_from": 60.44,
+   "km_to": 61.71,
+   "sector": "San Francisco Mostazal",
+   "lat": -33.96895,
+   "lon": -70.70767,
+   "geometry": [
+    [
+     -33.97078,
+     -70.70696
+    ],
+    [
+     -33.97067,
+     -70.707
+    ],
+    [
+     -33.97004,
+     -70.70724
+    ],
+    [
+     -33.96915,
+     -70.70759
+    ],
+    [
+     -33.96895,
+     -70.70767
+    ],
+    [
+     -33.96889,
+     -70.7077
+    ],
+    [
+     -33.96885,
+     -70.70771
+    ],
+    [
+     -33.9688,
+     -70.70773
+    ],
+    [
+     -33.9684,
+     -70.70788
+    ],
+    [
+     -33.96827,
+     -70.70793
+    ],
+    [
+     -33.96782,
+     -70.70809
+    ],
+    [
+     -33.96761,
+     -70.70817
+    ],
+    [
+     -33.96735,
+     -70.70826
+    ],
+    [
+     -33.96723,
+     -70.70831
+    ],
+    [
+     -33.9672,
+     -70.70833
+    ],
+    [
+     -33.96708,
+     -70.70838
+    ],
+    [
+     -33.96697,
+     -70.70842
+    ],
+    [
+     -33.96648,
+     -70.70862
+    ],
+    [
+     -33.96616,
+     -70.70875
+    ],
+    [
+     -33.96538,
+     -70.70905
+    ],
+    [
+     -33.96372,
+     -70.70969
+    ],
+    [
+     -33.96362,
+     -70.70972
+    ],
+    [
+     -33.96254,
+     -70.71015
+    ],
+    [
+     -33.96234,
+     -70.71022
+    ],
+    [
+     -33.96211,
+     -70.71032
+    ],
+    [
+     -33.96153,
+     -70.71053
+    ],
+    [
+     -33.95999,
+     -70.71113
+    ],
+    [
+     -33.95994,
+     -70.71114
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-14T06:33:23-03:00",
+   "notified": false,
+   "last_seen": "2026-11-14T06:33:23-03:00",
    "active": true
   }
  }
