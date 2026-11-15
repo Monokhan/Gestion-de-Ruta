@@ -18195,7 +18195,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903596014000": {
@@ -18258,7 +18258,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360912014000": {
@@ -19423,7 +19423,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903556030000": {
@@ -19530,7 +19530,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794492037000": {
@@ -19948,7 +19948,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29262475544036000": {
@@ -20111,7 +20111,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29184565792014000": {
@@ -20166,7 +20166,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T11:45:27-03:00",
+   "last_seen": "2026-11-15T16:59:53-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977080022000": {
@@ -31883,7 +31883,8 @@
    "first_seen": "2026-11-12T13:23:24-03:00",
    "notified": false,
    "last_seen": "2026-11-15T11:45:27-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-15T16:59:53-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132208105000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132208105000",
@@ -38694,7 +38695,8 @@
    "first_seen": "2026-11-15T11:45:27-03:00",
    "notified": false,
    "last_seen": "2026-11-15T11:45:27-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-15T16:59:53-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789276014002": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789276014002",
@@ -38817,7 +38819,8 @@
    "first_seen": "2026-11-15T11:45:27-03:00",
    "notified": false,
    "last_seen": "2026-11-15T11:45:27-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-15T16:59:53-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789204030000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789204030000",
@@ -38900,7 +38903,8 @@
    "first_seen": "2026-11-15T11:45:27-03:00",
    "notified": false,
    "last_seen": "2026-11-15T11:45:27-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-15T16:59:53-03:00"
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660014000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660014000",
@@ -38959,7 +38963,8 @@
    "first_seen": "2026-11-15T11:45:27-03:00",
    "notified": false,
    "last_seen": "2026-11-15T11:45:27-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-15T16:59:53-03:00"
   }
  }
 }
