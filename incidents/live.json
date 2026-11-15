@@ -1,10 +1,141 @@
 {
- "generated_at": "2026-11-15T16:59:53-03:00",
+ "generated_at": "2026-11-15T20:45:48-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 67,
+ "corridor_total": 81,
  "errors": [],
  "incidents": [
+  {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29274017864019000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 403,
+   "length_m": 702,
+   "description": "Tráfico parado",
+   "from": "Avenida Creta",
+   "to": "Autopista Acceso Sur / Caletera Acceso Sur",
+   "road_numbers": [],
+   "start": "2026-11-15T23:17:15Z",
+   "end": "2026-11-16T00:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 4,
+   "route": "ASS",
+   "km": 5.72,
+   "km_from": 5.72,
+   "km_to": 5.72,
+   "sector": "Gabriela",
+   "lat": -33.58312,
+   "lon": -70.6107,
+   "geometry": [
+    [
+     -33.58217,
+     -70.60369
+    ],
+    [
+     -33.58225,
+     -70.60425
+    ],
+    [
+     -33.5824,
+     -70.60525
+    ],
+    [
+     -33.58244,
+     -70.60556
+    ],
+    [
+     -33.58247,
+     -70.60584
+    ],
+    [
+     -33.5825,
+     -70.60603
+    ],
+    [
+     -33.58254,
+     -70.60632
+    ],
+    [
+     -33.58255,
+     -70.60641
+    ],
+    [
+     -33.58257,
+     -70.60656
+    ],
+    [
+     -33.58259,
+     -70.60668
+    ],
+    [
+     -33.5826,
+     -70.60676
+    ],
+    [
+     -33.58266,
+     -70.60723
+    ],
+    [
+     -33.58268,
+     -70.60736
+    ],
+    [
+     -33.58272,
+     -70.60763
+    ],
+    [
+     -33.58277,
+     -70.60803
+    ],
+    [
+     -33.58289,
+     -70.60885
+    ],
+    [
+     -33.58296,
+     -70.6093
+    ],
+    [
+     -33.58299,
+     -70.6096
+    ],
+    [
+     -33.583,
+     -70.60973
+    ],
+    [
+     -33.58301,
+     -70.60984
+    ],
+    [
+     -33.58312,
+     -70.6107
+    ],
+    [
+     -33.58314,
+     -70.6108
+    ],
+    [
+     -33.58315,
+     -70.61089
+    ],
+    [
+     -33.58318,
+     -70.61107
+    ],
+    [
+     -33.5832,
+     -70.61117
+    ]
+   ],
+   "severity": "alta",
+   "related_works": []
+  },
   {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903524014000",
    "category": 8,
@@ -68,10 +199,10 @@
    "magnitude": 4,
    "magnitude_name": "indefinida",
    "delay_s": null,
-   "length_m": 183,
+   "length_m": 212,
    "description": "Cerrado",
    "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
-   "to": "Pasaje Salar de Capur",
+   "to": "Calle Borde Sur",
    "road_numbers": [],
    "start": "2026-11-09T20:34:55Z",
    "end": null,
@@ -82,7 +213,7 @@
    "route": "ASS",
    "km": 4.38,
    "km_from": 4.3,
-   "km_to": 4.48,
+   "km_to": 4.51,
    "sector": "Gabriela",
    "lat": -33.57085,
    "lon": -70.60934,
@@ -114,6 +245,10 @@
     [
      -33.57169,
      -70.6092
+    ],
+    [
+     -33.57194,
+     -70.60914
     ]
    ],
    "severity": "media",
@@ -328,6 +463,67 @@
     [
      -33.57007,
      -70.61136
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29144167484056000",
+   "category": 9,
+   "category_name": "Obras",
+   "icon": "🚧",
+   "magnitude": 0,
+   "magnitude_name": "desconocida",
+   "delay_s": null,
+   "length_m": 707,
+   "description": "Obras",
+   "from": "Carretera Panamericana Sur / Ruta 5",
+   "to": "Carretera Panamericana Sur",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-15T20:15:46Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 15,
+   "route": "R5",
+   "km": 46.55,
+   "km_from": 46.55,
+   "km_to": 47.25,
+   "sector": "Champa",
+   "lat": -33.84439,
+   "lon": -70.75036,
+   "geometry": [
+    [
+     -33.85062,
+     -70.74885
+    ],
+    [
+     -33.85059,
+     -70.74886
+    ],
+    [
+     -33.85035,
+     -70.74892
+    ],
+    [
+     -33.84867,
+     -70.74932
+    ],
+    [
+     -33.84694,
+     -70.74974
+    ],
+    [
+     -33.84533,
+     -70.75013
+    ],
+    [
+     -33.84439,
+     -70.75036
     ]
    ],
    "severity": "baja",
