@@ -18195,7 +18195,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903596014000": {
@@ -18258,7 +18258,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29265360912014000": {
@@ -19423,7 +19423,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29276903556030000": {
@@ -19530,7 +19530,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29178794492037000": {
@@ -19948,7 +19948,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29262475544036000": {
@@ -20111,7 +20111,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTR29184565792014000": {
@@ -20166,7 +20166,7 @@
    "related_works": [],
    "first_seen": "2026-11-10T08:12:46-03:00",
    "notified": false,
-   "last_seen": "2026-11-15T04:05:44-03:00",
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL28921977080022000": {
@@ -31825,18 +31825,18 @@
    "category": 6,
    "category_name": "Congestión",
    "icon": "🚗",
-   "magnitude": 1,
-   "magnitude_name": "menor",
-   "delay_s": 105,
-   "length_m": 560,
-   "description": "Tráfico lento",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 124,
+   "length_m": 533,
+   "description": "Tráfico en cola",
    "from": "Calle Balmaceda",
    "to": "Calle Balmaceda / Avenida San Martín",
    "road_numbers": [
     "G-48"
    ],
-   "start": "2026-11-12T16:18:15Z",
-   "end": "2026-11-12T16:42:15Z",
+   "start": "2026-11-15T14:43:15Z",
+   "end": "2026-11-15T15:04:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "entorno",
@@ -31849,10 +31849,6 @@
    "lat": -33.73334,
    "lon": -70.73564,
    "geometry": [
-    [
-     -33.73261,
-     -70.74163
-    ],
     [
      -33.73264,
      -70.74134
@@ -31886,9 +31882,8 @@
    "related_works": [],
    "first_seen": "2026-11-12T13:23:24-03:00",
    "notified": false,
-   "last_seen": "2026-11-12T13:23:24-03:00",
-   "active": false,
-   "cleared_at": "2026-11-12T19:25:36-03:00"
+   "last_seen": "2026-11-15T11:45:27-03:00",
+   "active": true
   },
   "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132208105000": {
    "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29271132208105000",
@@ -38579,6 +38574,391 @@
    "first_seen": "2026-11-15T04:05:44-03:00",
    "notified": false,
    "last_seen": "2026-11-15T04:05:44-03:00",
+   "active": false,
+   "cleared_at": "2026-11-15T11:45:27-03:00"
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29282674712046000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29282674712046000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 361,
+   "length_m": 505,
+   "description": "Tráfico parado",
+   "from": "Avenida Bahía Catalina / Calle Bahia Catalina",
+   "to": "Avenida Las Parcelas / Calle Las Parcelas",
+   "road_numbers": [],
+   "start": "2026-11-15T14:41:45Z",
+   "end": "2026-11-15T15:07:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 2,
+   "route": "ASS",
+   "km": 2.71,
+   "km_from": 2.69,
+   "km_to": 2.71,
+   "sector": "Túnel Acceso Sur",
+   "lat": -33.55647,
+   "lon": -70.61632,
+   "geometry": [
+    [
+     -33.55559,
+     -70.61227
+    ],
+    [
+     -33.55561,
+     -70.6124
+    ],
+    [
+     -33.55563,
+     -70.61252
+    ],
+    [
+     -33.5557,
+     -70.61284
+    ],
+    [
+     -33.55573,
+     -70.61295
+    ],
+    [
+     -33.55581,
+     -70.61334
+    ],
+    [
+     -33.55592,
+     -70.61384
+    ],
+    [
+     -33.55598,
+     -70.61415
+    ],
+    [
+     -33.55601,
+     -70.61426
+    ],
+    [
+     -33.55609,
+     -70.61461
+    ],
+    [
+     -33.5562,
+     -70.61511
+    ],
+    [
+     -33.5563,
+     -70.61559
+    ],
+    [
+     -33.55639,
+     -70.61598
+    ],
+    [
+     -33.55642,
+     -70.61614
+    ],
+    [
+     -33.55643,
+     -70.6162
+    ],
+    [
+     -33.55645,
+     -70.61626
+    ],
+    [
+     -33.55647,
+     -70.61632
+    ],
+    [
+     -33.55648,
+     -70.61643
+    ],
+    [
+     -33.5565,
+     -70.61654
+    ],
+    [
+     -33.55652,
+     -70.61668
+    ],
+    [
+     -33.55673,
+     -70.61754
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-15T11:45:27-03:00",
+   "notified": false,
+   "last_seen": "2026-11-15T11:45:27-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789276014002": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789276014002",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 426,
+   "length_m": 551,
+   "description": "Tráfico parado",
+   "from": "Calle Nave Blanca",
+   "to": "Calle General Arriagada",
+   "road_numbers": [],
+   "start": "2026-11-15T14:33:45Z",
+   "end": "2026-11-15T15:15:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 128,
+   "route": "ASS",
+   "km": 3.27,
+   "km_from": 3.27,
+   "km_to": 3.79,
+   "sector": "Gabriela",
+   "lat": -33.56113,
+   "lon": -70.61358,
+   "geometry": [
+    [
+     -33.56569,
+     -70.61203
+    ],
+    [
+     -33.56523,
+     -70.6121
+    ],
+    [
+     -33.56483,
+     -70.61216
+    ],
+    [
+     -33.56467,
+     -70.61219
+    ],
+    [
+     -33.56463,
+     -70.6122
+    ],
+    [
+     -33.56456,
+     -70.6122
+    ],
+    [
+     -33.56444,
+     -70.61222
+    ],
+    [
+     -33.56395,
+     -70.61229
+    ],
+    [
+     -33.56375,
+     -70.61233
+    ],
+    [
+     -33.5635,
+     -70.61239
+    ],
+    [
+     -33.56307,
+     -70.61244
+    ],
+    [
+     -33.56264,
+     -70.61249
+    ],
+    [
+     -33.56235,
+     -70.61251
+    ],
+    [
+     -33.56217,
+     -70.61253
+    ],
+    [
+     -33.56207,
+     -70.61256
+    ],
+    [
+     -33.56194,
+     -70.61259
+    ],
+    [
+     -33.56186,
+     -70.61263
+    ],
+    [
+     -33.56177,
+     -70.61269
+    ],
+    [
+     -33.56174,
+     -70.61271
+    ],
+    [
+     -33.56162,
+     -70.61281
+    ],
+    [
+     -33.56154,
+     -70.6129
+    ],
+    [
+     -33.56113,
+     -70.61358
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-15T11:45:27-03:00",
+   "notified": false,
+   "last_seen": "2026-11-15T11:45:27-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789204030000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29279789204030000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 213,
+   "length_m": 267,
+   "description": "Tráfico parado",
+   "from": "Avenida La Orquesta",
+   "to": "Calle María Elena",
+   "road_numbers": [],
+   "start": "2026-11-15T14:41:15Z",
+   "end": "2026-11-15T15:04:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 154,
+   "route": "ASS",
+   "km": 3.6,
+   "km_from": 3.34,
+   "km_to": 3.6,
+   "sector": "Gabriela",
+   "lat": -33.56396,
+   "lon": -70.61243,
+   "geometry": [
+    [
+     -33.56164,
+     -70.613
+    ],
+    [
+     -33.56173,
+     -70.61291
+    ],
+    [
+     -33.5619,
+     -70.61278
+    ],
+    [
+     -33.56194,
+     -70.61276
+    ],
+    [
+     -33.56218,
+     -70.61267
+    ],
+    [
+     -33.56234,
+     -70.61265
+    ],
+    [
+     -33.56258,
+     -70.61262
+    ],
+    [
+     -33.56333,
+     -70.61252
+    ],
+    [
+     -33.56351,
+     -70.61249
+    ],
+    [
+     -33.56364,
+     -70.61247
+    ],
+    [
+     -33.56369,
+     -70.61247
+    ],
+    [
+     -33.56396,
+     -70.61243
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-15T11:45:27-03:00",
+   "notified": false,
+   "last_seen": "2026-11-15T11:45:27-03:00",
+   "active": true
+  },
+  "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660014000": {
+   "id": "TTI-498f1f19-6763-4bf9-a53a-942fcb4ff4c7-TTL29276903660014000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 168,
+   "length_m": 236,
+   "description": "Tráfico parado",
+   "from": "Calle Pielago del Sur",
+   "to": "Calle Nave Blanca",
+   "road_numbers": [],
+   "start": "2026-11-15T14:16:15Z",
+   "end": "2026-11-15T15:04:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 130,
+   "route": "ASS",
+   "km": 4.06,
+   "km_from": 3.84,
+   "km_to": 4.06,
+   "sector": "Gabriela",
+   "lat": -33.56821,
+   "lon": -70.61167,
+   "geometry": [
+    [
+     -33.56821,
+     -70.61167
+    ],
+    [
+     -33.56782,
+     -70.61172
+    ],
+    [
+     -33.5674,
+     -70.61179
+    ],
+    [
+     -33.56698,
+     -70.61184
+    ],
+    [
+     -33.56655,
+     -70.6119
+    ],
+    [
+     -33.5661,
+     -70.61197
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-15T11:45:27-03:00",
+   "notified": false,
+   "last_seen": "2026-11-15T11:45:27-03:00",
    "active": true
   }
  }
