@@ -42615,7 +42615,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535276036000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535276036000",
@@ -43977,7 +43978,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000": {
@@ -44040,7 +44041,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29271132320014000": {
@@ -44180,7 +44181,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265360912014000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265360912014000",
@@ -44311,7 +44313,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29204764840022000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29204764840022000",
@@ -44719,7 +44722,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000": {
@@ -44826,7 +44829,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556014000": {
@@ -44869,7 +44872,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000": {
@@ -44924,7 +44927,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000": {
@@ -44979,7 +44982,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28999887416052000": {
@@ -46049,7 +46052,8 @@
    "first_seen": "2026-11-17T09:33:26-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28855609144049000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28855609144049000",
@@ -47004,14 +47008,14 @@
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 137,
+   "delay_s": 134,
    "length_m": 201,
    "description": "Tráfico parado",
    "from": "Carretera Panamericana Sur",
    "to": "Avenida Arturo Alessandri",
    "road_numbers": [],
-   "start": "2026-11-18T10:40:15Z",
-   "end": "2026-11-18T11:06:45Z",
+   "start": "2026-11-18T19:04:45Z",
+   "end": "2026-11-18T19:29:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
@@ -47057,7 +47061,7 @@
    "related_works": [],
    "first_seen": "2026-11-17T18:16:28-03:00",
    "notified": false,
-   "last_seen": "2026-11-18T07:48:00-03:00",
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535072044000": {
@@ -48455,7 +48459,8 @@
    "first_seen": "2026-11-17T18:16:28-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28624764200014000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28624764200014000",
@@ -49672,7 +49677,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265361016013000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265361016013000",
@@ -49735,7 +49741,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265360804013000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265360804013000",
@@ -49914,7 +49921,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29014315232035000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29014315232035000",
@@ -50112,7 +50120,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28849838056081000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28849838056081000",
@@ -50309,7 +50318,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28647848484014002": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28647848484014002",
@@ -50388,7 +50398,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28633420676012000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28633420676012000",
@@ -50451,7 +50462,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28633420748076000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28633420748076000",
@@ -50594,7 +50606,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535152022000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535152022000",
@@ -50789,7 +50802,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28627649696020000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28627649696020000",
@@ -50986,7 +51000,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535060012000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535060012000",
@@ -51053,7 +51068,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28624764044010000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28624764044010000",
@@ -51160,7 +51176,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28621878620042000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28621878620042000",
@@ -51251,7 +51268,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29268246632029000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29268246632029000",
@@ -51386,7 +51404,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535080020000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535080020000",
@@ -51515,7 +51534,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29239391044051000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29239391044051000",
@@ -51624,7 +51644,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29190336804012002": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29190336804012002",
@@ -51691,7 +51712,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29022972276035000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29022972276035000",
@@ -51800,7 +51822,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29276904064056001": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29276904064056001",
@@ -51997,7 +52020,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29282674888105000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29282674888105000",
@@ -52194,7 +52218,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29178794348020002": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29178794348020002",
@@ -52351,7 +52376,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29274017864027000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29274017864027000",
@@ -52478,7 +52504,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29178794492030000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29178794492030000",
@@ -52579,7 +52606,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29022972160067000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29022972160067000",
@@ -52728,7 +52756,8 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28618992984068000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28618992984068000",
@@ -52925,6 +52954,414 @@
    "first_seen": "2026-11-18T07:48:00-03:00",
    "notified": false,
    "last_seen": "2026-11-18T07:48:00-03:00",
+   "active": false,
+   "cleared_at": "2026-11-18T16:10:15-03:00"
+  },
+  "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29274017976019002": {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29274017976019002",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 237,
+   "length_m": 225,
+   "description": "Tráfico parado",
+   "from": "La Pintana",
+   "to": "Caletera Acceso Sur / Calle Gabriela Poniente",
+   "road_numbers": [],
+   "start": "2026-11-18T19:07:15Z",
+   "end": "2026-11-18T19:32:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 16,
+   "route": "ASS",
+   "km": 5.5,
+   "km_from": 5.5,
+   "km_to": 5.72,
+   "sector": "Gabriela",
+   "lat": -33.58118,
+   "lon": -70.61129,
+   "geometry": [
+    [
+     -33.58118,
+     -70.61129
+    ],
+    [
+     -33.58139,
+     -70.61127
+    ],
+    [
+     -33.58152,
+     -70.61127
+    ],
+    [
+     -33.58175,
+     -70.61126
+    ],
+    [
+     -33.58196,
+     -70.61125
+    ],
+    [
+     -33.58231,
+     -70.61122
+    ],
+    [
+     -33.58262,
+     -70.61121
+    ],
+    [
+     -33.58274,
+     -70.61119
+    ],
+    [
+     -33.58293,
+     -70.61119
+    ],
+    [
+     -33.58307,
+     -70.61118
+    ],
+    [
+     -33.5832,
+     -70.61117
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-18T16:10:15-03:00",
+   "notified": false,
+   "last_seen": "2026-11-18T16:10:15-03:00",
+   "active": true
+  },
+  "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28924862772019000": {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28924862772019000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 141,
+   "length_m": 226,
+   "description": "Tráfico parado",
+   "from": "Carretera Panamericana Sur / Ruta Cinco Sur",
+   "to": "Ruta Cinco Sur",
+   "road_numbers": [],
+   "start": "2026-11-18T19:08:45Z",
+   "end": "2026-11-18T19:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 1,
+   "route": "R5",
+   "km": 114.5,
+   "km_from": 114.49,
+   "km_to": 114.72,
+   "sector": "Rengo",
+   "lat": -34.39867,
+   "lon": -70.87088,
+   "geometry": [
+    [
+     -34.39861,
+     -70.8708
+    ],
+    [
+     -34.39867,
+     -70.87088
+    ],
+    [
+     -34.39876,
+     -70.87095
+    ],
+    [
+     -34.39888,
+     -70.87103
+    ],
+    [
+     -34.39903,
+     -70.87113
+    ],
+    [
+     -34.39928,
+     -70.87128
+    ],
+    [
+     -34.39944,
+     -70.87139
+    ],
+    [
+     -34.39973,
+     -70.87157
+    ],
+    [
+     -34.39996,
+     -70.87172
+    ],
+    [
+     -34.40014,
+     -70.87182
+    ],
+    [
+     -34.40018,
+     -70.87184
+    ],
+    [
+     -34.4004,
+     -70.87196
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-18T16:10:15-03:00",
+   "notified": false,
+   "last_seen": "2026-11-18T16:10:15-03:00",
+   "active": true
+  },
+  "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535168020000": {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535168020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 261,
+   "length_m": 502,
+   "description": "Tráfico parado",
+   "from": "Carretera Camino a Zapallar / Avenida Ángel Lago",
+   "to": "Calle Las Heras Sur",
+   "road_numbers": [
+    "J-615"
+   ],
+   "start": "2026-11-18T17:57:15Z",
+   "end": "2026-11-18T21:33:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 24,
+   "route": "R5",
+   "km": 189.81,
+   "km_from": 189.81,
+   "km_to": 189.81,
+   "sector": "Curicó",
+   "lat": -34.98373,
+   "lon": -71.21593,
+   "geometry": [
+    [
+     -34.98732,
+     -71.21259
+    ],
+    [
+     -34.98722,
+     -71.21267
+    ],
+    [
+     -34.98701,
+     -71.21286
+    ],
+    [
+     -34.98686,
+     -71.21299
+    ],
+    [
+     -34.98682,
+     -71.21303
+    ],
+    [
+     -34.9867,
+     -71.21314
+    ],
+    [
+     -34.98658,
+     -71.21326
+    ],
+    [
+     -34.9865,
+     -71.21334
+    ],
+    [
+     -34.98643,
+     -71.21341
+    ],
+    [
+     -34.9862,
+     -71.21362
+    ],
+    [
+     -34.98618,
+     -71.21364
+    ],
+    [
+     -34.98608,
+     -71.21373
+    ],
+    [
+     -34.98602,
+     -71.2138
+    ],
+    [
+     -34.98586,
+     -71.21394
+    ],
+    [
+     -34.98548,
+     -71.21428
+    ],
+    [
+     -34.98515,
+     -71.2146
+    ],
+    [
+     -34.98417,
+     -71.21552
+    ],
+    [
+     -34.984,
+     -71.21568
+    ],
+    [
+     -34.98389,
+     -71.21578
+    ],
+    [
+     -34.98373,
+     -71.21593
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-18T16:10:15-03:00",
+   "notified": false,
+   "last_seen": "2026-11-18T16:10:15-03:00",
+   "active": true
+  },
+  "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28893121376010000": {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28893121376010000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 2,
+   "magnitude_name": "moderada",
+   "delay_s": 68,
+   "length_m": 91,
+   "description": "Tráfico en cola",
+   "from": "Carretera Panamericana Sur",
+   "to": "Carretera de La Fruta",
+   "road_numbers": [
+    "66"
+   ],
+   "start": "2026-11-18T19:08:45Z",
+   "end": "2026-11-18T19:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 13,
+   "route": "R5",
+   "km": 122.43,
+   "km_from": 122.4,
+   "km_to": 122.43,
+   "sector": "Pelequén",
+   "lat": -34.4662,
+   "lon": -70.89774,
+   "geometry": [
+    [
+     -34.4662,
+     -70.89774
+    ],
+    [
+     -34.46612,
+     -70.89764
+    ],
+    [
+     -34.46606,
+     -70.89755
+    ],
+    [
+     -34.466,
+     -70.89746
+    ],
+    [
+     -34.46598,
+     -70.89735
+    ],
+    [
+     -34.46597,
+     -70.89724
+    ],
+    [
+     -34.46597,
+     -70.89718
+    ],
+    [
+     -34.46602,
+     -70.897
+    ],
+    [
+     -34.46607,
+     -70.89691
+    ],
+    [
+     -34.4661,
+     -70.8969
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-18T16:10:15-03:00",
+   "notified": false,
+   "last_seen": "2026-11-18T16:10:15-03:00",
+   "active": true
+  },
+  "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535224022000": {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28630535224022000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 161,
+   "length_m": 162,
+   "description": "Tráfico parado",
+   "from": "Calle Río Elqui",
+   "to": "Avenida Arturo Alessandri",
+   "road_numbers": [],
+   "start": "2026-11-18T18:51:15Z",
+   "end": "2026-11-18T19:29:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 247,
+   "route": "R5",
+   "km": 189.16,
+   "km_from": 189.16,
+   "km_to": 189.25,
+   "sector": "Curicó",
+   "lat": -34.97814,
+   "lon": -71.21223,
+   "geometry": [
+    [
+     -34.97778,
+     -71.21396
+    ],
+    [
+     -34.97783,
+     -71.21369
+    ],
+    [
+     -34.97801,
+     -71.2128
+    ],
+    [
+     -34.97814,
+     -71.21223
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-18T16:10:15-03:00",
+   "notified": false,
+   "last_seen": "2026-11-18T16:10:15-03:00",
    "active": true
   }
  }
