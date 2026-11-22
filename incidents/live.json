@@ -1,67 +1,75 @@
 {
- "generated_at": "2026-11-22T07:12:56-03:00",
+ "generated_at": "2026-11-22T14:49:56-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 59,
+ "corridor_total": 84,
  "errors": [],
  "incidents": [
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 183,
-   "description": "Cerrado",
-   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
-   "to": "Calle Geranio del Bosque / Pasaje Salar de Capur",
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29282674640022000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 207,
+   "length_m": 198,
+   "description": "Tráfico parado",
+   "from": "Calle Reyes Catolicos",
+   "to": "Calle La Orquesta",
    "road_numbers": [],
-   "start": "2026-11-09T20:24:15Z",
-   "end": null,
+   "start": "2026-11-22T17:44:15Z",
+   "end": "2026-11-22T18:09:45Z",
    "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 308,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 2,
    "route": "ASS",
-   "km": 4.38,
-   "km_from": 4.3,
-   "km_to": 4.48,
-   "sector": "Gabriela",
-   "lat": -33.57085,
-   "lon": -70.60934,
+   "km": 2.72,
+   "km_from": 2.71,
+   "km_to": 2.72,
+   "sector": "Túnel Acceso Sur",
+   "lat": -33.55656,
+   "lon": -70.61629,
    "geometry": [
     [
-     -33.57007,
-     -70.60928
+     -33.55656,
+     -70.61629
     ],
     [
-     -33.57037,
-     -70.60923
+     -33.55654,
+     -70.61623
     ],
     [
-     -33.57057,
-     -70.60927
+     -33.55653,
+     -70.61617
     ],
     [
-     -33.57071,
-     -70.60932
+     -33.55651,
+     -70.61611
     ],
     [
-     -33.57085,
-     -70.60934
+     -33.55648,
+     -70.61594
     ],
     [
-     -33.57129,
-     -70.60927
+     -33.55643,
+     -70.61571
     ],
     [
-     -33.57169,
-     -70.6092
+     -33.55631,
+     -70.61513
+    ],
+    [
+     -33.55621,
+     -70.61469
+    ],
+    [
+     -33.5561,
+     -70.61422
     ]
    ],
-   "severity": "media",
+   "severity": "alta",
    "related_works": []
   },
   {
@@ -125,6 +133,196 @@
     ]
    ],
    "severity": "media",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 317,
+   "description": "Cerrado",
+   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
+   "to": "Calle Camelia Blanca",
+   "road_numbers": [],
+   "start": "2026-11-09T20:24:15Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
+   "route": "ASS",
+   "km": 4.38,
+   "km_from": 4.3,
+   "km_to": 4.61,
+   "sector": "Gabriela",
+   "lat": -33.57085,
+   "lon": -70.60934,
+   "geometry": [
+    [
+     -33.57007,
+     -70.60928
+    ],
+    [
+     -33.57037,
+     -70.60923
+    ],
+    [
+     -33.57057,
+     -70.60927
+    ],
+    [
+     -33.57071,
+     -70.60932
+    ],
+    [
+     -33.57085,
+     -70.60934
+    ],
+    [
+     -33.57129,
+     -70.60927
+    ],
+    [
+     -33.57169,
+     -70.6092
+    ],
+    [
+     -33.57194,
+     -70.60914
+    ],
+    [
+     -33.57204,
+     -70.6091
+    ],
+    [
+     -33.57214,
+     -70.60906
+    ],
+    [
+     -33.57223,
+     -70.60901
+    ],
+    [
+     -33.57231,
+     -70.60896
+    ],
+    [
+     -33.57255,
+     -70.60886
+    ],
+    [
+     -33.57284,
+     -70.60879
+    ]
+   ],
+   "severity": "media",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 283,
+   "description": "Cerrado",
+   "from": "Caletera Acceso Sur",
+   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
+   "road_numbers": [],
+   "start": "2025-10-02T20:56:30Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "ASS",
+   "km": 4.26,
+   "km_from": 4.21,
+   "km_to": 4.27,
+   "sector": "Gabriela",
+   "lat": -33.5701,
+   "lon": -70.61279,
+   "geometry": [
+    [
+     -33.56971,
+     -70.61325
+    ],
+    [
+     -33.56974,
+     -70.61352
+    ],
+    [
+     -33.56978,
+     -70.61364
+    ],
+    [
+     -33.56984,
+     -70.61369
+    ],
+    [
+     -33.56992,
+     -70.6137
+    ],
+    [
+     -33.56999,
+     -70.61369
+    ],
+    [
+     -33.57004,
+     -70.61365
+    ],
+    [
+     -33.57008,
+     -70.61359
+    ],
+    [
+     -33.5701,
+     -70.61348
+    ],
+    [
+     -33.57011,
+     -70.61334
+    ],
+    [
+     -33.5701,
+     -70.61296
+    ],
+    [
+     -33.5701,
+     -70.61279
+    ],
+    [
+     -33.57009,
+     -70.61264
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.57009,
+     -70.6124
+    ],
+    [
+     -33.57008,
+     -70.61203
+    ],
+    [
+     -33.57007,
+     -70.61158
+    ],
+    [
+     -33.57007,
+     -70.61136
+    ]
+   ],
+   "severity": "baja",
    "related_works": []
   },
   {
@@ -233,109 +431,6 @@
     [
      -33.56979,
      -70.61303
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 283,
-   "description": "Cerrado",
-   "from": "Caletera Acceso Sur",
-   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
-   "road_numbers": [],
-   "start": "2025-10-02T20:56:30Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "ruta",
-   "dist_m": 0,
-   "route": "ASS",
-   "km": 4.26,
-   "km_from": 4.21,
-   "km_to": 4.27,
-   "sector": "Gabriela",
-   "lat": -33.5701,
-   "lon": -70.61279,
-   "geometry": [
-    [
-     -33.56971,
-     -70.61325
-    ],
-    [
-     -33.56974,
-     -70.61352
-    ],
-    [
-     -33.56978,
-     -70.61364
-    ],
-    [
-     -33.56984,
-     -70.61369
-    ],
-    [
-     -33.56992,
-     -70.6137
-    ],
-    [
-     -33.56999,
-     -70.61369
-    ],
-    [
-     -33.57004,
-     -70.61365
-    ],
-    [
-     -33.57008,
-     -70.61359
-    ],
-    [
-     -33.5701,
-     -70.61348
-    ],
-    [
-     -33.57011,
-     -70.61334
-    ],
-    [
-     -33.5701,
-     -70.61296
-    ],
-    [
-     -33.5701,
-     -70.61279
-    ],
-    [
-     -33.57009,
-     -70.61264
-    ],
-    [
-     -33.57009,
-     -70.61248
-    ],
-    [
-     -33.57009,
-     -70.6124
-    ],
-    [
-     -33.57008,
-     -70.61203
-    ],
-    [
-     -33.57007,
-     -70.61158
-    ],
-    [
-     -33.57007,
-     -70.61136
     ]
    ],
    "severity": "baja",

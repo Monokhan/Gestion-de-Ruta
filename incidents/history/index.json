@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-22T07:12:56-03:00",
+ "generated_at": "2026-11-22T14:49:56-03:00",
  "months": {
   "2026-11": {
-   "n": 511,
-   "en_ruta": 347,
+   "n": 512,
+   "en_ruta": 348,
    "por_categoria": {
-    "Congestión": 476,
+    "Congestión": 477,
     "Vía cerrada": 29,
     "Obras": 6
    },
    "por_severidad": {
-    "alta": 220,
+    "alta": 221,
     "media": 185,
     "baja": 106
    },
