@@ -1,136 +1,64 @@
 {
- "generated_at": "2026-11-21T19:20:35-03:00",
+ "generated_at": "2026-11-21T23:36:25-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 113,
+ "corridor_total": 84,
  "errors": [],
  "incidents": [
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29274017864019001",
-   "category": 6,
-   "category_name": "Congestión",
-   "icon": "🚗",
-   "magnitude": 2,
-   "magnitude_name": "moderada",
-   "delay_s": 210,
-   "length_m": 702,
-   "description": "Tráfico en cola",
-   "from": "Avenida Creta Norte",
-   "to": "Autopista Acceso Sur / Caletera Acceso Sur",
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 183,
+   "description": "Cerrado",
+   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
+   "to": "Calle Geranio del Bosque / Pasaje Salar de Capur",
    "road_numbers": [],
-   "start": "2026-11-21T12:11:15Z",
-   "end": "2026-11-21T22:40:15Z",
+   "start": "2026-11-09T20:24:15Z",
+   "end": null,
    "last_report": null,
-   "probability": "certain",
-   "relation": "ruta",
-   "dist_m": 4,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
    "route": "ASS",
-   "km": 5.72,
-   "km_from": 5.72,
-   "km_to": 5.72,
+   "km": 4.38,
+   "km_from": 4.3,
+   "km_to": 4.48,
    "sector": "Gabriela",
-   "lat": -33.58312,
-   "lon": -70.6107,
+   "lat": -33.57085,
+   "lon": -70.60934,
    "geometry": [
     [
-     -33.58217,
-     -70.60369
+     -33.57007,
+     -70.60928
     ],
     [
-     -33.58225,
-     -70.60425
+     -33.57037,
+     -70.60923
     ],
     [
-     -33.5824,
-     -70.60525
+     -33.57057,
+     -70.60927
     ],
     [
-     -33.58244,
-     -70.60556
+     -33.57071,
+     -70.60932
     ],
     [
-     -33.58247,
-     -70.60584
+     -33.57085,
+     -70.60934
     ],
     [
-     -33.5825,
-     -70.60603
+     -33.57129,
+     -70.60927
     ],
     [
-     -33.58254,
-     -70.60632
-    ],
-    [
-     -33.58255,
-     -70.60641
-    ],
-    [
-     -33.58257,
-     -70.60656
-    ],
-    [
-     -33.58259,
-     -70.60668
-    ],
-    [
-     -33.5826,
-     -70.60676
-    ],
-    [
-     -33.58266,
-     -70.60723
-    ],
-    [
-     -33.58268,
-     -70.60736
-    ],
-    [
-     -33.58272,
-     -70.60763
-    ],
-    [
-     -33.58277,
-     -70.60803
-    ],
-    [
-     -33.58289,
-     -70.60885
-    ],
-    [
-     -33.58296,
-     -70.6093
-    ],
-    [
-     -33.58299,
-     -70.6096
-    ],
-    [
-     -33.583,
-     -70.60973
-    ],
-    [
-     -33.58301,
-     -70.60984
-    ],
-    [
-     -33.58312,
-     -70.6107
-    ],
-    [
-     -33.58314,
-     -70.6108
-    ],
-    [
-     -33.58315,
-     -70.61089
-    ],
-    [
-     -33.58318,
-     -70.61107
-    ],
-    [
-     -33.5832,
-     -70.61117
+     -33.57169,
+     -70.6092
     ]
    ],
    "severity": "media",
@@ -200,133 +128,106 @@
    "related_works": []
   },
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
    "category": 8,
    "category_name": "Vía cerrada",
    "icon": "⛔",
    "magnitude": 4,
    "magnitude_name": "indefinida",
    "delay_s": null,
-   "length_m": 212,
+   "length_m": 283,
    "description": "Cerrado",
-   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
-   "to": "Calle Borde Sur",
+   "from": "Caletera Acceso Sur",
+   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
    "road_numbers": [],
-   "start": "2026-11-09T20:24:15Z",
+   "start": "2025-10-02T20:56:30Z",
    "end": null,
    "last_report": null,
    "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 308,
+   "relation": "ruta",
+   "dist_m": 0,
    "route": "ASS",
-   "km": 4.38,
-   "km_from": 4.3,
-   "km_to": 4.51,
+   "km": 4.26,
+   "km_from": 4.21,
+   "km_to": 4.27,
    "sector": "Gabriela",
-   "lat": -33.57085,
-   "lon": -70.60934,
+   "lat": -33.5701,
+   "lon": -70.61279,
    "geometry": [
+    [
+     -33.56971,
+     -70.61325
+    ],
+    [
+     -33.56974,
+     -70.61352
+    ],
+    [
+     -33.56978,
+     -70.61364
+    ],
+    [
+     -33.56984,
+     -70.61369
+    ],
+    [
+     -33.56992,
+     -70.6137
+    ],
+    [
+     -33.56999,
+     -70.61369
+    ],
+    [
+     -33.57004,
+     -70.61365
+    ],
+    [
+     -33.57008,
+     -70.61359
+    ],
+    [
+     -33.5701,
+     -70.61348
+    ],
+    [
+     -33.57011,
+     -70.61334
+    ],
+    [
+     -33.5701,
+     -70.61296
+    ],
+    [
+     -33.5701,
+     -70.61279
+    ],
+    [
+     -33.57009,
+     -70.61264
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.57009,
+     -70.6124
+    ],
+    [
+     -33.57008,
+     -70.61203
+    ],
     [
      -33.57007,
-     -70.60928
+     -70.61158
     ],
     [
-     -33.57037,
-     -70.60923
-    ],
-    [
-     -33.57057,
-     -70.60927
-    ],
-    [
-     -33.57071,
-     -70.60932
-    ],
-    [
-     -33.57085,
-     -70.60934
-    ],
-    [
-     -33.57129,
-     -70.60927
-    ],
-    [
-     -33.57169,
-     -70.6092
-    ],
-    [
-     -33.57194,
-     -70.60914
+     -33.57007,
+     -70.61136
     ]
    ],
-   "severity": "media",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29190336844004000",
-   "category": 6,
-   "category_name": "Congestión",
-   "icon": "🚗",
-   "magnitude": 3,
-   "magnitude_name": "mayor",
-   "delay_s": 223,
-   "length_m": 376,
-   "description": "Tráfico parado",
-   "from": "Calle Caletera Ruta 5 Sur",
-   "to": "Camino Estacion",
-   "road_numbers": [],
-   "start": "2026-11-21T21:58:15Z",
-   "end": "2026-11-21T22:40:15Z",
-   "last_report": null,
-   "probability": "certain",
-   "relation": "entorno",
-   "dist_m": 137,
-   "route": "R5",
-   "km": 33.94,
-   "km_from": 33.82,
-   "km_to": 33.94,
-   "sector": "Buin",
-   "lat": -33.73328,
-   "lon": -70.73235,
-   "geometry": [
-    [
-     -33.73328,
-     -70.73235
-    ],
-    [
-     -33.73328,
-     -70.73217
-    ],
-    [
-     -33.73326,
-     -70.73171
-    ],
-    [
-     -33.73324,
-     -70.73133
-    ],
-    [
-     -33.73323,
-     -70.73098
-    ],
-    [
-     -33.73321,
-     -70.73016
-    ],
-    [
-     -33.73319,
-     -70.72933
-    ],
-    [
-     -33.73361,
-     -70.72941
-    ],
-    [
-     -33.73404,
-     -70.72949
-    ]
-   ],
-   "severity": "media",
+   "severity": "baja",
    "related_works": []
   },
   {
@@ -441,302 +342,6 @@
    "related_works": []
   },
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 283,
-   "description": "Cerrado",
-   "from": "Caletera Acceso Sur",
-   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
-   "road_numbers": [],
-   "start": "2025-10-02T20:56:30Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "ruta",
-   "dist_m": 0,
-   "route": "ASS",
-   "km": 4.26,
-   "km_from": 4.21,
-   "km_to": 4.27,
-   "sector": "Gabriela",
-   "lat": -33.5701,
-   "lon": -70.61279,
-   "geometry": [
-    [
-     -33.56971,
-     -70.61325
-    ],
-    [
-     -33.56974,
-     -70.61352
-    ],
-    [
-     -33.56978,
-     -70.61364
-    ],
-    [
-     -33.56984,
-     -70.61369
-    ],
-    [
-     -33.56992,
-     -70.6137
-    ],
-    [
-     -33.56999,
-     -70.61369
-    ],
-    [
-     -33.57004,
-     -70.61365
-    ],
-    [
-     -33.57008,
-     -70.61359
-    ],
-    [
-     -33.5701,
-     -70.61348
-    ],
-    [
-     -33.57011,
-     -70.61334
-    ],
-    [
-     -33.5701,
-     -70.61296
-    ],
-    [
-     -33.5701,
-     -70.61279
-    ],
-    [
-     -33.57009,
-     -70.61264
-    ],
-    [
-     -33.57009,
-     -70.61248
-    ],
-    [
-     -33.57009,
-     -70.6124
-    ],
-    [
-     -33.57008,
-     -70.61203
-    ],
-    [
-     -33.57007,
-     -70.61158
-    ],
-    [
-     -33.57007,
-     -70.61136
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29291331468032002",
-   "category": 6,
-   "category_name": "Congestión",
-   "icon": "🚗",
-   "magnitude": 2,
-   "magnitude_name": "moderada",
-   "delay_s": 168,
-   "length_m": 2276,
-   "description": "Tráfico en cola",
-   "from": "5 exit [32]",
-   "to": "Avenida Américo Vespucio",
-   "road_numbers": [
-    "70"
-   ],
-   "start": "2026-11-21T21:45:15Z",
-   "end": "2026-11-21T23:18:15Z",
-   "last_report": null,
-   "probability": "certain",
-   "relation": "entorno",
-   "dist_m": 82,
-   "route": "ASS",
-   "km": 1.05,
-   "km_from": 1.05,
-   "km_to": 1.09,
-   "sector": "Túnel Acceso Sur",
-   "lat": -33.54182,
-   "lon": -70.61943,
-   "geometry": [
-    [
-     -33.54182,
-     -70.61943
-    ],
-    [
-     -33.54178,
-     -70.61905
-    ],
-    [
-     -33.54169,
-     -70.61848
-    ],
-    [
-     -33.54162,
-     -70.61801
-    ],
-    [
-     -33.54143,
-     -70.61704
-    ],
-    [
-     -33.54132,
-     -70.61639
-    ],
-    [
-     -33.54128,
-     -70.61607
-    ],
-    [
-     -33.54121,
-     -70.61528
-    ],
-    [
-     -33.54117,
-     -70.615
-    ],
-    [
-     -33.54115,
-     -70.6149
-    ],
-    [
-     -33.54107,
-     -70.61423
-    ],
-    [
-     -33.54104,
-     -70.614
-    ],
-    [
-     -33.54092,
-     -70.61328
-    ],
-    [
-     -33.54081,
-     -70.61286
-    ],
-    [
-     -33.54075,
-     -70.61266
-    ],
-    [
-     -33.54067,
-     -70.61244
-    ],
-    [
-     -33.54052,
-     -70.61212
-    ],
-    [
-     -33.54038,
-     -70.61187
-    ],
-    [
-     -33.5401,
-     -70.61143
-    ],
-    [
-     -33.5399,
-     -70.61119
-    ],
-    [
-     -33.53976,
-     -70.61104
-    ],
-    [
-     -33.5395,
-     -70.61079
-    ],
-    [
-     -33.53908,
-     -70.61047
-    ],
-    [
-     -33.53864,
-     -70.61016
-    ],
-    [
-     -33.53818,
-     -70.60988
-    ],
-    [
-     -33.53747,
-     -70.60947
-    ],
-    [
-     -33.53731,
-     -70.60937
-    ],
-    [
-     -33.53689,
-     -70.60912
-    ],
-    [
-     -33.53638,
-     -70.60879
-    ],
-    [
-     -33.53519,
-     -70.60802
-    ],
-    [
-     -33.53362,
-     -70.60699
-    ],
-    [
-     -33.53327,
-     -70.60676
-    ],
-    [
-     -33.53253,
-     -70.60627
-    ],
-    [
-     -33.53126,
-     -70.60543
-    ],
-    [
-     -33.53117,
-     -70.60537
-    ],
-    [
-     -33.53037,
-     -70.60484
-    ],
-    [
-     -33.53,
-     -70.60461
-    ],
-    [
-     -33.52983,
-     -70.60451
-    ],
-    [
-     -33.52889,
-     -70.6039
-    ],
-    [
-     -33.52834,
-     -70.60355
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -770,142 +375,6 @@
     [
      -33.56835,
      -70.60881
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29187451336068000",
-   "category": 6,
-   "category_name": "Congestión",
-   "icon": "🚗",
-   "magnitude": 2,
-   "magnitude_name": "moderada",
-   "delay_s": 338,
-   "length_m": 915,
-   "description": "Tráfico en cola",
-   "from": "Calle Prieto",
-   "to": "Calle Bernardino Bravo / Avenida San Martín",
-   "road_numbers": [
-    "G-48"
-   ],
-   "start": "2026-11-21T21:11:15Z",
-   "end": "2026-11-21T22:43:15Z",
-   "last_report": null,
-   "probability": "certain",
-   "relation": "entorno",
-   "dist_m": 143,
-   "route": "R5",
-   "km": 34.06,
-   "km_from": 34.06,
-   "km_to": 34.09,
-   "sector": "Buin",
-   "lat": -33.73334,
-   "lon": -70.73564,
-   "geometry": [
-    [
-     -33.73216,
-     -70.74544
-    ],
-    [
-     -33.73233,
-     -70.74408
-    ],
-    [
-     -33.73247,
-     -70.7427
-    ],
-    [
-     -33.7325,
-     -70.74247
-    ],
-    [
-     -33.73258,
-     -70.74183
-    ],
-    [
-     -33.73261,
-     -70.74163
-    ],
-    [
-     -33.73264,
-     -70.74134
-    ],
-    [
-     -33.7328,
-     -70.73997
-    ],
-    [
-     -33.73288,
-     -70.73922
-    ],
-    [
-     -33.73294,
-     -70.73858
-    ],
-    [
-     -33.73315,
-     -70.73723
-    ],
-    [
-     -33.73319,
-     -70.73689
-    ],
-    [
-     -33.73334,
-     -70.73564
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 121,
-   "description": "Cerrado",
-   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
-   "to": "Calle Presidente Federico Errázuriz",
-   "road_numbers": [],
-   "start": "2026-09-29T23:37:00Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 252,
-   "route": "R5",
-   "km": 34.83,
-   "km_from": 34.83,
-   "km_to": 34.86,
-   "sector": "Buin",
-   "lat": -33.73952,
-   "lon": -70.73978,
-   "geometry": [
-    [
-     -33.73952,
-     -70.73978
-    ],
-    [
-     -33.7395,
-     -70.74
-    ],
-    [
-     -33.73946,
-     -70.7405
-    ],
-    [
-     -33.73945,
-     -70.74068
-    ],
-    [
-     -33.73941,
-     -70.74109
     ]
    ],
    "severity": "baja",
@@ -957,6 +426,57 @@
     [
      -33.73952,
      -70.73978
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "to": "Calle Presidente Federico Errázuriz",
+   "road_numbers": [],
+   "start": "2026-09-29T23:37:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73952,
+     -70.73978
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73941,
+     -70.74109
     ]
    ],
    "severity": "baja",

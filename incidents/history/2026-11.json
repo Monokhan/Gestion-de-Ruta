@@ -43958,7 +43958,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000": {
@@ -43969,10 +43969,10 @@
    "magnitude": 4,
    "magnitude_name": "indefinida",
    "delay_s": null,
-   "length_m": 212,
+   "length_m": 183,
    "description": "Cerrado",
    "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
-   "to": "Calle Borde Sur",
+   "to": "Calle Geranio del Bosque / Pasaje Salar de Capur",
    "road_numbers": [],
    "start": "2026-11-09T20:24:15Z",
    "end": null,
@@ -43983,7 +43983,7 @@
    "route": "ASS",
    "km": 4.38,
    "km_from": 4.3,
-   "km_to": 4.51,
+   "km_to": 4.48,
    "sector": "Gabriela",
    "lat": -33.57085,
    "lon": -70.60934,
@@ -44015,17 +44015,13 @@
     [
      -33.57169,
      -70.6092
-    ],
-    [
-     -33.57194,
-     -70.60914
     ]
    ],
    "severity": "media",
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29271132320014000": {
@@ -44706,7 +44702,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000": {
@@ -44813,7 +44809,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556014000": {
@@ -44856,7 +44852,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000": {
@@ -44911,7 +44907,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000": {
@@ -44966,7 +44962,7 @@
    "related_works": [],
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
-   "last_seen": "2026-11-21T19:20:35-03:00",
+   "last_seen": "2026-11-21T23:36:25-03:00",
    "active": true
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28999887416052000": {
@@ -59008,7 +59004,8 @@
    "first_seen": "2026-11-21T14:37:30-03:00",
    "notified": false,
    "last_seen": "2026-11-21T19:20:35-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-21T23:36:25-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29190336816020000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29190336816020000",
@@ -59143,7 +59140,8 @@
    "first_seen": "2026-11-21T19:20:35-03:00",
    "notified": false,
    "last_seen": "2026-11-21T19:20:35-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-21T23:36:25-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29291331468032002": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29291331468032002",
@@ -59340,7 +59338,8 @@
    "first_seen": "2026-11-21T19:20:35-03:00",
    "notified": false,
    "last_seen": "2026-11-21T19:20:35-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-21T23:36:25-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29187451336068000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29187451336068000",
@@ -59429,7 +59428,8 @@
    "first_seen": "2026-11-21T19:20:35-03:00",
    "notified": false,
    "last_seen": "2026-11-21T19:20:35-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-21T23:36:25-03:00"
   }
  }
 }
