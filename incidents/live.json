@@ -1,75 +1,372 @@
 {
- "generated_at": "2026-11-22T14:49:56-03:00",
+ "generated_at": "2026-11-22T19:52:33-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 84,
+ "corridor_total": 76,
  "errors": [],
  "incidents": [
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29282674640022000",
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29014315628008000",
    "category": 6,
    "category_name": "Congestión",
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 207,
-   "length_m": 198,
+   "delay_s": 1188,
+   "length_m": 4273,
    "description": "Tráfico parado",
-   "from": "Calle Reyes Catolicos",
-   "to": "Calle La Orquesta",
+   "from": "Requínoa",
+   "to": "Camino Variante Carr El Cobre",
    "road_numbers": [],
-   "start": "2026-11-22T17:44:15Z",
-   "end": "2026-11-22T18:09:45Z",
+   "start": "2026-11-22T22:06:45Z",
+   "end": "2026-11-23T00:24:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
-   "dist_m": 2,
-   "route": "ASS",
-   "km": 2.72,
-   "km_from": 2.71,
-   "km_to": 2.72,
-   "sector": "Túnel Acceso Sur",
-   "lat": -33.55656,
-   "lon": -70.61629,
+   "dist_m": 0,
+   "route": "R5",
+   "km": 94.12,
+   "km_from": 90.18,
+   "km_to": 94.45,
+   "sector": "By Pass Rancagua",
+   "lat": -34.22887,
+   "lon": -70.79308,
    "geometry": [
     [
-     -33.55656,
-     -70.61629
+     -34.23173,
+     -70.79224
     ],
     [
-     -33.55654,
-     -70.61623
+     -34.23154,
+     -70.79231
     ],
     [
-     -33.55653,
-     -70.61617
+     -34.23044,
+     -70.79271
     ],
     [
-     -33.55651,
-     -70.61611
+     -34.23019,
+     -70.7928
     ],
     [
-     -33.55648,
-     -70.61594
+     -34.22955,
+     -70.79298
     ],
     [
-     -33.55643,
-     -70.61571
+     -34.22887,
+     -70.79308
     ],
     [
-     -33.55631,
-     -70.61513
+     -34.22823,
+     -70.79312
     ],
     [
-     -33.55621,
-     -70.61469
+     -34.22752,
+     -70.7931
     ],
     [
-     -33.5561,
-     -70.61422
+     -34.22738,
+     -70.79309
+    ],
+    [
+     -34.22688,
+     -70.79303
+    ],
+    [
+     -34.22663,
+     -70.79298
+    ],
+    [
+     -34.22625,
+     -70.79289
+    ],
+    [
+     -34.22576,
+     -70.79274
+    ],
+    [
+     -34.22528,
+     -70.79256
+    ],
+    [
+     -34.22452,
+     -70.79223
+    ],
+    [
+     -34.22405,
+     -70.79199
+    ],
+    [
+     -34.22205,
+     -70.791
+    ],
+    [
+     -34.21972,
+     -70.78983
+    ],
+    [
+     -34.2189,
+     -70.78941
+    ],
+    [
+     -34.21694,
+     -70.78841
+    ],
+    [
+     -34.2151,
+     -70.7875
+    ],
+    [
+     -34.21282,
+     -70.78638
+    ],
+    [
+     -34.21235,
+     -70.78614
+    ],
+    [
+     -34.21148,
+     -70.78578
+    ],
+    [
+     -34.21054,
+     -70.78543
+    ],
+    [
+     -34.20938,
+     -70.7851
+    ],
+    [
+     -34.2078,
+     -70.78482
+    ],
+    [
+     -34.20686,
+     -70.78473
+    ],
+    [
+     -34.20637,
+     -70.7847
+    ],
+    [
+     -34.20567,
+     -70.78467
+    ],
+    [
+     -34.20351,
+     -70.78468
+    ],
+    [
+     -34.20212,
+     -70.78474
+    ],
+    [
+     -34.20117,
+     -70.7848
+    ],
+    [
+     -34.20032,
+     -70.78489
+    ],
+    [
+     -34.19913,
+     -70.78502
+    ],
+    [
+     -34.1984,
+     -70.78513
+    ],
+    [
+     -34.19771,
+     -70.78528
+    ],
+    [
+     -34.19674,
+     -70.78552
+    ],
+    [
+     -34.19543,
+     -70.78591
+    ],
+    [
+     -34.19475,
+     -70.7861
     ]
    ],
    "severity": "alta",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29279789244006000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 119,
+   "description": "Cerrado",
+   "from": "Calle Topacio / Pasaje Nazareno",
+   "to": "Calle Bahia Catalina",
+   "road_numbers": [],
+   "start": "2026-11-22T18:14:15Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 382,
+   "route": "ASS",
+   "km": 3.44,
+   "km_from": 3.44,
+   "km_to": 3.44,
+   "sector": "Gabriela",
+   "lat": -33.56196,
+   "lon": -70.61047,
+   "geometry": [
+    [
+     -33.56188,
+     -70.6092
+    ],
+    [
+     -33.56192,
+     -70.60958
+    ],
+    [
+     -33.56197,
+     -70.61001
+    ],
+    [
+     -33.56196,
+     -70.61047
+    ]
+   ],
+   "severity": "media",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29279789172006000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 203,
+   "description": "Cerrado",
+   "from": "Calle Bahia Catalina",
+   "to": "Calle La Huasca",
+   "road_numbers": [],
+   "start": "2026-11-22T18:13:45Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 382,
+   "route": "ASS",
+   "km": 3.44,
+   "km_from": 3.44,
+   "km_to": 3.44,
+   "sector": "Gabriela",
+   "lat": -33.56196,
+   "lon": -70.61047,
+   "geometry": [
+    [
+     -33.56196,
+     -70.61047
+    ],
+    [
+     -33.56197,
+     -70.61001
+    ],
+    [
+     -33.56192,
+     -70.60958
+    ],
+    [
+     -33.56188,
+     -70.6092
+    ],
+    [
+     -33.56187,
+     -70.60907
+    ],
+    [
+     -33.56185,
+     -70.60886
+    ],
+    [
+     -33.56181,
+     -70.60848
+    ],
+    [
+     -33.56179,
+     -70.60829
+    ]
+   ],
+   "severity": "media",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 212,
+   "description": "Cerrado",
+   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
+   "to": "Calle Borde Sur",
+   "road_numbers": [],
+   "start": "2026-11-09T20:24:15Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
+   "route": "ASS",
+   "km": 4.38,
+   "km_from": 4.3,
+   "km_to": 4.51,
+   "sector": "Gabriela",
+   "lat": -33.57085,
+   "lon": -70.60934,
+   "geometry": [
+    [
+     -33.57007,
+     -70.60928
+    ],
+    [
+     -33.57037,
+     -70.60923
+    ],
+    [
+     -33.57057,
+     -70.60927
+    ],
+    [
+     -33.57071,
+     -70.60932
+    ],
+    [
+     -33.57085,
+     -70.60934
+    ],
+    [
+     -33.57129,
+     -70.60927
+    ],
+    [
+     -33.57169,
+     -70.6092
+    ],
+    [
+     -33.57194,
+     -70.60914
+    ]
+   ],
+   "severity": "media",
    "related_works": []
   },
   {
@@ -130,93 +427,6 @@
     [
      -33.57007,
      -70.60928
-    ]
-   ],
-   "severity": "media",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 317,
-   "description": "Cerrado",
-   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
-   "to": "Calle Camelia Blanca",
-   "road_numbers": [],
-   "start": "2026-11-09T20:24:15Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 308,
-   "route": "ASS",
-   "km": 4.38,
-   "km_from": 4.3,
-   "km_to": 4.61,
-   "sector": "Gabriela",
-   "lat": -33.57085,
-   "lon": -70.60934,
-   "geometry": [
-    [
-     -33.57007,
-     -70.60928
-    ],
-    [
-     -33.57037,
-     -70.60923
-    ],
-    [
-     -33.57057,
-     -70.60927
-    ],
-    [
-     -33.57071,
-     -70.60932
-    ],
-    [
-     -33.57085,
-     -70.60934
-    ],
-    [
-     -33.57129,
-     -70.60927
-    ],
-    [
-     -33.57169,
-     -70.6092
-    ],
-    [
-     -33.57194,
-     -70.60914
-    ],
-    [
-     -33.57204,
-     -70.6091
-    ],
-    [
-     -33.57214,
-     -70.60906
-    ],
-    [
-     -33.57223,
-     -70.60901
-    ],
-    [
-     -33.57231,
-     -70.60896
-    ],
-    [
-     -33.57255,
-     -70.60886
-    ],
-    [
-     -33.57284,
-     -70.60879
     ]
    ],
    "severity": "media",
@@ -476,57 +686,6 @@
    "related_works": []
   },
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 121,
-   "description": "Cerrado",
-   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
-   "to": "Calle Presidente Federico Errázuriz",
-   "road_numbers": [],
-   "start": "2026-09-29T23:37:00Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 252,
-   "route": "R5",
-   "km": 34.83,
-   "km_from": 34.83,
-   "km_to": 34.86,
-   "sector": "Buin",
-   "lat": -33.73952,
-   "lon": -70.73978,
-   "geometry": [
-    [
-     -33.73952,
-     -70.73978
-    ],
-    [
-     -33.7395,
-     -70.74
-    ],
-    [
-     -33.73946,
-     -70.7405
-    ],
-    [
-     -33.73945,
-     -70.74068
-    ],
-    [
-     -33.73941,
-     -70.74109
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -572,6 +731,57 @@
     [
      -33.73952,
      -70.73978
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "to": "Calle Presidente Federico Errázuriz",
+   "road_numbers": [],
+   "start": "2026-09-29T23:37:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73952,
+     -70.73978
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73941,
+     -70.74109
     ]
    ],
    "severity": "baja",
