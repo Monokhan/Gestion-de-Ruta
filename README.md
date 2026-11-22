@@ -1,3 +1,17 @@
+<div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="Gestión de Ruta — visor operativo Santiago–Talca"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=for-the-badge&logo=githubactions&logoColor=22d3ee" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-0b1220?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Pages"/>
+<img src="https://img.shields.io/badge/Leaflet-0b1220?style=for-the-badge&logo=leaflet&logoColor=5fd4a8" alt="Leaflet"/>
+<img src="https://img.shields.io/badge/TomTom_API-0b1220?style=for-the-badge&logo=openstreetmap&logoColor=f5b041" alt="TomTom API"/>
+
+</div>
+
 # Gestión de Ruta · Ruta del Maipo
 
 Visor operativo de la concesión **Santiago – Talca** (Acceso Sur a Santiago + Ruta 5 Sur): mapa satelital con los
@@ -14,6 +28,11 @@ guarda el histórico en la rama `data`, envía alertas por correo y publica el s
                                      └─► correo de alerta (incidente grave en ruta)    │
  Open‑Meteo (clima) · GloFAS (caudales) ───────────── consultados por el navegador ─────┘
 ```
+
+<div align="center">
+<img src="assets/capturas/visor-demo.png" width="100%" alt="Visor con datos de demostración"/>
+<br/><sub>El visor con <b>datos de demostración</b> sintéticos (<code>scripts/demo_data.py</code>). En producción el fondo es la imagen satelital.</sub>
+</div>
 
 ## Qué hace
 
