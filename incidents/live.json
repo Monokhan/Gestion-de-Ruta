@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T23:36:25-03:00",
+ "generated_at": "2026-11-22T07:12:56-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 84,
+ "corridor_total": 59,
  "errors": [],
  "incidents": [
   {
@@ -128,109 +128,6 @@
    "related_works": []
   },
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 283,
-   "description": "Cerrado",
-   "from": "Caletera Acceso Sur",
-   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
-   "road_numbers": [],
-   "start": "2025-10-02T20:56:30Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "ruta",
-   "dist_m": 0,
-   "route": "ASS",
-   "km": 4.26,
-   "km_from": 4.21,
-   "km_to": 4.27,
-   "sector": "Gabriela",
-   "lat": -33.5701,
-   "lon": -70.61279,
-   "geometry": [
-    [
-     -33.56971,
-     -70.61325
-    ],
-    [
-     -33.56974,
-     -70.61352
-    ],
-    [
-     -33.56978,
-     -70.61364
-    ],
-    [
-     -33.56984,
-     -70.61369
-    ],
-    [
-     -33.56992,
-     -70.6137
-    ],
-    [
-     -33.56999,
-     -70.61369
-    ],
-    [
-     -33.57004,
-     -70.61365
-    ],
-    [
-     -33.57008,
-     -70.61359
-    ],
-    [
-     -33.5701,
-     -70.61348
-    ],
-    [
-     -33.57011,
-     -70.61334
-    ],
-    [
-     -33.5701,
-     -70.61296
-    ],
-    [
-     -33.5701,
-     -70.61279
-    ],
-    [
-     -33.57009,
-     -70.61264
-    ],
-    [
-     -33.57009,
-     -70.61248
-    ],
-    [
-     -33.57009,
-     -70.6124
-    ],
-    [
-     -33.57008,
-     -70.61203
-    ],
-    [
-     -33.57007,
-     -70.61158
-    ],
-    [
-     -33.57007,
-     -70.61136
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903624030000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -342,6 +239,109 @@
    "related_works": []
   },
   {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 283,
+   "description": "Cerrado",
+   "from": "Caletera Acceso Sur",
+   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
+   "road_numbers": [],
+   "start": "2025-10-02T20:56:30Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "ASS",
+   "km": 4.26,
+   "km_from": 4.21,
+   "km_to": 4.27,
+   "sector": "Gabriela",
+   "lat": -33.5701,
+   "lon": -70.61279,
+   "geometry": [
+    [
+     -33.56971,
+     -70.61325
+    ],
+    [
+     -33.56974,
+     -70.61352
+    ],
+    [
+     -33.56978,
+     -70.61364
+    ],
+    [
+     -33.56984,
+     -70.61369
+    ],
+    [
+     -33.56992,
+     -70.6137
+    ],
+    [
+     -33.56999,
+     -70.61369
+    ],
+    [
+     -33.57004,
+     -70.61365
+    ],
+    [
+     -33.57008,
+     -70.61359
+    ],
+    [
+     -33.5701,
+     -70.61348
+    ],
+    [
+     -33.57011,
+     -70.61334
+    ],
+    [
+     -33.5701,
+     -70.61296
+    ],
+    [
+     -33.5701,
+     -70.61279
+    ],
+    [
+     -33.57009,
+     -70.61264
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.57009,
+     -70.6124
+    ],
+    [
+     -33.57008,
+     -70.61203
+    ],
+    [
+     -33.57007,
+     -70.61158
+    ],
+    [
+     -33.57007,
+     -70.61136
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -375,57 +375,6 @@
     [
      -33.56835,
      -70.60881
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 121,
-   "description": "Cerrado",
-   "from": "Calle Presidente Federico Errázuriz",
-   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
-   "road_numbers": [],
-   "start": "2026-09-29T17:56:00Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 252,
-   "route": "R5",
-   "km": 34.83,
-   "km_from": 34.83,
-   "km_to": 34.86,
-   "sector": "Buin",
-   "lat": -33.73952,
-   "lon": -70.73978,
-   "geometry": [
-    [
-     -33.73941,
-     -70.74109
-    ],
-    [
-     -33.73945,
-     -70.74068
-    ],
-    [
-     -33.73946,
-     -70.7405
-    ],
-    [
-     -33.7395,
-     -70.74
-    ],
-    [
-     -33.73952,
-     -70.73978
     ]
    ],
    "severity": "baja",
@@ -477,6 +426,57 @@
     [
      -33.73941,
      -70.74109
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Presidente Federico Errázuriz",
+   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "road_numbers": [],
+   "start": "2026-09-29T17:56:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73941,
+     -70.74109
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73952,
+     -70.73978
     ]
    ],
    "severity": "baja",
