@@ -1,311 +1,10 @@
 {
- "generated_at": "2026-11-22T19:52:33-03:00",
+ "generated_at": "2026-11-23T00:17:47-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
  "corridor_total": 76,
  "errors": [],
  "incidents": [
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29014315628008000",
-   "category": 6,
-   "category_name": "Congestión",
-   "icon": "🚗",
-   "magnitude": 3,
-   "magnitude_name": "mayor",
-   "delay_s": 1188,
-   "length_m": 4273,
-   "description": "Tráfico parado",
-   "from": "Requínoa",
-   "to": "Camino Variante Carr El Cobre",
-   "road_numbers": [],
-   "start": "2026-11-22T22:06:45Z",
-   "end": "2026-11-23T00:24:15Z",
-   "last_report": null,
-   "probability": "certain",
-   "relation": "ruta",
-   "dist_m": 0,
-   "route": "R5",
-   "km": 94.12,
-   "km_from": 90.18,
-   "km_to": 94.45,
-   "sector": "By Pass Rancagua",
-   "lat": -34.22887,
-   "lon": -70.79308,
-   "geometry": [
-    [
-     -34.23173,
-     -70.79224
-    ],
-    [
-     -34.23154,
-     -70.79231
-    ],
-    [
-     -34.23044,
-     -70.79271
-    ],
-    [
-     -34.23019,
-     -70.7928
-    ],
-    [
-     -34.22955,
-     -70.79298
-    ],
-    [
-     -34.22887,
-     -70.79308
-    ],
-    [
-     -34.22823,
-     -70.79312
-    ],
-    [
-     -34.22752,
-     -70.7931
-    ],
-    [
-     -34.22738,
-     -70.79309
-    ],
-    [
-     -34.22688,
-     -70.79303
-    ],
-    [
-     -34.22663,
-     -70.79298
-    ],
-    [
-     -34.22625,
-     -70.79289
-    ],
-    [
-     -34.22576,
-     -70.79274
-    ],
-    [
-     -34.22528,
-     -70.79256
-    ],
-    [
-     -34.22452,
-     -70.79223
-    ],
-    [
-     -34.22405,
-     -70.79199
-    ],
-    [
-     -34.22205,
-     -70.791
-    ],
-    [
-     -34.21972,
-     -70.78983
-    ],
-    [
-     -34.2189,
-     -70.78941
-    ],
-    [
-     -34.21694,
-     -70.78841
-    ],
-    [
-     -34.2151,
-     -70.7875
-    ],
-    [
-     -34.21282,
-     -70.78638
-    ],
-    [
-     -34.21235,
-     -70.78614
-    ],
-    [
-     -34.21148,
-     -70.78578
-    ],
-    [
-     -34.21054,
-     -70.78543
-    ],
-    [
-     -34.20938,
-     -70.7851
-    ],
-    [
-     -34.2078,
-     -70.78482
-    ],
-    [
-     -34.20686,
-     -70.78473
-    ],
-    [
-     -34.20637,
-     -70.7847
-    ],
-    [
-     -34.20567,
-     -70.78467
-    ],
-    [
-     -34.20351,
-     -70.78468
-    ],
-    [
-     -34.20212,
-     -70.78474
-    ],
-    [
-     -34.20117,
-     -70.7848
-    ],
-    [
-     -34.20032,
-     -70.78489
-    ],
-    [
-     -34.19913,
-     -70.78502
-    ],
-    [
-     -34.1984,
-     -70.78513
-    ],
-    [
-     -34.19771,
-     -70.78528
-    ],
-    [
-     -34.19674,
-     -70.78552
-    ],
-    [
-     -34.19543,
-     -70.78591
-    ],
-    [
-     -34.19475,
-     -70.7861
-    ]
-   ],
-   "severity": "alta",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29279789244006000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 119,
-   "description": "Cerrado",
-   "from": "Calle Topacio / Pasaje Nazareno",
-   "to": "Calle Bahia Catalina",
-   "road_numbers": [],
-   "start": "2026-11-22T18:14:15Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 382,
-   "route": "ASS",
-   "km": 3.44,
-   "km_from": 3.44,
-   "km_to": 3.44,
-   "sector": "Gabriela",
-   "lat": -33.56196,
-   "lon": -70.61047,
-   "geometry": [
-    [
-     -33.56188,
-     -70.6092
-    ],
-    [
-     -33.56192,
-     -70.60958
-    ],
-    [
-     -33.56197,
-     -70.61001
-    ],
-    [
-     -33.56196,
-     -70.61047
-    ]
-   ],
-   "severity": "media",
-   "related_works": []
-  },
-  {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29279789172006000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 203,
-   "description": "Cerrado",
-   "from": "Calle Bahia Catalina",
-   "to": "Calle La Huasca",
-   "road_numbers": [],
-   "start": "2026-11-22T18:13:45Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 382,
-   "route": "ASS",
-   "km": 3.44,
-   "km_from": 3.44,
-   "km_to": 3.44,
-   "sector": "Gabriela",
-   "lat": -33.56196,
-   "lon": -70.61047,
-   "geometry": [
-    [
-     -33.56196,
-     -70.61047
-    ],
-    [
-     -33.56197,
-     -70.61001
-    ],
-    [
-     -33.56192,
-     -70.60958
-    ],
-    [
-     -33.56188,
-     -70.6092
-    ],
-    [
-     -33.56187,
-     -70.60907
-    ],
-    [
-     -33.56185,
-     -70.60886
-    ],
-    [
-     -33.56181,
-     -70.60848
-    ],
-    [
-     -33.56179,
-     -70.60829
-    ]
-   ],
-   "severity": "media",
-   "related_works": []
-  },
   {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
    "category": 8,
@@ -686,57 +385,6 @@
    "related_works": []
   },
   {
-   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 121,
-   "description": "Cerrado",
-   "from": "Calle Presidente Federico Errázuriz",
-   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
-   "road_numbers": [],
-   "start": "2026-09-29T17:56:00Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 252,
-   "route": "R5",
-   "km": 34.83,
-   "km_from": 34.83,
-   "km_to": 34.86,
-   "sector": "Buin",
-   "lat": -33.73952,
-   "lon": -70.73978,
-   "geometry": [
-    [
-     -33.73941,
-     -70.74109
-    ],
-    [
-     -33.73945,
-     -70.74068
-    ],
-    [
-     -33.73946,
-     -70.7405
-    ],
-    [
-     -33.7395,
-     -70.74
-    ],
-    [
-     -33.73952,
-     -70.73978
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -782,6 +430,57 @@
     [
      -33.73941,
      -70.74109
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Presidente Federico Errázuriz",
+   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "road_numbers": [],
+   "start": "2026-09-29T17:56:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73941,
+     -70.74109
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73952,
+     -70.73978
     ]
    ],
    "severity": "baja",
