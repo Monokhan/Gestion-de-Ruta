@@ -43959,7 +43959,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903588022000",
@@ -44026,7 +44027,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29271132320014000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29271132320014000",
@@ -44707,7 +44709,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556030000",
@@ -44814,7 +44817,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556014000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29276903556014000",
@@ -44857,7 +44861,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565720014000",
@@ -44912,7 +44917,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTR29184565792014000",
@@ -44967,7 +44973,8 @@
    "first_seen": "2026-11-16T18:12:47-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28999887416052000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28999887416052000",
@@ -59900,7 +59907,8 @@
    "first_seen": "2026-11-23T09:56:32-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28627649696028000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL28627649696028000",
@@ -59981,7 +59989,8 @@
    "first_seen": "2026-11-23T09:56:32-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265360832013000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29265360832013000",
@@ -60148,7 +60157,8 @@
    "first_seen": "2026-11-23T09:56:32-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
   },
   "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29282675036057000": {
    "id": "TTI-ad27606a-049f-4094-8891-073c2c83a48d-TTL29282675036057000",
@@ -60345,6 +60355,713 @@
    "first_seen": "2026-11-23T09:56:32-03:00",
    "notified": false,
    "last_seen": "2026-11-23T09:56:32-03:00",
+   "active": false,
+   "cleared_at": "2026-11-23T21:28:56-03:00"
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903660022000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903660022000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 212,
+   "description": "Cerrado",
+   "from": "Calle Borde Sur",
+   "to": "Calle Canal Troncal San Francisco / Calle San Francisco",
+   "road_numbers": [],
+   "start": "2026-11-10T00:03:15Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
+   "route": "ASS",
+   "km": 4.38,
+   "km_from": 4.3,
+   "km_to": 4.51,
+   "sector": "Gabriela",
+   "lat": -33.57085,
+   "lon": -70.60934,
+   "geometry": [
+    [
+     -33.57194,
+     -70.60914
+    ],
+    [
+     -33.57169,
+     -70.6092
+    ],
+    [
+     -33.57129,
+     -70.60927
+    ],
+    [
+     -33.57085,
+     -70.60934
+    ],
+    [
+     -33.57071,
+     -70.60932
+    ],
+    [
+     -33.57057,
+     -70.60927
+    ],
+    [
+     -33.57037,
+     -70.60923
+    ],
+    [
+     -33.57007,
+     -70.60928
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903588022000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903588022000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 212,
+   "description": "Cerrado",
+   "from": "Calle Canal Troncal San Francisco / Calle San Francisco",
+   "to": "Calle Borde Sur",
+   "road_numbers": [],
+   "start": "2026-11-09T20:34:55Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 308,
+   "route": "ASS",
+   "km": 4.38,
+   "km_from": 4.3,
+   "km_to": 4.51,
+   "sector": "Gabriela",
+   "lat": -33.57085,
+   "lon": -70.60934,
+   "geometry": [
+    [
+     -33.57007,
+     -70.60928
+    ],
+    [
+     -33.57037,
+     -70.60923
+    ],
+    [
+     -33.57057,
+     -70.60927
+    ],
+    [
+     -33.57071,
+     -70.60932
+    ],
+    [
+     -33.57085,
+     -70.60934
+    ],
+    [
+     -33.57129,
+     -70.60927
+    ],
+    [
+     -33.57169,
+     -70.6092
+    ],
+    [
+     -33.57194,
+     -70.60914
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903624030000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903624030000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 306,
+   "description": "Cerrado",
+   "from": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
+   "to": "Caletera Acceso Sur",
+   "road_numbers": [],
+   "start": "2025-10-03T09:38:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "ASS",
+   "km": 4.26,
+   "km_from": 4.21,
+   "km_to": 4.27,
+   "sector": "Gabriela",
+   "lat": -33.5701,
+   "lon": -70.61279,
+   "geometry": [
+    [
+     -33.57007,
+     -70.61136
+    ],
+    [
+     -33.57007,
+     -70.61158
+    ],
+    [
+     -33.57008,
+     -70.61203
+    ],
+    [
+     -33.57009,
+     -70.6124
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.57009,
+     -70.61264
+    ],
+    [
+     -33.5701,
+     -70.61279
+    ],
+    [
+     -33.5701,
+     -70.61296
+    ],
+    [
+     -33.57011,
+     -70.61334
+    ],
+    [
+     -33.5701,
+     -70.61348
+    ],
+    [
+     -33.57008,
+     -70.61359
+    ],
+    [
+     -33.57004,
+     -70.61365
+    ],
+    [
+     -33.56999,
+     -70.61369
+    ],
+    [
+     -33.56992,
+     -70.6137
+    ],
+    [
+     -33.56984,
+     -70.61369
+    ],
+    [
+     -33.56978,
+     -70.61364
+    ],
+    [
+     -33.56974,
+     -70.61352
+    ],
+    [
+     -33.56971,
+     -70.61325
+    ],
+    [
+     -33.56973,
+     -70.61314
+    ],
+    [
+     -33.56979,
+     -70.61303
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 283,
+   "description": "Cerrado",
+   "from": "Caletera Acceso Sur",
+   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
+   "road_numbers": [],
+   "start": "2025-10-02T20:56:30Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "ASS",
+   "km": 4.26,
+   "km_from": 4.21,
+   "km_to": 4.27,
+   "sector": "Gabriela",
+   "lat": -33.5701,
+   "lon": -70.61279,
+   "geometry": [
+    [
+     -33.56971,
+     -70.61325
+    ],
+    [
+     -33.56974,
+     -70.61352
+    ],
+    [
+     -33.56978,
+     -70.61364
+    ],
+    [
+     -33.56984,
+     -70.61369
+    ],
+    [
+     -33.56992,
+     -70.6137
+    ],
+    [
+     -33.56999,
+     -70.61369
+    ],
+    [
+     -33.57004,
+     -70.61365
+    ],
+    [
+     -33.57008,
+     -70.61359
+    ],
+    [
+     -33.5701,
+     -70.61348
+    ],
+    [
+     -33.57011,
+     -70.61334
+    ],
+    [
+     -33.5701,
+     -70.61296
+    ],
+    [
+     -33.5701,
+     -70.61279
+    ],
+    [
+     -33.57009,
+     -70.61264
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.57009,
+     -70.6124
+    ],
+    [
+     -33.57008,
+     -70.61203
+    ],
+    [
+     -33.57007,
+     -70.61158
+    ],
+    [
+     -33.57007,
+     -70.61136
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888009000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888009000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 106,
+   "length_m": 1943,
+   "description": "Tráfico lento",
+   "from": "Ruta 5 Sur",
+   "to": "Mostazal",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-24T00:25:15Z",
+   "end": "2026-11-24T00:47:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 12,
+   "route": "R5",
+   "km": 61.49,
+   "km_from": 60.44,
+   "km_to": 62.38,
+   "sector": "San Francisco Mostazal",
+   "lat": -33.96895,
+   "lon": -70.70767,
+   "geometry": [
+    [
+     -33.97652,
+     -70.70474
+    ],
+    [
+     -33.97639,
+     -70.70479
+    ],
+    [
+     -33.97593,
+     -70.70497
+    ],
+    [
+     -33.97535,
+     -70.70519
+    ],
+    [
+     -33.97512,
+     -70.70528
+    ],
+    [
+     -33.97434,
+     -70.70557
+    ],
+    [
+     -33.97408,
+     -70.70568
+    ],
+    [
+     -33.97281,
+     -70.70618
+    ],
+    [
+     -33.97277,
+     -70.70619
+    ],
+    [
+     -33.97255,
+     -70.70628
+    ],
+    [
+     -33.97182,
+     -70.70655
+    ],
+    [
+     -33.97112,
+     -70.70682
+    ],
+    [
+     -33.9708,
+     -70.70695
+    ],
+    [
+     -33.97067,
+     -70.707
+    ],
+    [
+     -33.97004,
+     -70.70724
+    ],
+    [
+     -33.96915,
+     -70.70759
+    ],
+    [
+     -33.96895,
+     -70.70767
+    ],
+    [
+     -33.96889,
+     -70.7077
+    ],
+    [
+     -33.96885,
+     -70.70771
+    ],
+    [
+     -33.9688,
+     -70.70773
+    ],
+    [
+     -33.9684,
+     -70.70788
+    ],
+    [
+     -33.96827,
+     -70.70793
+    ],
+    [
+     -33.96782,
+     -70.70809
+    ],
+    [
+     -33.96761,
+     -70.70817
+    ],
+    [
+     -33.96735,
+     -70.70826
+    ],
+    [
+     -33.96723,
+     -70.70831
+    ],
+    [
+     -33.9672,
+     -70.70833
+    ],
+    [
+     -33.96708,
+     -70.70838
+    ],
+    [
+     -33.96697,
+     -70.70842
+    ],
+    [
+     -33.96648,
+     -70.70862
+    ],
+    [
+     -33.96538,
+     -70.70905
+    ],
+    [
+     -33.96372,
+     -70.70969
+    ],
+    [
+     -33.96362,
+     -70.70972
+    ],
+    [
+     -33.96254,
+     -70.71015
+    ],
+    [
+     -33.96234,
+     -70.71022
+    ],
+    [
+     -33.96211,
+     -70.71032
+    ],
+    [
+     -33.96153,
+     -70.71053
+    ],
+    [
+     -33.95999,
+     -70.71113
+    ],
+    [
+     -33.95992,
+     -70.71115
+    ],
+    [
+     -33.95989,
+     -70.71117
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556014000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 65,
+   "description": "Cerrado",
+   "from": "Calle Bahia Catalina / Calle Las Falúas",
+   "to": "Calle Recalada Oriente",
+   "road_numbers": [],
+   "start": "2025-06-22T23:39:00Z",
+   "end": null,
+   "last_report": "2024-12-25T07:25:00Z",
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 325,
+   "route": "ASS",
+   "km": 4.11,
+   "km_from": 4.11,
+   "km_to": 4.11,
+   "sector": "Gabriela",
+   "lat": -33.56841,
+   "lon": -70.60952,
+   "geometry": [
+    [
+     -33.56841,
+     -70.60952
+    ],
+    [
+     -33.56835,
+     -70.60881
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Presidente Federico Errázuriz",
+   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "road_numbers": [],
+   "start": "2026-09-29T17:24:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73941,
+     -70.74109
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73952,
+     -70.73978
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "to": "Calle Presidente Federico Errázuriz",
+   "road_numbers": [],
+   "start": "2026-09-29T23:20:30Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73952,
+     -70.73978
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73941,
+     -70.74109
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-23T21:28:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-23T21:28:56-03:00",
    "active": true
   }
  }
