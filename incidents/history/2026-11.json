@@ -60423,7 +60423,8 @@
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903588022000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903588022000",
@@ -60490,7 +60491,8 @@
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903624030000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903624030000",
@@ -60604,7 +60606,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-24T17:50:45-03:00",
+   "last_seen": "2026-11-25T00:50:32-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000": {
@@ -60711,7 +60713,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-24T17:50:45-03:00",
+   "last_seen": "2026-11-25T00:50:32-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888009000": {
@@ -60952,7 +60954,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-24T17:50:45-03:00",
+   "last_seen": "2026-11-25T00:50:32-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000": {
@@ -61007,7 +61009,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-24T17:50:45-03:00",
+   "last_seen": "2026-11-25T00:50:32-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000": {
@@ -61062,7 +61064,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-24T17:50:45-03:00",
+   "last_seen": "2026-11-25T00:50:32-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29282675036017000": {
@@ -61814,7 +61816,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29274017792021000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29274017792021000",
@@ -61901,7 +61904,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29268246740038000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29268246740038000",
@@ -61952,7 +61956,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475436013001": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475436013001",
@@ -62011,7 +62016,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265360832013001": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265360832013001",
@@ -62170,7 +62176,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336684004000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336684004000",
@@ -62315,7 +62322,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28699788576036000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28699788576036000",
@@ -62420,7 +62428,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28633420676018001": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28633420676018001",
@@ -62483,7 +62492,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28633420676012000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28633420676012000",
@@ -62546,7 +62556,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28630535132020000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28630535132020000",
@@ -62625,7 +62636,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28630535060012000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28630535060012000",
@@ -62692,7 +62704,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336736012002": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336736012002",
@@ -62805,7 +62818,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336768013002": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336768013002",
@@ -62952,7 +62966,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28731529460015000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28731529460015000",
@@ -63095,7 +63110,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28702674092059000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28702674092059000",
@@ -63292,7 +63308,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28644962916092000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28644962916092000",
@@ -63487,7 +63504,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28627649692052000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28627649692052000",
@@ -63620,7 +63638,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29204764840022000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29204764840022000",
@@ -63727,7 +63746,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29187451228022000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29187451228022000",
@@ -63778,7 +63798,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29178794516004000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29178794516004000",
@@ -63837,7 +63858,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28921977080022000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28921977080022000",
@@ -63896,7 +63918,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28630535188014001": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28630535188014001",
@@ -63959,7 +63982,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28624764124028000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28624764124028000",
@@ -64042,7 +64066,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28618992988060000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28618992988060000",
@@ -64239,7 +64264,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336848011000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336848011000",
@@ -64334,7 +64360,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475472020000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475472020000",
@@ -64417,7 +64444,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28835410256051000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28835410256051000",
@@ -64584,7 +64612,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28702674120067000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28702674120067000",
@@ -64705,7 +64734,8 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28627649668020000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28627649668020000",
@@ -64840,6 +64870,72 @@
    "first_seen": "2026-11-24T17:50:45-03:00",
    "notified": false,
    "last_seen": "2026-11-24T17:50:45-03:00",
+   "active": false,
+   "cleared_at": "2026-11-25T00:50:32-03:00"
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28997001948025001": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28997001948025001",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 186,
+   "length_m": 455,
+   "description": "Tráfico parado",
+   "from": "Requínoa",
+   "to": "Requínoa",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-25T03:49:45Z",
+   "end": "2026-11-25T04:09:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 12,
+   "route": "R5",
+   "km": 95.51,
+   "km_from": 95.24,
+   "km_to": 95.69,
+   "sector": "Los Lirios",
+   "lat": -34.24082,
+   "lon": -70.79487,
+   "geometry": [
+    [
+     -34.24232,
+     -70.79572
+    ],
+    [
+     -34.2423,
+     -70.79571
+    ],
+    [
+     -34.24082,
+     -70.79487
+    ],
+    [
+     -34.23975,
+     -70.79425
+    ],
+    [
+     -34.23888,
+     -70.79374
+    ],
+    [
+     -34.23872,
+     -70.79365
+    ],
+    [
+     -34.23863,
+     -70.7936
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-25T00:50:32-03:00",
+   "notified": false,
+   "last_seen": "2026-11-25T00:50:32-03:00",
    "active": true
   }
  }
