@@ -1,172 +1,260 @@
 {
- "generated_at": "2026-11-25T00:50:32-03:00",
+ "generated_at": "2026-11-25T10:39:36-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 66,
+ "corridor_total": 98,
  "errors": [],
  "incidents": [
   {
-   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28997001948025001",
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265361192009000",
    "category": 6,
    "category_name": "Congestión",
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 186,
-   "length_m": 455,
+   "delay_s": 270,
+   "length_m": 967,
    "description": "Tráfico parado",
-   "from": "Requínoa",
-   "to": "Requínoa",
+   "from": "Puente Alto",
+   "to": "Calle Gabriela Poniente",
    "road_numbers": [
-    "5"
+    "79"
    ],
-   "start": "2026-11-25T03:49:45Z",
-   "end": "2026-11-25T04:09:45Z",
+   "start": "2026-11-25T13:35:45Z",
+   "end": "2026-11-25T14:00:15Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
-   "dist_m": 12,
-   "route": "R5",
-   "km": 95.51,
-   "km_from": 95.24,
-   "km_to": 95.69,
-   "sector": "Los Lirios",
-   "lat": -34.24082,
-   "lon": -70.79487,
+   "dist_m": 8,
+   "route": "ASS",
+   "km": 7.41,
+   "km_from": 7.41,
+   "km_to": 8.38,
+   "sector": "Tocornal",
+   "lat": -33.59793,
+   "lon": -70.60665,
    "geometry": [
     [
-     -34.24232,
-     -70.79572
+     -33.6063,
+     -70.60391
     ],
     [
-     -34.2423,
-     -70.79571
+     -33.60601,
+     -70.60397
     ],
     [
-     -34.24082,
-     -70.79487
+     -33.60541,
+     -70.60407
     ],
     [
-     -34.23975,
-     -70.79425
+     -33.60507,
+     -70.60414
     ],
     [
-     -34.23888,
-     -70.79374
+     -33.60448,
+     -70.60428
     ],
     [
-     -34.23872,
-     -70.79365
+     -33.60369,
+     -70.6045
     ],
     [
-     -34.23863,
-     -70.7936
+     -33.6035,
+     -70.60456
+    ],
+    [
+     -33.60307,
+     -70.60469
+    ],
+    [
+     -33.6022,
+     -70.60502
+    ],
+    [
+     -33.60204,
+     -70.60508
+    ],
+    [
+     -33.60183,
+     -70.60517
+    ],
+    [
+     -33.60147,
+     -70.60531
+    ],
+    [
+     -33.60143,
+     -70.60533
+    ],
+    [
+     -33.60106,
+     -70.60548
+    ],
+    [
+     -33.60073,
+     -70.60562
+    ],
+    [
+     -33.60054,
+     -70.60571
+    ],
+    [
+     -33.60051,
+     -70.60572
+    ],
+    [
+     -33.59971,
+     -70.60606
+    ],
+    [
+     -33.59927,
+     -70.60622
+    ],
+    [
+     -33.59918,
+     -70.60625
+    ],
+    [
+     -33.59905,
+     -70.6063
+    ],
+    [
+     -33.59872,
+     -70.60641
+    ],
+    [
+     -33.59839,
+     -70.60652
+    ],
+    [
+     -33.59797,
+     -70.60664
+    ],
+    [
+     -33.59793,
+     -70.60665
     ]
    ],
    "severity": "alta",
    "related_works": []
   },
   {
-   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 283,
-   "description": "Cerrado",
-   "from": "Caletera Acceso Sur",
-   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265360804013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 124,
+   "length_m": 199,
+   "description": "Tráfico parado",
+   "from": "Calle San Pedro",
+   "to": "Avenida Sargento Menadier",
    "road_numbers": [],
-   "start": "2025-10-02T20:56:30Z",
-   "end": null,
+   "start": "2026-11-25T13:36:15Z",
+   "end": "2026-11-25T13:58:15Z",
    "last_report": null,
-   "probability": "probable",
+   "probability": "certain",
    "relation": "ruta",
-   "dist_m": 0,
+   "dist_m": 7,
    "route": "ASS",
-   "km": 4.26,
-   "km_from": 4.21,
-   "km_to": 4.27,
-   "sector": "Gabriela",
-   "lat": -33.5701,
-   "lon": -70.61279,
+   "km": 9.91,
+   "km_from": 9.86,
+   "km_to": 9.93,
+   "sector": "Sargento Menadier",
+   "lat": -33.61939,
+   "lon": -70.59913,
    "geometry": [
     [
-     -33.56971,
-     -70.61325
+     -33.61898,
+     -70.59942
     ],
     [
-     -33.56974,
-     -70.61352
+     -33.619,
+     -70.59963
     ],
     [
-     -33.56978,
-     -70.61364
+     -33.61902,
+     -70.59978
     ],
     [
-     -33.56984,
-     -70.61369
+     -33.61903,
+     -70.59982
     ],
     [
-     -33.56992,
-     -70.6137
+     -33.61904,
+     -70.59985
     ],
     [
-     -33.56999,
-     -70.61369
+     -33.61906,
+     -70.5999
     ],
     [
-     -33.57004,
-     -70.61365
+     -33.61909,
+     -70.59993
     ],
     [
-     -33.57008,
-     -70.61359
+     -33.61914,
+     -70.59996
     ],
     [
-     -33.5701,
-     -70.61348
+     -33.61921,
+     -70.59997
     ],
     [
-     -33.57011,
-     -70.61334
+     -33.61929,
+     -70.59995
     ],
     [
-     -33.5701,
-     -70.61296
+     -33.6193,
+     -70.59994
     ],
     [
-     -33.5701,
-     -70.61279
+     -33.61931,
+     -70.59993
     ],
     [
-     -33.57009,
-     -70.61264
+     -33.61933,
+     -70.59989
     ],
     [
-     -33.57009,
-     -70.61248
+     -33.61935,
+     -70.59981
     ],
     [
-     -33.57009,
-     -70.6124
+     -33.61937,
+     -70.59975
     ],
     [
-     -33.57008,
-     -70.61203
+     -33.61938,
+     -70.59967
     ],
     [
-     -33.57007,
-     -70.61158
+     -33.61938,
+     -70.59949
     ],
     [
-     -33.57007,
-     -70.61136
+     -33.61938,
+     -70.59935
+    ],
+    [
+     -33.61939,
+     -70.59913
+    ],
+    [
+     -33.61938,
+     -70.59894
+    ],
+    [
+     -33.61936,
+     -70.59876
+    ],
+    [
+     -33.61947,
+     -70.59873
     ]
    ],
-   "severity": "baja",
+   "severity": "alta",
    "related_works": []
   },
   {
@@ -281,6 +369,109 @@
    "related_works": []
   },
   {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 283,
+   "description": "Cerrado",
+   "from": "Caletera Acceso Sur",
+   "to": "Avenida Cuatro Orienta / Calle Canal Troncal San Francisco",
+   "road_numbers": [],
+   "start": "2025-10-02T20:56:30Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "ruta",
+   "dist_m": 0,
+   "route": "ASS",
+   "km": 4.26,
+   "km_from": 4.21,
+   "km_to": 4.27,
+   "sector": "Gabriela",
+   "lat": -33.5701,
+   "lon": -70.61279,
+   "geometry": [
+    [
+     -33.56971,
+     -70.61325
+    ],
+    [
+     -33.56974,
+     -70.61352
+    ],
+    [
+     -33.56978,
+     -70.61364
+    ],
+    [
+     -33.56984,
+     -70.61369
+    ],
+    [
+     -33.56992,
+     -70.6137
+    ],
+    [
+     -33.56999,
+     -70.61369
+    ],
+    [
+     -33.57004,
+     -70.61365
+    ],
+    [
+     -33.57008,
+     -70.61359
+    ],
+    [
+     -33.5701,
+     -70.61348
+    ],
+    [
+     -33.57011,
+     -70.61334
+    ],
+    [
+     -33.5701,
+     -70.61296
+    ],
+    [
+     -33.5701,
+     -70.61279
+    ],
+    [
+     -33.57009,
+     -70.61264
+    ],
+    [
+     -33.57009,
+     -70.61248
+    ],
+    [
+     -33.57009,
+     -70.6124
+    ],
+    [
+     -33.57008,
+     -70.61203
+    ],
+    [
+     -33.57007,
+     -70.61158
+    ],
+    [
+     -33.57007,
+     -70.61136
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -314,6 +505,67 @@
     [
      -33.56835,
      -70.60881
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336804028001",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 105,
+   "length_m": 533,
+   "description": "Tráfico lento",
+   "from": "Calle Balmaceda",
+   "to": "Calle Balmaceda / Avenida San Martín",
+   "road_numbers": [
+    "G-48"
+   ],
+   "start": "2026-11-25T13:36:48Z",
+   "end": "2026-11-25T13:58:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 143,
+   "route": "R5",
+   "km": 34.06,
+   "km_from": 34.06,
+   "km_to": 34.09,
+   "sector": "Buin",
+   "lat": -33.73334,
+   "lon": -70.73564,
+   "geometry": [
+    [
+     -33.73264,
+     -70.74134
+    ],
+    [
+     -33.7328,
+     -70.73997
+    ],
+    [
+     -33.73288,
+     -70.73922
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ],
+    [
+     -33.73315,
+     -70.73723
+    ],
+    [
+     -33.73319,
+     -70.73689
+    ],
+    [
+     -33.73334,
+     -70.73564
     ]
    ],
    "severity": "baja",
