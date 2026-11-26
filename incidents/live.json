@@ -1,10 +1,77 @@
 {
- "generated_at": "2026-11-26T01:33:11-03:00",
+ "generated_at": "2026-11-26T11:18:56-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 66,
+ "corridor_total": 107,
  "errors": [],
  "incidents": [
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475436013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 224,
+   "length_m": 295,
+   "description": "Tráfico parado",
+   "from": "Calle Cerro Esmeralda",
+   "to": "Avenida Sargento Menadier",
+   "road_numbers": [],
+   "start": "2026-11-26T14:07:45Z",
+   "end": "2026-11-26T14:38:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 38,
+   "route": "ASS",
+   "km": 10.0,
+   "km_from": 9.98,
+   "km_to": 10.27,
+   "sector": "Sargento Menadier",
+   "lat": -33.62011,
+   "lon": -70.59859,
+   "geometry": [
+    [
+     -33.62253,
+     -70.59804
+    ],
+    [
+     -33.62216,
+     -70.59814
+    ],
+    [
+     -33.62146,
+     -70.59832
+    ],
+    [
+     -33.62138,
+     -70.59834
+    ],
+    [
+     -33.62108,
+     -70.5984
+    ],
+    [
+     -33.6207,
+     -70.59847
+    ],
+    [
+     -33.62034,
+     -70.59855
+    ],
+    [
+     -33.62011,
+     -70.59859
+    ],
+    [
+     -33.61993,
+     -70.59862
+    ]
+   ],
+   "severity": "alta",
+   "related_works": []
+  },
   {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903624030000",
    "category": 8,
@@ -259,57 +326,6 @@
    "related_works": []
   },
   {
-   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 121,
-   "description": "Cerrado",
-   "from": "Calle Presidente Federico Errázuriz",
-   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
-   "road_numbers": [],
-   "start": "2026-09-29T17:24:00Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 252,
-   "route": "R5",
-   "km": 34.83,
-   "km_from": 34.83,
-   "km_to": 34.86,
-   "sector": "Buin",
-   "lat": -33.73952,
-   "lon": -70.73978,
-   "geometry": [
-    [
-     -33.73941,
-     -70.74109
-    ],
-    [
-     -33.73945,
-     -70.74068
-    ],
-    [
-     -33.73946,
-     -70.7405
-    ],
-    [
-     -33.7395,
-     -70.74
-    ],
-    [
-     -33.73952,
-     -70.73978
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -355,6 +371,57 @@
     [
      -33.73941,
      -70.74109
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Presidente Federico Errázuriz",
+   "to": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "road_numbers": [],
+   "start": "2026-09-29T17:24:00Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73941,
+     -70.74109
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73952,
+     -70.73978
     ]
    ],
    "severity": "baja",

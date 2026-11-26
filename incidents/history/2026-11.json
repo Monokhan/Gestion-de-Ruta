@@ -60606,7 +60606,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-26T01:33:11-03:00",
+   "last_seen": "2026-11-26T11:18:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000": {
@@ -60713,7 +60713,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-26T01:33:11-03:00",
+   "last_seen": "2026-11-26T11:18:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888009000": {
@@ -60954,7 +60954,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-26T01:33:11-03:00",
+   "last_seen": "2026-11-26T11:18:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000": {
@@ -61009,7 +61009,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-26T01:33:11-03:00",
+   "last_seen": "2026-11-26T11:18:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000": {
@@ -61064,7 +61064,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-26T01:33:11-03:00",
+   "last_seen": "2026-11-26T11:18:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29282675036017000": {
@@ -65948,6 +65948,77 @@
    "last_seen": "2026-11-25T19:43:44-03:00",
    "active": false,
    "cleared_at": "2026-11-26T01:33:11-03:00"
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475436013000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475436013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 224,
+   "length_m": 295,
+   "description": "Tráfico parado",
+   "from": "Calle Cerro Esmeralda",
+   "to": "Avenida Sargento Menadier",
+   "road_numbers": [],
+   "start": "2026-11-26T14:07:45Z",
+   "end": "2026-11-26T14:38:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 38,
+   "route": "ASS",
+   "km": 10.0,
+   "km_from": 9.98,
+   "km_to": 10.27,
+   "sector": "Sargento Menadier",
+   "lat": -33.62011,
+   "lon": -70.59859,
+   "geometry": [
+    [
+     -33.62253,
+     -70.59804
+    ],
+    [
+     -33.62216,
+     -70.59814
+    ],
+    [
+     -33.62146,
+     -70.59832
+    ],
+    [
+     -33.62138,
+     -70.59834
+    ],
+    [
+     -33.62108,
+     -70.5984
+    ],
+    [
+     -33.6207,
+     -70.59847
+    ],
+    [
+     -33.62034,
+     -70.59855
+    ],
+    [
+     -33.62011,
+     -70.59859
+    ],
+    [
+     -33.61993,
+     -70.59862
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-26T11:18:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-26T11:18:56-03:00",
+   "active": true
   }
  }
 }
