@@ -1,75 +1,404 @@
 {
- "generated_at": "2026-11-26T11:18:56-03:00",
+ "generated_at": "2026-11-26T20:03:02-03:00",
  "source": "TomTom Incident Details v5",
  "requests": 2,
- "corridor_total": 107,
+ "corridor_total": 109,
  "errors": [],
  "incidents": [
   {
-   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29262475436013000",
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29282674956009000",
    "category": 6,
    "category_name": "Congestión",
    "icon": "🚗",
    "magnitude": 3,
    "magnitude_name": "mayor",
-   "delay_s": 224,
-   "length_m": 295,
+   "delay_s": 442,
+   "length_m": 3288,
    "description": "Tráfico parado",
-   "from": "Calle Cerro Esmeralda",
-   "to": "Avenida Sargento Menadier",
-   "road_numbers": [],
-   "start": "2026-11-26T14:07:45Z",
-   "end": "2026-11-26T14:38:45Z",
+   "from": "Autopista Américo Vespucio / Autopista Vespucio Sur Express",
+   "to": "La Pintana",
+   "road_numbers": [
+    "79"
+   ],
+   "start": "2026-11-26T21:44:15Z",
+   "end": "2026-11-26T23:29:45Z",
    "last_report": null,
    "probability": "certain",
    "relation": "ruta",
-   "dist_m": 38,
+   "dist_m": 0,
    "route": "ASS",
-   "km": 10.0,
-   "km_from": 9.98,
-   "km_to": 10.27,
-   "sector": "Sargento Menadier",
-   "lat": -33.62011,
-   "lon": -70.59859,
+   "km": 1.54,
+   "km_from": 1.03,
+   "km_to": 4.26,
+   "sector": "Túnel Acceso Sur",
+   "lat": -33.54622,
+   "lon": -70.61884,
    "geometry": [
     [
-     -33.62253,
-     -70.59804
+     -33.54222,
+     -70.62185
     ],
     [
-     -33.62216,
-     -70.59814
+     -33.5422,
+     -70.62152
     ],
     [
-     -33.62146,
-     -70.59832
+     -33.54224,
+     -70.62131
     ],
     [
-     -33.62138,
-     -70.59834
+     -33.5423,
+     -70.62113
     ],
     [
-     -33.62108,
-     -70.5984
+     -33.54238,
+     -70.62097
     ],
     [
-     -33.6207,
-     -70.59847
+     -33.54251,
+     -70.62077
     ],
     [
-     -33.62034,
-     -70.59855
+     -33.54271,
+     -70.62056
     ],
     [
-     -33.62011,
-     -70.59859
+     -33.54315,
+     -70.62024
     ],
     [
-     -33.61993,
-     -70.59862
+     -33.54367,
+     -70.61993
+    ],
+    [
+     -33.5451,
+     -70.61929
+    ],
+    [
+     -33.54536,
+     -70.61915
+    ],
+    [
+     -33.54581,
+     -70.61899
+    ],
+    [
+     -33.54628,
+     -70.61879
+    ],
+    [
+     -33.54651,
+     -70.61865
+    ],
+    [
+     -33.5468,
+     -70.61856
+    ],
+    [
+     -33.54738,
+     -70.61848
+    ],
+    [
+     -33.54786,
+     -70.61846
+    ],
+    [
+     -33.54823,
+     -70.61843
+    ],
+    [
+     -33.54845,
+     -70.61841
+    ],
+    [
+     -33.5489,
+     -70.61835
+    ],
+    [
+     -33.5493,
+     -70.61827
+    ],
+    [
+     -33.5502,
+     -70.61804
+    ],
+    [
+     -33.55078,
+     -70.61787
+    ],
+    [
+     -33.5514,
+     -70.6177
+    ],
+    [
+     -33.55273,
+     -70.61734
+    ],
+    [
+     -33.55329,
+     -70.61718
+    ],
+    [
+     -33.55406,
+     -70.61697
+    ],
+    [
+     -33.55492,
+     -70.61673
+    ],
+    [
+     -33.55626,
+     -70.61637
+    ],
+    [
+     -33.55656,
+     -70.61629
+    ],
+    [
+     -33.55755,
+     -70.61606
+    ],
+    [
+     -33.55835,
+     -70.61585
+    ],
+    [
+     -33.55916,
+     -70.61561
+    ],
+    [
+     -33.55978,
+     -70.61542
+    ],
+    [
+     -33.56109,
+     -70.61501
+    ],
+    [
+     -33.56279,
+     -70.61446
+    ],
+    [
+     -33.56407,
+     -70.61403
+    ],
+    [
+     -33.56631,
+     -70.61339
+    ],
+    [
+     -33.56778,
+     -70.61313
+    ],
+    [
+     -33.57014,
+     -70.61278
     ]
    ],
    "severity": "alta",
+   "related_works": []
+  },
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29178794540020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 76,
+   "length_m": 172,
+   "description": "Tráfico parado",
+   "from": "Calle Caletera Ruta 5 Sur",
+   "to": "Calle Camino La Cervera",
+   "road_numbers": [],
+   "start": "2026-11-26T22:53:45Z",
+   "end": "2026-11-26T23:21:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 15,
+   "route": "R5",
+   "km": 37.02,
+   "km_from": 37.02,
+   "km_to": 37.13,
+   "sector": "Linderos",
+   "lat": -33.7596,
+   "lon": -70.74161,
+   "geometry": [
+    [
+     -33.7596,
+     -70.74161
+    ],
+    [
+     -33.75966,
+     -70.74166
+    ],
+    [
+     -33.7598,
+     -70.7418
+    ],
+    [
+     -33.7599,
+     -70.74194
+    ],
+    [
+     -33.76034,
+     -70.74262
+    ],
+    [
+     -33.76036,
+     -70.74265
+    ],
+    [
+     -33.76042,
+     -70.74288
+    ],
+    [
+     -33.76045,
+     -70.74297
+    ],
+    [
+     -33.76047,
+     -70.74309
+    ]
+   ],
+   "severity": "alta",
+   "related_works": []
+  },
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28627649696020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 194,
+   "length_m": 400,
+   "description": "Tráfico parado",
+   "from": "Calle Alberto Orrego Luco",
+   "to": "Calle Las Heras Sur",
+   "road_numbers": [
+    "J-615"
+   ],
+   "start": "2026-11-26T22:48:45Z",
+   "end": "2026-11-26T23:26:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 24,
+   "route": "R5",
+   "km": 189.81,
+   "km_from": 189.81,
+   "km_to": 189.81,
+   "sector": "Curicó",
+   "lat": -34.98373,
+   "lon": -71.21593,
+   "geometry": [
+    [
+     -34.98658,
+     -71.21326
+    ],
+    [
+     -34.9865,
+     -71.21334
+    ],
+    [
+     -34.98643,
+     -71.21341
+    ],
+    [
+     -34.9862,
+     -71.21362
+    ],
+    [
+     -34.98618,
+     -71.21364
+    ],
+    [
+     -34.98608,
+     -71.21373
+    ],
+    [
+     -34.98602,
+     -71.2138
+    ],
+    [
+     -34.98586,
+     -71.21394
+    ],
+    [
+     -34.98548,
+     -71.21428
+    ],
+    [
+     -34.98515,
+     -71.2146
+    ],
+    [
+     -34.98417,
+     -71.21552
+    ],
+    [
+     -34.984,
+     -71.21568
+    ],
+    [
+     -34.98389,
+     -71.21578
+    ],
+    [
+     -34.98373,
+     -71.21593
+    ]
+   ],
+   "severity": "alta",
+   "related_works": []
+  },
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336844014000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 205,
+   "length_m": 241,
+   "description": "Tráfico parado",
+   "from": "Calle El Maquinista",
+   "to": "Calle Bernardino Bravo",
+   "road_numbers": [],
+   "start": "2026-11-26T22:47:15Z",
+   "end": "2026-11-26T23:21:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 342,
+   "route": "R5",
+   "km": 33.58,
+   "km_from": 33.58,
+   "km_to": 33.82,
+   "sector": "Buin",
+   "lat": -33.73106,
+   "lon": -70.72885,
+   "geometry": [
+    [
+     -33.73106,
+     -70.72885
+    ],
+    [
+     -33.73212,
+     -70.7291
+    ],
+    [
+     -33.73237,
+     -70.72916
+    ],
+    [
+     -33.73319,
+     -70.72933
+    ]
+   ],
+   "severity": "media",
    "related_works": []
   },
   {
@@ -326,57 +655,6 @@
    "related_works": []
   },
   {
-   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000",
-   "category": 8,
-   "category_name": "Vía cerrada",
-   "icon": "⛔",
-   "magnitude": 4,
-   "magnitude_name": "indefinida",
-   "delay_s": null,
-   "length_m": 121,
-   "description": "Cerrado",
-   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
-   "to": "Calle Presidente Federico Errázuriz",
-   "road_numbers": [],
-   "start": "2026-09-29T23:20:30Z",
-   "end": null,
-   "last_report": null,
-   "probability": "probable",
-   "relation": "entorno",
-   "dist_m": 252,
-   "route": "R5",
-   "km": 34.83,
-   "km_from": 34.83,
-   "km_to": 34.86,
-   "sector": "Buin",
-   "lat": -33.73952,
-   "lon": -70.73978,
-   "geometry": [
-    [
-     -33.73952,
-     -70.73978
-    ],
-    [
-     -33.7395,
-     -70.74
-    ],
-    [
-     -33.73946,
-     -70.7405
-    ],
-    [
-     -33.73945,
-     -70.74068
-    ],
-    [
-     -33.73941,
-     -70.74109
-    ]
-   ],
-   "severity": "baja",
-   "related_works": []
-  },
-  {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000",
    "category": 8,
    "category_name": "Vía cerrada",
@@ -422,6 +700,57 @@
     [
      -33.73952,
      -70.73978
+    ]
+   ],
+   "severity": "baja",
+   "related_works": []
+  },
+  {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000",
+   "category": 8,
+   "category_name": "Vía cerrada",
+   "icon": "⛔",
+   "magnitude": 4,
+   "magnitude_name": "indefinida",
+   "delay_s": null,
+   "length_m": 121,
+   "description": "Cerrado",
+   "from": "Calle Aníbal Pinto / Calle Juan Ramón Hoppe",
+   "to": "Calle Presidente Federico Errázuriz",
+   "road_numbers": [],
+   "start": "2026-09-29T23:20:30Z",
+   "end": null,
+   "last_report": null,
+   "probability": "probable",
+   "relation": "entorno",
+   "dist_m": 252,
+   "route": "R5",
+   "km": 34.83,
+   "km_from": 34.83,
+   "km_to": 34.86,
+   "sector": "Buin",
+   "lat": -33.73952,
+   "lon": -70.73978,
+   "geometry": [
+    [
+     -33.73952,
+     -70.73978
+    ],
+    [
+     -33.7395,
+     -70.74
+    ],
+    [
+     -33.73946,
+     -70.7405
+    ],
+    [
+     -33.73945,
+     -70.74068
+    ],
+    [
+     -33.73941,
+     -70.74109
     ]
    ],
    "severity": "baja",
