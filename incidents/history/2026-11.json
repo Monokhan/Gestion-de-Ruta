@@ -60606,7 +60606,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-27T02:03:44-03:00",
+   "last_seen": "2026-11-27T12:05:36-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000": {
@@ -60713,7 +60713,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-27T02:03:44-03:00",
+   "last_seen": "2026-11-27T12:05:36-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888009000": {
@@ -60954,7 +60954,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-27T02:03:44-03:00",
+   "last_seen": "2026-11-27T12:05:36-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000": {
@@ -61009,7 +61009,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-27T02:03:44-03:00",
+   "last_seen": "2026-11-27T12:05:36-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000": {
@@ -61064,7 +61064,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-27T02:03:44-03:00",
+   "last_seen": "2026-11-27T12:05:36-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29282675036017000": {
@@ -66560,7 +66560,8 @@
    "first_seen": "2026-11-27T02:03:44-03:00",
    "notified": false,
    "last_seen": "2026-11-27T02:03:44-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-27T12:05:36-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888033000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888033000",
@@ -66745,7 +66746,8 @@
    "first_seen": "2026-11-27T02:03:44-03:00",
    "notified": false,
    "last_seen": "2026-11-27T02:03:44-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-27T12:05:36-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28893121420017001": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28893121420017001",
@@ -66942,6 +66944,450 @@
    "first_seen": "2026-11-27T02:03:44-03:00",
    "notified": false,
    "last_seen": "2026-11-27T02:03:44-03:00",
+   "active": false,
+   "cleared_at": "2026-11-27T12:05:36-03:00"
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265361016013000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265361016013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 175,
+   "length_m": 166,
+   "description": "Tráfico parado",
+   "from": "Puente Alto",
+   "to": "Caletera Acceso Sur",
+   "road_numbers": [],
+   "start": "2026-11-27T14:49:15Z",
+   "end": "2026-11-27T15:24:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 45,
+   "route": "ASS",
+   "km": 9.46,
+   "km_from": 9.46,
+   "km_to": 9.5,
+   "sector": "Sargento Menadier",
+   "lat": -33.61528,
+   "lon": -70.59993,
+   "geometry": [
+    [
+     -33.61504,
+     -70.59817
+    ],
+    [
+     -33.61506,
+     -70.59845
+    ],
+    [
+     -33.61513,
+     -70.59888
+    ],
+    [
+     -33.61515,
+     -70.599
+    ],
+    [
+     -33.61528,
+     -70.59993
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-27T12:05:36-03:00",
+   "notified": false,
+   "last_seen": "2026-11-27T12:05:36-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265360804005000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29265360804005000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 146,
+   "length_m": 176,
+   "description": "Tráfico parado",
+   "from": "Calle San Pedro",
+   "to": "Avenida Cuatro Oriente / Calle Arco Iris",
+   "road_numbers": [],
+   "start": "2026-11-27T14:50:15Z",
+   "end": "2026-11-27T15:24:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 9,
+   "route": "ASS",
+   "km": 9.86,
+   "km_from": 9.86,
+   "km_to": 9.91,
+   "sector": "Sargento Menadier",
+   "lat": -33.61898,
+   "lon": -70.59942,
+   "geometry": [
+    [
+     -33.61938,
+     -70.59935
+    ],
+    [
+     -33.61913,
+     -70.59939
+    ],
+    [
+     -33.61898,
+     -70.59942
+    ],
+    [
+     -33.619,
+     -70.59963
+    ],
+    [
+     -33.61902,
+     -70.59978
+    ],
+    [
+     -33.61903,
+     -70.59982
+    ],
+    [
+     -33.61904,
+     -70.59985
+    ],
+    [
+     -33.61906,
+     -70.5999
+    ],
+    [
+     -33.61909,
+     -70.59993
+    ],
+    [
+     -33.61914,
+     -70.59996
+    ],
+    [
+     -33.61921,
+     -70.59997
+    ],
+    [
+     -33.61929,
+     -70.59995
+    ],
+    [
+     -33.6193,
+     -70.59994
+    ],
+    [
+     -33.61931,
+     -70.59993
+    ],
+    [
+     -33.61933,
+     -70.59989
+    ],
+    [
+     -33.61935,
+     -70.59981
+    ],
+    [
+     -33.61937,
+     -70.59975
+    ],
+    [
+     -33.61938,
+     -70.59967
+    ],
+    [
+     -33.61938,
+     -70.59949
+    ],
+    [
+     -33.61938,
+     -70.59935
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-27T12:05:36-03:00",
+   "notified": false,
+   "last_seen": "2026-11-27T12:05:36-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28670932948057000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28670932948057000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 178,
+   "length_m": 1448,
+   "description": "Tráfico parado",
+   "from": "J-515",
+   "to": "Teno",
+   "road_numbers": [
+    "5"
+   ],
+   "start": "2026-11-27T14:53:45Z",
+   "end": "2026-11-27T15:24:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 14,
+   "route": "R5",
+   "km": 180.04,
+   "km_from": 179.16,
+   "km_to": 180.6,
+   "sector": "Romeral",
+   "lat": -34.91044,
+   "lon": -71.1603,
+   "geometry": [
+    [
+     -34.91543,
+     -71.1612
+    ],
+    [
+     -34.91365,
+     -71.16089
+    ],
+    [
+     -34.91312,
+     -71.16079
+    ],
+    [
+     -34.91279,
+     -71.16073
+    ],
+    [
+     -34.91269,
+     -71.16071
+    ],
+    [
+     -34.91261,
+     -71.16069
+    ],
+    [
+     -34.91254,
+     -71.16068
+    ],
+    [
+     -34.91098,
+     -71.16039
+    ],
+    [
+     -34.91044,
+     -71.1603
+    ],
+    [
+     -34.90989,
+     -71.1602
+    ],
+    [
+     -34.90961,
+     -71.16015
+    ],
+    [
+     -34.90949,
+     -71.16013
+    ],
+    [
+     -34.90932,
+     -71.1601
+    ],
+    [
+     -34.90902,
+     -71.16004
+    ],
+    [
+     -34.90875,
+     -71.15999
+    ],
+    [
+     -34.90837,
+     -71.15991
+    ],
+    [
+     -34.90563,
+     -71.15944
+    ],
+    [
+     -34.90547,
+     -71.15941
+    ],
+    [
+     -34.9052,
+     -71.15934
+    ],
+    [
+     -34.9047,
+     -71.15927
+    ],
+    [
+     -34.90418,
+     -71.15916
+    ],
+    [
+     -34.90349,
+     -71.15903
+    ],
+    [
+     -34.90335,
+     -71.159
+    ],
+    [
+     -34.90302,
+     -71.15894
+    ],
+    [
+     -34.90257,
+     -71.15886
+    ],
+    [
+     -34.90255,
+     -71.15885
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-27T12:05:36-03:00",
+   "notified": false,
+   "last_seen": "2026-11-27T12:05:36-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29276903768020000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29276903768020000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 204,
+   "length_m": 165,
+   "description": "Tráfico parado",
+   "from": "Calle Las Parcelas",
+   "to": "Calle Pablo Neruda",
+   "road_numbers": [],
+   "start": "2026-11-27T14:59:45Z",
+   "end": "2026-11-27T15:24:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 374,
+   "route": "ASS",
+   "km": 3.25,
+   "km_from": 3.25,
+   "km_to": 3.25,
+   "sector": "Gabriela",
+   "lat": -33.56208,
+   "lon": -70.61887,
+   "geometry": [
+    [
+     -33.56208,
+     -70.61887
+    ],
+    [
+     -33.56234,
+     -70.62062
+    ]
+   ],
+   "severity": "media",
+   "related_works": [],
+   "first_seen": "2026-11-27T12:05:36-03:00",
+   "notified": false,
+   "last_seen": "2026-11-27T12:05:36-03:00",
+   "active": true
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29187451336052000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29187451336052000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 1,
+   "magnitude_name": "menor",
+   "delay_s": 180,
+   "length_m": 915,
+   "description": "Tráfico lento",
+   "from": "Calle Prieto",
+   "to": "Calle Bernardino Bravo / Avenida San Martín",
+   "road_numbers": [
+    "G-48"
+   ],
+   "start": "2026-11-27T14:13:15Z",
+   "end": "2026-11-27T15:33:15Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "entorno",
+   "dist_m": 143,
+   "route": "R5",
+   "km": 34.06,
+   "km_from": 34.06,
+   "km_to": 34.09,
+   "sector": "Buin",
+   "lat": -33.73334,
+   "lon": -70.73564,
+   "geometry": [
+    [
+     -33.73216,
+     -70.74544
+    ],
+    [
+     -33.73233,
+     -70.74408
+    ],
+    [
+     -33.73247,
+     -70.7427
+    ],
+    [
+     -33.7325,
+     -70.74247
+    ],
+    [
+     -33.73258,
+     -70.74183
+    ],
+    [
+     -33.73261,
+     -70.74163
+    ],
+    [
+     -33.73264,
+     -70.74134
+    ],
+    [
+     -33.7328,
+     -70.73997
+    ],
+    [
+     -33.73288,
+     -70.73922
+    ],
+    [
+     -33.73294,
+     -70.73858
+    ],
+    [
+     -33.73315,
+     -70.73723
+    ],
+    [
+     -33.73319,
+     -70.73689
+    ],
+    [
+     -33.73334,
+     -70.73564
+    ]
+   ],
+   "severity": "baja",
+   "related_works": [],
+   "first_seen": "2026-11-27T12:05:36-03:00",
+   "notified": false,
+   "last_seen": "2026-11-27T12:05:36-03:00",
    "active": true
   }
  }
