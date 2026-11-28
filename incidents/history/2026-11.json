@@ -60606,7 +60606,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-28T01:55:50-03:00",
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29276903556030000": {
@@ -60713,7 +60713,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-28T01:55:50-03:00",
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29115310888009000": {
@@ -60954,7 +60954,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-28T01:55:50-03:00",
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565720014000": {
@@ -61009,7 +61009,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-28T01:55:50-03:00",
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTR29184565792014000": {
@@ -61064,7 +61064,7 @@
    "related_works": [],
    "first_seen": "2026-11-23T21:28:56-03:00",
    "notified": false,
-   "last_seen": "2026-11-28T01:55:50-03:00",
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29282675036017000": {
@@ -67869,7 +67869,7 @@
    "related_works": [],
    "first_seen": "2026-11-27T20:28:00-03:00",
    "notified": false,
-   "last_seen": "2026-11-28T01:55:50-03:00",
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29201879020168000": {
@@ -68431,7 +68431,8 @@
    "first_seen": "2026-11-28T01:55:50-03:00",
    "notified": false,
    "last_seen": "2026-11-28T01:55:50-03:00",
-   "active": true
+   "active": false,
+   "cleared_at": "2026-11-28T10:44:56-03:00"
   },
   "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28997001948041000": {
    "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL28997001948041000",
@@ -68628,6 +68629,82 @@
    "first_seen": "2026-11-28T01:55:50-03:00",
    "notified": false,
    "last_seen": "2026-11-28T01:55:50-03:00",
+   "active": false,
+   "cleared_at": "2026-11-28T10:44:56-03:00"
+  },
+  "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336768013000": {
+   "id": "TTI-b6af0dc0-690c-4ad4-bc15-f1c77b3e6361-TTL29190336768013000",
+   "category": 6,
+   "category_name": "Congestión",
+   "icon": "🚗",
+   "magnitude": 3,
+   "magnitude_name": "mayor",
+   "delay_s": 282,
+   "length_m": 346,
+   "description": "Tráfico parado",
+   "from": "Calle Santa Maria",
+   "to": "Calle Balmaceda / Calle Bernardino Bravo",
+   "road_numbers": [],
+   "start": "2026-11-28T13:36:15Z",
+   "end": "2026-11-28T14:06:45Z",
+   "last_report": null,
+   "probability": "certain",
+   "relation": "ruta",
+   "dist_m": 45,
+   "route": "R5",
+   "km": 34.28,
+   "km_from": 34.06,
+   "km_to": 34.32,
+   "sector": "Buin",
+   "lat": -33.73556,
+   "lon": -70.73558,
+   "geometry": [
+    [
+     -33.73555,
+     -70.73662
+    ],
+    [
+     -33.73564,
+     -70.73573
+    ],
+    [
+     -33.73562,
+     -70.73564
+    ],
+    [
+     -33.73556,
+     -70.73558
+    ],
+    [
+     -33.73549,
+     -70.73558
+    ],
+    [
+     -33.73538,
+     -70.73553
+    ],
+    [
+     -33.73449,
+     -70.73554
+    ],
+    [
+     -33.73383,
+     -70.73553
+    ],
+    [
+     -33.73369,
+     -70.73553
+    ],
+    [
+     -33.73335,
+     -70.73552
+    ]
+   ],
+   "severity": "alta",
+   "related_works": [],
+   "first_seen": "2026-11-28T10:44:56-03:00",
+   "notified": false,
+   "last_seen": "2026-11-28T10:44:56-03:00",
    "active": true
   }
  }
